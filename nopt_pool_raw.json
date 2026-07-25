@@ -1,0 +1,1697 @@
+[
+ {
+  "name": "Princeton",
+  "state": "NJ",
+  "division": "D1"
+ },
+ {
+  "name": "Notre Dame",
+  "state": "IN",
+  "division": "D1"
+ },
+ {
+  "name": "Penn State",
+  "state": "PA",
+  "division": "D1"
+ },
+ {
+  "name": "Richmond",
+  "state": "VA",
+  "division": "D1"
+ },
+ {
+  "name": "Virginia",
+  "state": "VA",
+  "division": "D1"
+ },
+ {
+  "name": "Syracuse",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Maryland",
+  "state": "MD",
+  "division": "D1"
+ },
+ {
+  "name": "Cornell",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Georgetown",
+  "state": "DC",
+  "division": "D1"
+ },
+ {
+  "name": "Army West Point",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Johns Hopkins",
+  "state": "MD",
+  "division": "D1"
+ },
+ {
+  "name": "Yale",
+  "state": "CT",
+  "division": "D1"
+ },
+ {
+  "name": "Harvard",
+  "state": "MA",
+  "division": "D1"
+ },
+ {
+  "name": "Jacksonville",
+  "state": "FL",
+  "division": "D1"
+ },
+ {
+  "name": "Denver",
+  "state": "CO",
+  "division": "D1"
+ },
+ {
+  "name": "Penn",
+  "state": "PA",
+  "division": "D1"
+ },
+ {
+  "name": "Towson",
+  "state": "MD",
+  "division": "D1"
+ },
+ {
+  "name": "Michigan",
+  "state": "MI",
+  "division": "D1"
+ },
+ {
+  "name": "Lehigh",
+  "state": "PA",
+  "division": "D1"
+ },
+ {
+  "name": "Loyola (MD)",
+  "state": "MD",
+  "division": "D1"
+ },
+ {
+  "name": "Villanova",
+  "state": "PA",
+  "division": "D1"
+ },
+ {
+  "name": "Navy",
+  "state": "MD",
+  "division": "D1"
+ },
+ {
+  "name": "Brown",
+  "state": "RI",
+  "division": "D1"
+ },
+ {
+  "name": "Dartmouth",
+  "state": "NH",
+  "division": "D1"
+ },
+ {
+  "name": "Providence",
+  "state": "RI",
+  "division": "D1"
+ },
+ {
+  "name": "Colgate",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Massachusetts",
+  "state": "MA",
+  "division": "D1"
+ },
+ {
+  "name": "Albany",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Bucknell",
+  "state": "PA",
+  "division": "D1"
+ },
+ {
+  "name": "Air Force",
+  "state": "CO",
+  "division": "D1"
+ },
+ {
+  "name": "Lafayette",
+  "state": "PA",
+  "division": "D1"
+ },
+ {
+  "name": "Robert Morris",
+  "state": "PA",
+  "division": "D1"
+ },
+ {
+  "name": "Fairfield",
+  "state": "CT",
+  "division": "D1"
+ },
+ {
+  "name": "Holy Cross (MA)",
+  "state": "MA",
+  "division": "D1"
+ },
+ {
+  "name": "Siena",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "UMBC",
+  "state": "MD",
+  "division": "D1"
+ },
+ {
+  "name": "Hofstra",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Monmouth",
+  "state": "NJ",
+  "division": "D1"
+ },
+ {
+  "name": "Bryant",
+  "state": "RI",
+  "division": "D1"
+ },
+ {
+  "name": "Hobart",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "St Johns (NY)",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "NJIT",
+  "state": "NJ",
+  "division": "D1"
+ },
+ {
+  "name": "Merrimack",
+  "state": "MA",
+  "division": "D1"
+ },
+ {
+  "name": "Cleveland State",
+  "state": "OH",
+  "division": "D1"
+ },
+ {
+  "name": "St Bonaventure",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "VMI",
+  "state": "VA",
+  "division": "D1"
+ },
+ {
+  "name": "Queens",
+  "state": "NC",
+  "division": "D1"
+ },
+ {
+  "name": "Manhattan",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Detroit Mercy",
+  "state": "MI",
+  "division": "D1"
+ },
+ {
+  "name": "Mount St Marys",
+  "state": "MD",
+  "division": "D1"
+ },
+ {
+  "name": "Canisius",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Le Moyne",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Iona",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Wagner",
+  "state": "NY",
+  "division": "D1"
+ },
+ {
+  "name": "Mercyhurst",
+  "state": "PA",
+  "division": "D1"
+ },
+ {
+  "name": "Tampa",
+  "state": "FL",
+  "division": "D2"
+ },
+ {
+  "name": "Lenoir-Rhyne",
+  "state": "NC",
+  "division": "D2"
+ },
+ {
+  "name": "Adelphi",
+  "state": "NY",
+  "division": "D2"
+ },
+ {
+  "name": "Lewis",
+  "state": "IL",
+  "division": "D2"
+ },
+ {
+  "name": "Florida Tech",
+  "state": "FL",
+  "division": "D2"
+ },
+ {
+  "name": "Newberry",
+  "state": "SC",
+  "division": "D2"
+ },
+ {
+  "name": "Rollins",
+  "state": "FL",
+  "division": "D2"
+ },
+ {
+  "name": "St Leo",
+  "state": "FL",
+  "division": "D2"
+ },
+ {
+  "name": "St Anselm",
+  "state": "NH",
+  "division": "D2"
+ },
+ {
+  "name": "Catawba",
+  "state": "NC",
+  "division": "D2"
+ },
+ {
+  "name": "Pace",
+  "state": "NY",
+  "division": "D2"
+ },
+ {
+  "name": "Westminster (UT)",
+  "state": "UT",
+  "division": "D2"
+ },
+ {
+  "name": "Embry-Riddle",
+  "state": "FL",
+  "division": "D2"
+ },
+ {
+  "name": "Belmont Abbey",
+  "state": "NC",
+  "division": "D2"
+ },
+ {
+  "name": "Molloy",
+  "state": "NY",
+  "division": "D2"
+ },
+ {
+  "name": "Flagler",
+  "state": "FL",
+  "division": "D2"
+ },
+ {
+  "name": "Montevallo",
+  "state": "AL",
+  "division": "D2"
+ },
+ {
+  "name": "Palm Beach Atlantic",
+  "state": "FL",
+  "division": "D2"
+ },
+ {
+  "name": "Assumption",
+  "state": "MA",
+  "division": "D2"
+ },
+ {
+  "name": "North Greenville",
+  "state": "SC",
+  "division": "D2"
+ },
+ {
+  "name": "Concordia-Irvine",
+  "state": "CA",
+  "division": "D2"
+ },
+ {
+  "name": "St Michaels",
+  "state": "VT",
+  "division": "D2"
+ },
+ {
+  "name": "Bentley",
+  "state": "MA",
+  "division": "D2"
+ },
+ {
+  "name": "Lander",
+  "state": "SC",
+  "division": "D2"
+ },
+ {
+  "name": "Wilmington (DE)",
+  "state": "DE",
+  "division": "D2"
+ },
+ {
+  "name": "Lees-McRae",
+  "state": "NC",
+  "division": "D2"
+ },
+ {
+  "name": "Lynn",
+  "state": "FL",
+  "division": "D2"
+ },
+ {
+  "name": "Northwood",
+  "state": "MI",
+  "division": "D2"
+ },
+ {
+  "name": "Frostburg State",
+  "state": "MD",
+  "division": "D2"
+ },
+ {
+  "name": "Southern New Hampshire",
+  "state": "NH",
+  "division": "D2"
+ },
+ {
+  "name": "Davenport",
+  "state": "MI",
+  "division": "D2"
+ },
+ {
+  "name": "Barton",
+  "state": "NC",
+  "division": "D2"
+ },
+ {
+  "name": "Chestnut Hill",
+  "state": "PA",
+  "division": "D2"
+ },
+ {
+  "name": "Coker",
+  "state": "SC",
+  "division": "D2"
+ },
+ {
+  "name": "William Jewell",
+  "state": "MO",
+  "division": "D2"
+ },
+ {
+  "name": "Roberts Wesleyan",
+  "state": "NY",
+  "division": "D2"
+ },
+ {
+  "name": "Bridgeport",
+  "state": "CT",
+  "division": "D2"
+ },
+ {
+  "name": "Mount Olive",
+  "state": "NC",
+  "division": "D2"
+ },
+ {
+  "name": "Alabama-Huntsville",
+  "state": "AL",
+  "division": "D2"
+ },
+ {
+  "name": "Tusculum",
+  "state": "TN",
+  "division": "D2"
+ },
+ {
+  "name": "Georgian Court",
+  "state": "NJ",
+  "division": "D2"
+ },
+ {
+  "name": "Post",
+  "state": "CT",
+  "division": "D2"
+ },
+ {
+  "name": "St Thomas Aquinas",
+  "state": "NY",
+  "division": "D2"
+ },
+ {
+  "name": "Holy Family",
+  "state": "PA",
+  "division": "D2"
+ },
+ {
+  "name": "Quincy",
+  "state": "IL",
+  "division": "D2"
+ },
+ {
+  "name": "Mars Hill",
+  "state": "NC",
+  "division": "D2"
+ },
+ {
+  "name": "Young Harris",
+  "state": "GA",
+  "division": "D2"
+ },
+ {
+  "name": "Northwest Nazarene",
+  "state": "ID",
+  "division": "D2"
+ },
+ {
+  "name": "Chowan",
+  "state": "NC",
+  "division": "D2"
+ },
+ {
+  "name": "Lake Erie",
+  "state": "OH",
+  "division": "D2"
+ },
+ {
+  "name": "Emmanuel (GA)",
+  "state": "GA",
+  "division": "D2"
+ },
+ {
+  "name": "Thomas More",
+  "state": "KY",
+  "division": "D2"
+ },
+ {
+  "name": "Adams State",
+  "state": "CO",
+  "division": "D2"
+ },
+ {
+  "name": "Tiffin",
+  "state": "OH",
+  "division": "D2"
+ },
+ {
+  "name": "Point Park",
+  "state": "PA",
+  "division": "D2"
+ },
+ {
+  "name": "Dominican (CA)",
+  "state": "CA",
+  "division": "D2"
+ },
+ {
+  "name": "Malone",
+  "state": "OH",
+  "division": "D2"
+ },
+ {
+  "name": "Virginia State",
+  "state": "VA",
+  "division": "D2"
+ },
+ {
+  "name": "Felician",
+  "state": "NJ",
+  "division": "D2"
+ },
+ {
+  "name": "District of Columbia",
+  "state": "DC",
+  "division": "D2"
+ },
+ {
+  "name": "Davis & Elkins",
+  "state": "WV",
+  "division": "D2"
+ },
+ {
+  "name": "Caldwell",
+  "state": "NJ",
+  "division": "D2"
+ },
+ {
+  "name": "Shorter",
+  "state": "GA",
+  "division": "D2"
+ },
+ {
+  "name": "Bowdoin",
+  "state": "ME",
+  "division": "D3"
+ },
+ {
+  "name": "RIT",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Salisbury",
+  "state": "MD",
+  "division": "D3"
+ },
+ {
+  "name": "Wesleyan",
+  "state": "CT",
+  "division": "D3"
+ },
+ {
+  "name": "Babson",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Christopher Newport",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "Bates",
+  "state": "ME",
+  "division": "D3"
+ },
+ {
+  "name": "Stevens",
+  "state": "NJ",
+  "division": "D3"
+ },
+ {
+  "name": "York",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Middlebury",
+  "state": "VT",
+  "division": "D3"
+ },
+ {
+  "name": "Amherst",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Gettysburg",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Dickinson",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Washington & Lee",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "Hamilton",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "St John Fisher",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Union",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Williams",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "St Lawrence",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Trinity",
+  "state": "CT",
+  "division": "D3"
+ },
+ {
+  "name": "Swarthmore",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Denison",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Skidmore",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Franklin & Marshall",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Colorado College",
+  "state": "CO",
+  "division": "D3"
+ },
+ {
+  "name": "Connecticut College",
+  "state": "CT",
+  "division": "D3"
+ },
+ {
+  "name": "RPI",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Colby",
+  "state": "ME",
+  "division": "D3"
+ },
+ {
+  "name": "Stevenson",
+  "state": "MD",
+  "division": "D3"
+ },
+ {
+  "name": "MIT",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Washington College",
+  "state": "MD",
+  "division": "D3"
+ },
+ {
+  "name": "Roanoke",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "Muhlenberg",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Ohio Wesleyan",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Randolph-Macon",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "Haverford",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Elmhurst",
+  "state": "IL",
+  "division": "D3"
+ },
+ {
+  "name": "Vassar",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Baldwin Wallace",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Grove City",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "St Marys (MD)",
+  "state": "MD",
+  "division": "D3"
+ },
+ {
+  "name": "Hope",
+  "state": "MI",
+  "division": "D3"
+ },
+ {
+  "name": "Kenyon",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Hampden-Sydney",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "Sewanee",
+  "state": "TN",
+  "division": "D3"
+ },
+ {
+  "name": "Rhodes",
+  "state": "TN",
+  "division": "D3"
+ },
+ {
+  "name": "Oberlin",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Catholic",
+  "state": "DC",
+  "division": "D3"
+ },
+ {
+  "name": "Ohio Northern",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Pfeiffer",
+  "state": "NC",
+  "division": "D3"
+ },
+ {
+  "name": "Elizabethtown",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Massachusetts Maritime",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Western Connecticut",
+  "state": "CT",
+  "division": "D3"
+ },
+ {
+  "name": "Ursinus",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Oneonta",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Salve Regina",
+  "state": "RI",
+  "division": "D3"
+ },
+ {
+  "name": "Wheaton",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Centre",
+  "state": "KY",
+  "division": "D3"
+ },
+ {
+  "name": "Wooster",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Mary Washington",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "Western New England",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Aurora",
+  "state": "IL",
+  "division": "D3"
+ },
+ {
+  "name": "Illinois Wesleyan",
+  "state": "IL",
+  "division": "D3"
+ },
+ {
+  "name": "Merchant Marine",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Coast Guard",
+  "state": "CT",
+  "division": "D3"
+ },
+ {
+  "name": "Massachusetts-Boston",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Potsdam",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Transylvania",
+  "state": "KY",
+  "division": "D3"
+ },
+ {
+  "name": "Montclair State",
+  "state": "NJ",
+  "division": "D3"
+ },
+ {
+  "name": "Maritime",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Eastern",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Wentworth",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Farmingdale State",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Penn College",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Southwestern",
+  "state": "TX",
+  "division": "D3"
+ },
+ {
+  "name": "Virginia Wesleyan",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "Calvin",
+  "state": "MI",
+  "division": "D3"
+ },
+ {
+  "name": "Keene State",
+  "state": "NH",
+  "division": "D3"
+ },
+ {
+  "name": "John Carroll",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Oswego",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Albion",
+  "state": "MI",
+  "division": "D3"
+ },
+ {
+  "name": "Roger Williams",
+  "state": "RI",
+  "division": "D3"
+ },
+ {
+  "name": "Lake Forest",
+  "state": "IL",
+  "division": "D3"
+ },
+ {
+  "name": "Alfred",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Rivier",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Bridgewater",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "DePauw",
+  "state": "IN",
+  "division": "D3"
+ },
+ {
+  "name": "Southern Virginia",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "Clark",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Emerson",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Hood",
+  "state": "MD",
+  "division": "D3"
+ },
+ {
+  "name": "Carthage",
+  "state": "WI",
+  "division": "D3"
+ },
+ {
+  "name": "Adrian",
+  "state": "MI",
+  "division": "D3"
+ },
+ {
+  "name": "Capital",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Eastern Connecticut",
+  "state": "CT",
+  "division": "D3"
+ },
+ {
+  "name": "MSOE",
+  "state": "WI",
+  "division": "D3"
+ },
+ {
+  "name": "Hartwick",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "St Vincent",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "St Joseph (CT)",
+  "state": "CT",
+  "division": "D3"
+ },
+ {
+  "name": "Susquehanna",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Berry",
+  "state": "GA",
+  "division": "D3"
+ },
+ {
+  "name": "Maine Maritime",
+  "state": "ME",
+  "division": "D3"
+ },
+ {
+  "name": "Nichols",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Piedmont",
+  "state": "GA",
+  "division": "D3"
+ },
+ {
+  "name": "Greensboro",
+  "state": "NC",
+  "division": "D3"
+ },
+ {
+  "name": "Immaculata",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Goucher",
+  "state": "MD",
+  "division": "D3"
+ },
+ {
+  "name": "Wabash",
+  "state": "IN",
+  "division": "D3"
+ },
+ {
+  "name": "Drew",
+  "state": "NJ",
+  "division": "D3"
+ },
+ {
+  "name": "McDaniel",
+  "state": "MD",
+  "division": "D3"
+ },
+ {
+  "name": "Muskingum",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Plattsburgh",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Morrisville",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Salem State",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Westminster (PA)",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Lasell",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "St Josephs (ME)",
+  "state": "ME",
+  "division": "D3"
+ },
+ {
+  "name": "Illinois Tech",
+  "state": "IL",
+  "division": "D3"
+ },
+ {
+  "name": "Benedictine (IL)",
+  "state": "IL",
+  "division": "D3"
+ },
+ {
+  "name": "Otterbein",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Centenary (LA)",
+  "state": "LA",
+  "division": "D3"
+ },
+ {
+  "name": "New Paltz",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Kalamazoo",
+  "state": "MI",
+  "division": "D3"
+ },
+ {
+  "name": "Norwich",
+  "state": "VT",
+  "division": "D3"
+ },
+ {
+  "name": "Delhi",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Dubuque",
+  "state": "IA",
+  "division": "D3"
+ },
+ {
+  "name": "Johnson & Wales",
+  "state": "RI",
+  "division": "D3"
+ },
+ {
+  "name": "Wittenberg",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Gwynedd Mercy",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "FDU-Florham",
+  "state": "NJ",
+  "division": "D3"
+ },
+ {
+  "name": "SUNY Poly",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Marywood",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Curry",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Dean College",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Lawrence",
+  "state": "WI",
+  "division": "D3"
+ },
+ {
+  "name": "Manhattanville",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Emmanuel (MA)",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Kings",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Allegheny",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Huntingdon",
+  "state": "AL",
+  "division": "D3"
+ },
+ {
+  "name": "Marietta",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Wilkes",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Gordon",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Edgewood",
+  "state": "WI",
+  "division": "D3"
+ },
+ {
+  "name": "Hendrix",
+  "state": "AR",
+  "division": "D3"
+ },
+ {
+  "name": "Mount St Vincent",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Canton",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Franciscan",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Thomas",
+  "state": "ME",
+  "division": "D3"
+ },
+ {
+  "name": "Albright",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Regis (MA)",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Castleton",
+  "state": "VT",
+  "division": "D3"
+ },
+ {
+  "name": "New England College",
+  "state": "NH",
+  "division": "D3"
+ },
+ {
+  "name": "Wilmington (OH)",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Alfred State",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Pitt-Bradford",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Delaware Valley",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Southern Maine",
+  "state": "ME",
+  "division": "D3"
+ },
+ {
+  "name": "Beloit",
+  "state": "WI",
+  "division": "D3"
+ },
+ {
+  "name": "Mount St Mary (NY)",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Keuka",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "William Peace",
+  "state": "NC",
+  "division": "D3"
+ },
+ {
+  "name": "Heidelberg",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "St Josephs (LI)",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Juniata",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Cornell College",
+  "state": "IA",
+  "division": "D3"
+ },
+ {
+  "name": "Lycoming",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Averett",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "Guilford",
+  "state": "NC",
+  "division": "D3"
+ },
+ {
+  "name": "MCLA",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Alma",
+  "state": "MI",
+  "division": "D3"
+ },
+ {
+  "name": "Randolph",
+  "state": "VA",
+  "division": "D3"
+ },
+ {
+  "name": "Oglethorpe",
+  "state": "GA",
+  "division": "D3"
+ },
+ {
+  "name": "Albertus Magnus",
+  "state": "CT",
+  "division": "D3"
+ },
+ {
+  "name": "Hiram",
+  "state": "OH",
+  "division": "D3"
+ },
+ {
+  "name": "Marian (WI)",
+  "state": "WI",
+  "division": "D3"
+ },
+ {
+  "name": "LaGrange",
+  "state": "GA",
+  "division": "D3"
+ },
+ {
+  "name": "Augustana",
+  "state": "IL",
+  "division": "D3"
+ },
+ {
+  "name": "Elmira",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Cobleskill",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Washington & Jefferson",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Purchase",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Spalding",
+  "state": "KY",
+  "division": "D3"
+ },
+ {
+  "name": "Earlham",
+  "state": "IN",
+  "division": "D3"
+ },
+ {
+  "name": "Anna Maria",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Cairn",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Warren Wilson",
+  "state": "NC",
+  "division": "D3"
+ },
+ {
+  "name": "Hilbert",
+  "state": "NY",
+  "division": "D3"
+ },
+ {
+  "name": "Thiel",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Brevard",
+  "state": "NC",
+  "division": "D3"
+ },
+ {
+  "name": "Bethany",
+  "state": "WV",
+  "division": "D3"
+ },
+ {
+  "name": "Elms",
+  "state": "MA",
+  "division": "D3"
+ },
+ {
+  "name": "Colby-Sawyer",
+  "state": "NH",
+  "division": "D3"
+ },
+ {
+  "name": "Mitchell",
+  "state": "CT",
+  "division": "D3"
+ },
+ {
+  "name": "Centenary (NJ)",
+  "state": "NJ",
+  "division": "D3"
+ },
+ {
+  "name": "La Roche",
+  "state": "PA",
+  "division": "D3"
+ },
+ {
+  "name": "Keiser",
+  "state": "FL",
+  "division": "NAIA"
+ },
+ {
+  "name": "Madonna",
+  "state": "MI",
+  "division": "NAIA"
+ },
+ {
+  "name": "Aquinas",
+  "state": "MI",
+  "division": "NAIA"
+ },
+ {
+  "name": "Indiana Tech",
+  "state": "IN",
+  "division": "NAIA"
+ },
+ {
+  "name": "Reinhardt",
+  "state": "GA",
+  "division": "NAIA"
+ },
+ {
+  "name": "SCAD",
+  "state": "GA",
+  "division": "NAIA"
+ },
+ {
+  "name": "William Penn",
+  "state": "IA",
+  "division": "NAIA"
+ },
+ {
+  "name": "Benedictine (KS)",
+  "state": "KS",
+  "division": "NAIA"
+ },
+ {
+  "name": "Life University",
+  "state": "GA",
+  "division": "NAIA"
+ },
+ {
+  "name": "Webber International",
+  "state": "FL",
+  "division": "NAIA"
+ },
+ {
+  "name": "Tennessee Wesleyan",
+  "state": "TN",
+  "division": "NAIA"
+ },
+ {
+  "name": "Mount Vernon Nazarene",
+  "state": "OH",
+  "division": "NAIA"
+ },
+ {
+  "name": "Point",
+  "state": "GA",
+  "division": "NAIA"
+ },
+ {
+  "name": "Taylor",
+  "state": "IN",
+  "division": "NAIA"
+ },
+ {
+  "name": "Columbia (MO)",
+  "state": "MO",
+  "division": "NAIA"
+ },
+ {
+  "name": "Lawrence Tech",
+  "state": "MI",
+  "division": "NAIA"
+ },
+ {
+  "name": "Montreat",
+  "state": "NC",
+  "division": "NAIA"
+ },
+ {
+  "name": "William Woods",
+  "state": "MO",
+  "division": "NAIA"
+ },
+ {
+  "name": "UM-Dearborn",
+  "state": "MI",
+  "division": "NAIA"
+ },
+ {
+  "name": "Missouri Baptist",
+  "state": "MO",
+  "division": "NAIA"
+ },
+ {
+  "name": "Siena Heights",
+  "state": "MI",
+  "division": "NAIA"
+ },
+ {
+  "name": "Columbia (SC)",
+  "state": "SC",
+  "division": "NAIA"
+ },
+ {
+  "name": "Midland",
+  "state": "NE",
+  "division": "NAIA"
+ },
+ {
+  "name": "Ottawa",
+  "state": "KS",
+  "division": "NAIA"
+ },
+ {
+  "name": "Missouri Valley",
+  "state": "MO",
+  "division": "NAIA"
+ }
+]
