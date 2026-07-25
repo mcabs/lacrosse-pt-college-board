@@ -22,7 +22,9 @@
   },
   "source_urls": [
    "https://admission.princeton.edu/cost-aid/fees-payment-options"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "notre-dame-in",
@@ -47,7 +49,9 @@
   },
   "source_urls": [
    "https://research.com/best-colleges/university-of-notre-dame/tuition-fees"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Congregation of Holy Cross"
  },
  {
   "id": "penn-state-pa",
@@ -72,7 +76,9 @@
   },
   "source_urls": [
    "https://www.usnews.com/best-colleges/penn-state-6965"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "richmond-va",
@@ -97,7 +103,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/233374/university-of-richmond/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "virginia-va",
@@ -122,7 +130,9 @@
   },
   "source_urls": [
    "https://www.esslo.org/colleges/university-of-virginia"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "syracuse-ny",
@@ -147,7 +157,9 @@
   },
   "source_urls": [
    "https://www.acceptancerate.com/schools/syracuse-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "maryland-md",
@@ -172,7 +184,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/163286/university-of-maryland-college-park/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "cornell-ny",
@@ -197,7 +211,9 @@
   },
   "source_urls": [
    "https://bursar.cornell.edu/students-parents/tuition-rates-and-fees"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "georgetown-dc",
@@ -222,7 +238,9 @@
   },
   "source_urls": [
    "https://www.georgetown.edu/news/announcing-fall-2025-spring-2026-undergraduate-tuition-rates/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Jesuit"
  },
  {
   "id": "army-west-point-ny",
@@ -247,7 +265,9 @@
   },
   "source_urls": [
    "https://www.westpoint.edu/admissions/tuition-and-service-commitment"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "johns-hopkins-md",
@@ -272,7 +292,9 @@
   },
   "source_urls": [
    "https://e-catalogue.jhu.edu/university-wide-policies-information/admission-aid/tuition-fees"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "yale-ct",
@@ -297,7 +319,9 @@
   },
   "source_urls": [
    "https://collegenumbers.com/school/yale-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "harvard-ma",
@@ -322,7 +346,9 @@
   },
   "source_urls": [
    "https://research.com/best-colleges/harvard-university/tuition-fees"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "jacksonville-fl",
@@ -347,7 +373,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/134945/jacksonville-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "denver-co",
@@ -372,7 +400,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/127060/university-of-denver/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "penn-pa",
@@ -397,7 +427,9 @@
   },
   "source_urls": [
    "https://srfs.upenn.edu/costs-budgeting/undergraduate-tuition-and-fees"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "towson-md",
@@ -422,7 +454,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/164076/towson-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "michigan-mi",
@@ -447,7 +481,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/170976/university-of-michigan-ann-arbor/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lehigh-pa",
@@ -472,7 +508,9 @@
   },
   "source_urls": [
    "https://www2.lehigh.edu/admissions/admission-statistics"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "loyola-university-maryland-md",
@@ -497,7 +535,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/163046/loyola-university-maryland/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Jesuit"
  },
  {
   "id": "villanova-pa",
@@ -522,7 +562,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/216597/villanova-university/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Augustinian"
  },
  {
   "id": "navy-md",
@@ -547,7 +589,9 @@
   },
   "source_urls": [
    "https://www.univstats.com/colleges/united-states-naval-academy/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "brown-ri",
@@ -572,7 +616,9 @@
   },
   "source_urls": [
    "https://sfs.brown.edu/tuition-and-fees/undergraduate"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "dartmouth-nh",
@@ -597,7 +643,9 @@
   },
   "source_urls": [
    "https://financialaid.dartmouth.edu/cost-attendance/cost-attendance-2025-2026"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "providence-ri",
@@ -622,7 +670,9 @@
   },
   "source_urls": [
    "https://about.providence.edu/fast-facts/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Dominican"
  },
  {
   "id": "colgate-ny",
@@ -647,7 +697,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/190099/colgate-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "umass-amherst-ma",
@@ -672,7 +724,9 @@
   },
   "source_urls": [
    "https://www.umass.edu/admissions/admissions-statistics"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "albany-ny",
@@ -697,7 +751,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/196060/suny-at-albany/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "bucknell-pa",
@@ -722,7 +778,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/211291/bucknell-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "air-force-co",
@@ -747,7 +805,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/128328/united-states-air-force-academy/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lafayette-pa",
@@ -772,7 +832,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/213385/lafayette-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "robert-morris-pa",
@@ -797,7 +859,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/215655/robert-morris-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "fairfield-ct",
@@ -822,7 +886,9 @@
   },
   "source_urls": [
    "https://www.fairfield.edu/news/2026/march/record-applicant-pool-21-percent-admit-rate.html"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Jesuit Catholic"
  },
  {
   "id": "college-of-the-holy-cross-ma",
@@ -847,7 +913,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/166124/college-of-the-holy-cross/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Jesuit Catholic"
  },
  {
   "id": "siena-ny",
@@ -872,7 +940,9 @@
   },
   "source_urls": [
    "https://www.univstats.com/colleges/siena-college/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Franciscan)"
  },
  {
   "id": "umbc-md",
@@ -897,7 +967,9 @@
   },
   "source_urls": [
    "https://www.univstats.com/colleges/university-of-maryland-baltimore-county/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "hofstra-ny",
@@ -922,7 +994,9 @@
   },
   "source_urls": [
    "https://www.hofstra.edu/admission/student-profile.html"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "monmouth-nj",
@@ -947,7 +1021,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/monmouth-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "bryant-ri",
@@ -972,7 +1048,9 @@
   },
   "source_urls": [
    "https://www.bryant.edu/undergraduate/undergraduate-admission/admitted-class-profile"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "hobart-ny",
@@ -997,7 +1075,9 @@
   },
   "source_urls": [
    "https://www.clastify.com/blog/acceptance-rates/hobart-and-william-smith-colleges"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "st-john-s-university-ny",
@@ -1022,7 +1102,9 @@
   },
   "source_urls": [
    "https://www.univstats.com/colleges/st-johns-university-new-york/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Vincentian Catholic"
  },
  {
   "id": "njit-nj",
@@ -1047,7 +1129,9 @@
   },
   "source_urls": [
    "https://www.njit.edu/bursar/tuition-and-fee-schedule"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "merrimack-ma",
@@ -1072,7 +1156,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/166850/merrimack-college/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Augustinians of the Assumption)"
  },
  {
   "id": "cleveland-state-oh",
@@ -1097,7 +1183,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/cleveland-state-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "st-bonaventure-ny",
@@ -1122,7 +1210,9 @@
   },
   "source_urls": [
    "https://www.clastify.com/blog/acceptance-rates/st-bonaventure-university"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Franciscan)"
  },
  {
   "id": "vmi-va",
@@ -1147,7 +1237,9 @@
   },
   "source_urls": [
    "https://www.vmi.edu/about/offices-a-z/financial-aid/tuition-and-fees/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "queens-nc",
@@ -1172,7 +1264,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/199412/queens-university-of-charlotte/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "manhattan-ny",
@@ -1197,7 +1291,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/192703/manhattan-college/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (De La Salle Christian Brothers)"
  },
  {
   "id": "detroit-mercy-mi",
@@ -1222,7 +1318,9 @@
   },
   "source_urls": [
    "https://www.univstats.com/colleges/university-of-detroit-mercy/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Jesuit/Sisters of Mercy merger)"
  },
  {
   "id": "mount-st-mary-s-university-md",
@@ -1247,7 +1345,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/mount-st-marys-university/admissions/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic, diocesan heritage, hosts largest Catholic seminary in US"
  },
  {
   "id": "canisius-ny",
@@ -1272,7 +1372,9 @@
   },
   "source_urls": [
    "https://testbook.com/en-us/college/canisius-university-admissions"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Jesuit Catholic"
  },
  {
   "id": "le-moyne-ny",
@@ -1297,7 +1399,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/le-moyne-college/admissions/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Jesuit Catholic"
  },
  {
   "id": "iona-ny",
@@ -1322,7 +1426,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/iona-university/admissions/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Congregation of Christian Brothers)"
  },
  {
   "id": "wagner-ny",
@@ -1347,7 +1453,9 @@
   },
   "source_urls": [
    "https://www.usnews.com/best-colleges/wagner-college-2899"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "mercyhurst-pa",
@@ -1372,7 +1480,9 @@
   },
   "source_urls": [
    "https://www.prepscholar.com/sat/s/colleges/Mercyhurst-University-admission-requirements"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Sisters of Mercy)"
  },
  {
   "id": "tampa-fl",
@@ -1397,7 +1507,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/florida/the-university-of-tampa/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lenoir-rhyne-nc",
@@ -1422,7 +1534,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/north-carolina/lenoir-rhyne-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "adelphi-ny",
@@ -1447,7 +1561,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/adelphi-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lewis-il",
@@ -1472,7 +1588,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/illinois/lewis-university/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (De La Salle Christian Brothers, Lasallian)"
  },
  {
   "id": "florida-tech-fl",
@@ -1497,7 +1615,9 @@
   },
   "source_urls": [
    "https://bigfuture.collegeboard.org/colleges/florida-institute-of-technology/admissions"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "newberry-sc",
@@ -1522,7 +1642,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/south-carolina/newberry-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "rollins-fl",
@@ -1547,7 +1669,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/rollins-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "st-leo-fl",
@@ -1572,7 +1696,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/florida/saint-leo-university/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Benedictine)"
  },
  {
   "id": "st-anselm-nh",
@@ -1597,7 +1723,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/saint-anselm-college/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Benedictine)"
  },
  {
   "id": "catawba-nc",
@@ -1622,7 +1750,9 @@
   },
   "source_urls": [
    "https://testbook.com/en-us/college/catawba-college-admissions"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "pace-ny",
@@ -1647,7 +1777,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/new-york/pace-university-new-york/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "westminster-university-ut",
@@ -1672,7 +1804,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/230807/westminster-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "embry-riddle-fl",
@@ -1697,7 +1831,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/embry-riddle-aeronautical-university-daytona-beach/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "belmont-abbey-nc",
@@ -1722,7 +1858,9 @@
   },
   "source_urls": [
    "https://www.calcmygpa.com/us-schools/belmont-abbey-college/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Benedictine)"
  },
  {
   "id": "molloy-ny",
@@ -1747,7 +1885,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/193292/molloy-university/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Dominican)"
  },
  {
   "id": "flagler-fl",
@@ -1772,7 +1912,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/flagler-college-st-augustine/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "montevallo-al",
@@ -1797,7 +1939,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/alabama/university-of-montevallo/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "palm-beach-atlantic-fl",
@@ -1822,7 +1966,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/136330/palm-beach-atlantic-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "assumption-ma",
@@ -1847,7 +1993,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/164562/assumption-college/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Augustinians of the Assumption)"
  },
  {
   "id": "north-greenville-sc",
@@ -1872,7 +2020,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/north-greenville-university/admissions/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "concordia-university-irvine-ca",
@@ -1897,7 +2047,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/112075/concordia-university-irvine/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "st-michaels-vt",
@@ -1922,7 +2074,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/vermont/saint-michaels-college/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Edmundite Fathers)"
  },
  {
   "id": "bentley-ma",
@@ -1947,7 +2101,9 @@
   },
   "source_urls": [
    "https://www.usnews.com/best-colleges/bentley-university-2124/applying"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lander-sc",
@@ -1972,7 +2128,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/lander-university/admissions/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "wilmington-university-de",
@@ -1997,7 +2155,9 @@
   },
   "source_urls": [
    "https://testbook.com/en-us/college/wilmington-university-admissions"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lees-mcrae-nc",
@@ -2022,7 +2182,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/north-carolina/lees-mcrae-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lynn-fl",
@@ -2047,7 +2209,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/lynn-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "northwood-mi",
@@ -2072,7 +2236,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/michigan/northwood-university-michigan/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "frostburg-state-md",
@@ -2097,7 +2263,9 @@
   },
   "source_urls": [
    "https://www.usnews.com/best-colleges/frostburg-state-university-2072"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "southern-new-hampshire-nh",
@@ -2122,7 +2290,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Southern_New_Hampshire_University"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "davenport-mi",
@@ -2147,7 +2317,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/michigan/davenport-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "barton-nc",
@@ -2172,7 +2344,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/north-carolina/barton-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "chestnut-hill-pa",
@@ -2197,7 +2371,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/pennsylvania/chestnut-hill-college/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Founded by Sisters of St. Joseph"
  },
  {
   "id": "coker-sc",
@@ -2222,7 +2398,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/south-carolina/coker-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "william-jewell-mo",
@@ -2247,7 +2425,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/179955/william-jewell-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "roberts-wesleyan-ny",
@@ -2272,7 +2452,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/194958/roberts-wesleyan-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "bridgeport-ct",
@@ -2297,7 +2479,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/connecticut/university-of-bridgeport/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "mount-olive-nc",
@@ -2322,7 +2506,9 @@
   },
   "source_urls": [
    "https://www.thecollegemonk.com/colleges/university-of-mount-olive"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "alabama-huntsville-al",
@@ -2347,7 +2533,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/the-university-of-alabama-in-huntsville/admissions/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "tusculum-tn",
@@ -2372,7 +2560,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/221953/tusculum-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "georgian-court-nj",
@@ -2397,7 +2587,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/184773/georgian-court-university/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Founded by Sisters of Mercy"
  },
  {
   "id": "post-ct",
@@ -2422,7 +2614,9 @@
   },
   "source_urls": [
    "https://www.petersons.com/college-search/post-university-000_10000680.aspx"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "st-thomas-aquinas-ny",
@@ -2447,7 +2641,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/195243/st-thomas-aquinas-college/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Founded by Dominican Sisters"
  },
  {
   "id": "holy-family-pa",
@@ -2472,7 +2668,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/212984/holy-family-university/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Founded by Sisters of the Holy Family of Nazareth"
  },
  {
   "id": "quincy-il",
@@ -2497,7 +2695,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/148131/quincy-university/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Founded by Franciscan Friars"
  },
  {
   "id": "mars-hill-nc",
@@ -2522,7 +2722,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/198899/mars-hill-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "young-harris-ga",
@@ -2547,7 +2749,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/141361/young-harris-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "northwest-nazarene-id",
@@ -2572,7 +2776,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/142461/northwest-nazarene-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "chowan-nc",
@@ -2597,7 +2803,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/chowan-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lake-erie-oh",
@@ -2622,7 +2830,9 @@
   },
   "source_urls": [
    "https://www.lec.edu/tuition-and-fees"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "emmanuel-college-georgia-ga",
@@ -2647,7 +2857,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/139630/emmanuel-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "thomas-more-ky",
@@ -2672,7 +2884,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/157809/thomas-more-university/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Diocesan, Diocese of Covington"
  },
  {
   "id": "adams-state-co",
@@ -2697,7 +2911,9 @@
   },
   "source_urls": [
    "https://www.collegefactual.com/colleges/adams-state-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "tiffin-oh",
@@ -2722,7 +2938,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/206048/tiffin-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "point-park-pa",
@@ -2747,7 +2965,9 @@
   },
   "source_urls": [
    "https://www.prepscholar.com/sat/s/colleges/Point-Park-University-sat-scores-GPA"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "dominican-university-of-california-ca",
@@ -2772,7 +2992,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/dominican-university-of-california/admissions/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Founded by Dominican Sisters"
  },
  {
   "id": "malone-oh",
@@ -2797,7 +3019,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/malone-university/admissions/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "virginia-state-va",
@@ -2822,7 +3046,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/virginia-state-university/admissions/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "felician-nj",
@@ -2847,7 +3073,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Felician_University"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Founded by Felician Sisters"
  },
  {
   "id": "district-of-columbia-dc",
@@ -2872,7 +3100,9 @@
   },
   "source_urls": [
    "https://www.usnews.com/best-colleges/udc-29100"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "davis-elkins-wv",
@@ -2897,7 +3127,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/237358/davis-and-elkins-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "caldwell-nj",
@@ -2922,7 +3154,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/183910/caldwell-university/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Founded by Dominican Sisters"
  },
  {
   "id": "shorter-ga",
@@ -2947,7 +3181,9 @@
   },
   "source_urls": [
    "https://www.shorter.edu/tuition-and-fees/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "bowdoin-me",
@@ -2972,7 +3208,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/161004/bowdoin-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "rit-ny",
@@ -2997,7 +3235,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/195003/rochester-institute-of-technology/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "salisbury-md",
@@ -3022,7 +3262,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/163851/salisbury-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "wesleyan-ct",
@@ -3047,7 +3289,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/connecticut/wesleyan-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "babson-ma",
@@ -3072,7 +3316,9 @@
   },
   "source_urls": [
    "https://app.overgrad.com/universities/26-babson-college"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "christopher-newport-va",
@@ -3097,7 +3343,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/231712/christopher-newport-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "bates-me",
@@ -3122,7 +3370,9 @@
   },
   "source_urls": [
    "https://www.bates.edu/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "stevens-nj",
@@ -3147,7 +3397,9 @@
   },
   "source_urls": [
    "https://www.stevens.edu/discover-stevens/stevens-by-the-numbers/facts-statistics"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "york-pa",
@@ -3172,7 +3424,9 @@
   },
   "source_urls": [
    "https://www.appily.com/colleges/york-college-of-pa"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "middlebury-vt",
@@ -3197,7 +3451,9 @@
   },
   "source_urls": [
    "https://www.collegeadvisor.com/colleges/middlebury-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "amherst-ma",
@@ -3222,7 +3478,9 @@
   },
   "source_urls": [
    "https://www.collegetransitions.com/blog/how-to-get-into-amherst/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "gettysburg-pa",
@@ -3247,7 +3505,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/gettysburg-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "dickinson-pa",
@@ -3272,7 +3532,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/dickinson-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "washington-lee-va",
@@ -3297,7 +3559,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/washington-and-lee-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "hamilton-ny",
@@ -3322,7 +3586,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/hamilton-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "st-john-fisher-ny",
@@ -3347,7 +3613,9 @@
   },
   "source_urls": [
    "https://www.prepscholar.com/sat/s/colleges/St-John-Fisher-University-sat-scores-GPA"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Founded 1948 by the Basilian Fathers; still maintains Catholic/Basilian identity"
  },
  {
   "id": "union-ny",
@@ -3372,7 +3640,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/union-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "williams-ma",
@@ -3397,7 +3667,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/williams-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "st-lawrence-ny",
@@ -3422,7 +3694,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/st-lawrence-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "trinity-ct",
@@ -3447,7 +3721,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/trinity-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "swarthmore-pa",
@@ -3472,7 +3748,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/swarthmore-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "denison-oh",
@@ -3497,7 +3775,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/denison-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "skidmore-ny",
@@ -3522,7 +3802,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/skidmore-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "franklin-marshall-pa",
@@ -3547,7 +3829,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/franklin-and-marshall-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "colorado-college-co",
@@ -3572,7 +3856,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/colorado-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "connecticut-college-ct",
@@ -3597,7 +3883,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/connecticut-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "rpi-ny",
@@ -3622,7 +3910,9 @@
   },
   "source_urls": [
    "https://www.rpi.edu/about/quick-facts"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "colby-me",
@@ -3647,7 +3937,9 @@
   },
   "source_urls": [
    "https://afa.colby.edu/apply/college-profile/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "stevenson-md",
@@ -3672,7 +3964,9 @@
   },
   "source_urls": [
    "https://www.thecollegemonk.com/colleges/stevenson-university/admissions"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "mit-ma",
@@ -3697,7 +3991,9 @@
   },
   "source_urls": [
    "https://sfs.mit.edu/cost-of-attendance-class-of-2029/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "washington-college-md",
@@ -3722,7 +4018,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/maryland/washington-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "roanoke-va",
@@ -3747,7 +4045,9 @@
   },
   "source_urls": [
    "https://www.roanoke.edu/inside/business_office/student_accounts_cash_receipts/tuition_and_fees_2026-2027"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "muhlenberg-pa",
@@ -3772,7 +4072,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/muhlenberg-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "ohio-wesleyan-oh",
@@ -3797,7 +4099,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/ohio-wesleyan-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "randolph-macon-va",
@@ -3822,7 +4126,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/randolph-macon-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "haverford-pa",
@@ -3847,7 +4153,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/212911/haverford-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "elmhurst-il",
@@ -3872,7 +4180,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/elmhurst-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "vassar-ny",
@@ -3897,7 +4207,9 @@
   },
   "source_urls": [
    "https://www.vassar.edu/admission/financial-aid/tuition/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "baldwin-wallace-oh",
@@ -3922,7 +4234,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/baldwin-wallace-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "grove-city-pa",
@@ -3947,7 +4261,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/grove-city-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "st-mary-s-college-of-maryland-md",
@@ -3972,7 +4288,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/st-mary-s-college-of-maryland/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "hope-mi",
@@ -3997,7 +4315,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/hope-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "kenyon-oh",
@@ -4022,7 +4342,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/203535/kenyon-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "hampden-sydney-va",
@@ -4047,7 +4369,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/hampden-sydney-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "sewanee-tn",
@@ -4072,7 +4396,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/tennessee/sewanee-the-university-of-the-south/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "rhodes-tn",
@@ -4097,7 +4423,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/rhodes-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "oberlin-oh",
@@ -4122,7 +4450,9 @@
   },
   "source_urls": [
    "https://collegenumbers.com/school/oberlin-college"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "catholic-dc",
@@ -4147,7 +4477,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/the-catholic-university-of-america/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "The Catholic University of America; pontifical university, USCCB-affiliated"
  },
  {
   "id": "ohio-northern-oh",
@@ -4172,7 +4504,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/ohio-northern-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "pfeiffer-nc",
@@ -4197,7 +4531,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/pfeiffer-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "elizabethtown-pa",
@@ -4222,7 +4558,9 @@
   },
   "source_urls": [
    "https://www.prepscholar.com/sat/s/colleges/Elizabethtown-College-sat-scores-GPA"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "massachusetts-maritime-ma",
@@ -4247,7 +4585,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/166692/massachusetts-maritime-academy/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "western-connecticut-ct",
@@ -4272,7 +4612,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/130776/western-connecticut-state-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "ursinus-pa",
@@ -4297,7 +4639,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/216524/ursinus-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "oneonta-ny",
@@ -4322,7 +4666,9 @@
   },
   "source_urls": [
    "https://suny.oneonta.edu/cost-aid/tuition-fees"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "salve-regina-ri",
@@ -4347,7 +4693,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/217536/salve-regina-university/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Founded 1934 by the Sisters of Mercy"
  },
  {
   "id": "wheaton-ma",
@@ -4372,7 +4720,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/168281/wheaton-college-massachusetts/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "centre-ky",
@@ -4397,7 +4747,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/156408/centre-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "wooster-oh",
@@ -4422,7 +4774,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/206589/the-college-of-wooster/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "mary-washington-va",
@@ -4447,7 +4801,9 @@
   },
   "source_urls": [
    "https://adminfinance.umw.edu/studentaccounts/tuition-and-fees/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "western-new-england-ma",
@@ -4472,7 +4828,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/168254/western-new-england-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "aurora-il",
@@ -4497,7 +4855,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/143118/aurora-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "illinois-wesleyan-il",
@@ -4522,7 +4882,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/143013/illinois-wesleyan-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "merchant-marine-ny",
@@ -4547,7 +4909,9 @@
   },
   "source_urls": [
    "https://www.usmma.edu"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "coast-guard-ct",
@@ -4572,7 +4936,9 @@
   },
   "source_urls": [
    "https://www.uscga.edu"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "umass-boston-ma",
@@ -4597,7 +4963,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/166909/university-of-massachusetts-boston/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "potsdam-ny",
@@ -4622,7 +4990,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/196189/suny-college-at-potsdam/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "transylvania-ky",
@@ -4645,7 +5015,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "montclair-state-nj",
@@ -4670,7 +5042,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/185590/montclair-state-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "maritime-ny",
@@ -4693,7 +5067,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "eastern-pa",
@@ -4716,7 +5092,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "wentworth-ma",
@@ -4741,7 +5119,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/168262/wentworth-institute-of-technology/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "farmingdale-state-ny",
@@ -4764,7 +5144,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "penn-college-pa",
@@ -4787,7 +5169,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "southwestern-tx",
@@ -4812,7 +5196,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/228343/southwestern-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "virginia-wesleyan-va",
@@ -4837,7 +5223,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/virginia-wesleyan-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "calvin-mi",
@@ -4862,7 +5250,9 @@
   },
   "source_urls": [
    "https://www.appily.com/colleges/calvin-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "keene-state-nh",
@@ -4887,7 +5277,9 @@
   },
   "source_urls": [
    "https://research.com/best-colleges/keene-state-college/admissions"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "john-carroll-oh",
@@ -4912,7 +5304,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/john-carroll-university"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Jesuit)"
  },
  {
   "id": "oswego-ny",
@@ -4937,7 +5331,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/196194/suny-college-at-oswego/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "albion-mi",
@@ -4962,7 +5358,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/michigan/albion-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "roger-williams-ri",
@@ -4987,7 +5385,9 @@
   },
   "source_urls": [
    "https://www.rwu.edu/admission/financial-aid/undergraduate-cost-attendance"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lake-forest-il",
@@ -5012,7 +5412,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/lake-forest-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "alfred-ny",
@@ -5037,7 +5439,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/188641/alfred-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "rivier-ma",
@@ -5062,7 +5466,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/rivier-university"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Sisters of the Presentation of Mary)"
  },
  {
   "id": "bridgewater-va",
@@ -5087,7 +5493,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/bridgewater-college"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "depauw-in",
@@ -5112,7 +5520,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/depauw-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "southern-virginia-va",
@@ -5137,7 +5547,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/southern-virginia-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "clark-ma",
@@ -5162,7 +5574,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/clark-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "emerson-ma",
@@ -5187,7 +5601,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/emerson-college"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "hood-md",
@@ -5212,7 +5628,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/hood-college"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "carthage-wi",
@@ -5237,7 +5655,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/carthage-college"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "adrian-mi",
@@ -5262,7 +5682,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/adrian-college"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "capital-oh",
@@ -5287,7 +5709,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/capital-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "eastern-connecticut-ct",
@@ -5312,7 +5736,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Eastern_Connecticut_State_University"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "msoe-wi",
@@ -5337,7 +5763,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/milwaukee-school-of-engineering"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "hartwick-ny",
@@ -5362,7 +5790,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/hartwick-college"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "st-vincent-pa",
@@ -5387,7 +5817,9 @@
   },
   "source_urls": [
    "https://datausa.io/profile/university/saint-vincent-college"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Benedictine)"
  },
  {
   "id": "university-of-saint-joseph-ct",
@@ -5412,7 +5844,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/130314/university-of-saint-joseph/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Sisters of Mercy)"
  },
  {
   "id": "susquehanna-pa",
@@ -5437,7 +5871,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/216278/susquehanna-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "berry-ga",
@@ -5462,7 +5898,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/berry-college/admissions/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "maine-maritime-me",
@@ -5487,7 +5925,9 @@
   },
   "source_urls": [
    "https://www.petersons.com/college-search/maine-maritime-academy-000_10002528.aspx"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "nichols-ma",
@@ -5512,7 +5952,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/nichols-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "piedmont-ga",
@@ -5537,7 +5979,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/140818/piedmont-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "greensboro-nc",
@@ -5562,7 +6006,9 @@
   },
   "source_urls": [
    "https://www.niche.com/colleges/greensboro-college/admissions/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "immaculata-pa",
@@ -5587,7 +6033,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/pennsylvania/immaculata-university/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (IHM Sisters)"
  },
  {
   "id": "goucher-md",
@@ -5612,7 +6060,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/goucher-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "wabash-in",
@@ -5637,7 +6087,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/indiana/wabash-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "drew-nj",
@@ -5662,7 +6114,9 @@
   },
   "source_urls": [
    "https://money.com/best-colleges/profile/drew-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "mcdaniel-md",
@@ -5687,7 +6141,9 @@
   },
   "source_urls": [
    "https://testbook.com/en-us/college/mcdaniel-college-admissions"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "muskingum-oh",
@@ -5712,7 +6168,9 @@
   },
   "source_urls": [
    "https://www.appily.com/colleges/muskingum-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "plattsburgh-ny",
@@ -5737,7 +6195,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/SUNY_Plattsburgh"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "morrisville-ny",
@@ -5762,7 +6222,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/SUNY_Morrisville"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "salem-state-ma",
@@ -5787,7 +6249,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Salem_State_University"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "westminster-college-pa",
@@ -5812,7 +6276,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Westminster_College_(Pennsylvania)"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lasell-ma",
@@ -5837,7 +6303,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Lasell_University"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "saint-joseph-s-college-of-maine-me",
@@ -5862,7 +6330,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Saint_Joseph%27s_College_of_Maine"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Sisters of Mercy)"
  },
  {
   "id": "illinois-tech-il",
@@ -5887,7 +6357,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Illinois_Institute_of_Technology"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "benedictine-university-il",
@@ -5912,7 +6384,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Benedictine_University"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Benedictine)"
  },
  {
   "id": "otterbein-oh",
@@ -5937,7 +6411,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Otterbein_University"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "centenary-college-of-louisiana-la",
@@ -5962,7 +6438,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Centenary_College_of_Louisiana"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "new-paltz-ny",
@@ -5987,7 +6465,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/SUNY_New_Paltz"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "kalamazoo-mi",
@@ -6012,7 +6492,9 @@
   },
   "source_urls": [
    "https://www.usnews.com/best-colleges/kalamazoo-college-2275"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "norwich-vt",
@@ -6037,7 +6519,9 @@
   },
   "source_urls": [
    "https://www.univstats.com/colleges/norwich-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "delhi-ny",
@@ -6062,7 +6546,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/SUNY_Delhi"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "dubuque-ia",
@@ -6087,7 +6573,9 @@
   },
   "source_urls": [
    "https://www.dbq.edu/media/FinancialAid/Costs-for-2024-25-UG.pdf"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "johnson-wales-ri",
@@ -6112,7 +6600,9 @@
   },
   "source_urls": [
    "https://www.usnews.com/best-colleges/johnson-and-wales-university-providence-3406"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "wittenberg-oh",
@@ -6137,7 +6627,9 @@
   },
   "source_urls": [
    "https://www.univstats.com/colleges/wittenberg-university/cost-of-attendance/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "gwynedd-mercy-pa",
@@ -6162,7 +6654,9 @@
   },
   "source_urls": [
    "https://www.gmercyu.edu/admissions-aid/financial-aid-tuition/undergraduate-tuition-fees"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Sisters of Mercy)"
  },
  {
   "id": "fdu-florham-nj",
@@ -6187,7 +6681,9 @@
   },
   "source_urls": [
    "https://www.fdu.edu/admissions/tuition-fees/florham-campus-tuition-fees/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "suny-poly-ny",
@@ -6212,7 +6708,9 @@
   },
   "source_urls": [
    "https://www.usnews.com/best-colleges/suny-polytechnic-institute-11678"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "marywood-pa",
@@ -6237,7 +6735,9 @@
   },
   "source_urls": [
    "https://www.marywood.edu/affordability/tuition/cost"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (IHM Sisters)"
  },
  {
   "id": "curry-ma",
@@ -6262,7 +6762,9 @@
   },
   "source_urls": [
    "https://www.curry.edu/admission-and-aid/tuition-and-financial-aid"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "dean-college-ma",
@@ -6287,7 +6789,9 @@
   },
   "source_urls": [
    "https://www.dean.edu/cost-aid/tuition-aid/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lawrence-wi",
@@ -6312,7 +6816,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/239017/lawrence-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "manhattanville-ny",
@@ -6337,7 +6843,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/191542/manhattanville-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": "Founded Catholic (RSCJ, 1841) but fully secularized 1969-71"
  },
  {
   "id": "emmanuel-college-ma",
@@ -6362,7 +6870,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/165671/emmanuel-college/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Sisters of Notre Dame de Namur)"
  },
  {
   "id": "kings-pa",
@@ -6387,7 +6897,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/213321/kings-college/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Congregation of Holy Cross)"
  },
  {
   "id": "allegheny-pa",
@@ -6412,7 +6924,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/211122/allegheny-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "huntingdon-al",
@@ -6437,7 +6951,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/101435/huntingdon-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "marietta-oh",
@@ -6462,7 +6978,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/203845/marietta-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "wilkes-pa",
@@ -6487,7 +7005,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/216931/wilkes-university/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "gordon-ma",
@@ -6512,7 +7032,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/165936/gordon-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "edgewood-wi",
@@ -6537,7 +7059,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Edgewood_College"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Dominican Sisters of Sinsinawa)"
  },
  {
   "id": "hendrix-ar",
@@ -6562,7 +7086,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/107080/hendrix-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "mount-st-vincent-ny",
@@ -6587,7 +7113,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/193399/college-of-mount-saint-vincent/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Sisters of Charity)"
  },
  {
   "id": "canton-ny",
@@ -6612,7 +7140,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/new-york/suny-college-of-technology-at-canton/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "franciscan-oh",
@@ -6637,7 +7167,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/franciscan-university-of-steubenville/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Franciscan/TOR)"
  },
  {
   "id": "thomas-me",
@@ -6662,7 +7194,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/maine/thomas-college/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "albright-pa",
@@ -6687,7 +7221,9 @@
   },
   "source_urls": [
    "https://www.prepscholar.com/sat/s/colleges/Albright-College-sat-scores-GPA"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "regis-college-ma",
@@ -6712,7 +7248,9 @@
   },
   "source_urls": [
    "https://www.collegesimply.com/colleges/massachusetts/regis-college/admission/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Congregation of St. Joseph)"
  },
  {
   "id": "castleton-vt",
@@ -6737,7 +7275,9 @@
   },
   "source_urls": [
    "https://vermontstate.edu/admission/tuition-and-fees/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "new-england-college-nh",
@@ -6762,7 +7302,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/new-england-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "wilmington-college-oh",
@@ -6787,7 +7329,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/wilmington-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "alfred-state-ny",
@@ -6812,7 +7356,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/suny-college-of-technology-at-alfred/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "pitt-bradford-pa",
@@ -6837,7 +7383,9 @@
   },
   "source_urls": [
    "https://www.collegetuitioncompare.com/edu/215266/university-of-pittsburgh-bradford/admission/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "delaware-valley-pa",
@@ -6862,7 +7410,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/delaware-valley-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "southern-maine-me",
@@ -6887,7 +7437,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/university-of-southern-maine/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "beloit-wi",
@@ -6912,7 +7464,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/beloit-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "mount-saint-mary-college-ny",
@@ -6937,7 +7491,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/mount-saint-mary-college/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Dominican Sisters)"
  },
  {
   "id": "keuka-ny",
@@ -6962,7 +7518,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/keuka-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "william-peace-nc",
@@ -6987,7 +7545,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/william-peace-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "heidelberg-oh",
@@ -7012,7 +7572,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/heidelberg-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "st-joseph-s-university-long-island-ny",
@@ -7037,7 +7599,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/St._Joseph%27s_University_(New_York)"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Sisters of St. Joseph)"
  },
  {
   "id": "juniata-pa",
@@ -7062,7 +7626,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/juniata-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "cornell-college-ia",
@@ -7087,7 +7653,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/cornell-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lycoming-pa",
@@ -7112,7 +7680,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/lycoming-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "averett-va",
@@ -7137,7 +7707,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/averett-university/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "guilford-nc",
@@ -7162,7 +7734,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/guilford-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "mcla-ma",
@@ -7187,7 +7761,9 @@
   },
   "source_urls": [
    "https://edurank.org/uni/massachusetts-college-of-liberal-arts/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "alma-mi",
@@ -7212,7 +7788,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "randolph-va",
@@ -7237,7 +7815,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "oglethorpe-ga",
@@ -7262,7 +7842,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "albertus-magnus-ct",
@@ -7287,7 +7869,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (founded 1925 by Dominican Sisters of St. Mary of the Springs)"
  },
  {
   "id": "hiram-oh",
@@ -7312,7 +7896,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "marian-university-wi",
@@ -7337,7 +7923,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (founded by Sisters of St. Francis of the Holy Cross)"
  },
  {
   "id": "lagrange-ga",
@@ -7362,7 +7950,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "augustana-il",
@@ -7387,7 +7977,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "elmira-ny",
@@ -7412,7 +8004,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "cobleskill-ny",
@@ -7437,7 +8031,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "washington-jefferson-pa",
@@ -7462,7 +8058,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "purchase-ny",
@@ -7487,7 +8085,9 @@
   },
   "source_urls": [
    "https://collegescorecard.ed.gov/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "spalding-ky",
@@ -7512,7 +8112,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Spalding_University"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (founded by Sisters of Charity of Nazareth)"
  },
  {
   "id": "earlham-in",
@@ -7537,7 +8139,9 @@
   },
   "source_urls": [
    "https://www.collegefactual.com/colleges/earlham-college/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "cairn-pa",
@@ -7562,7 +8166,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Cairn_University"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "warren-wilson-nc",
@@ -7587,7 +8193,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Warren_Wilson_College"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "hilbert-ny",
@@ -7612,7 +8220,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Hilbert_College"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic Franciscan heritage (founded by Franciscan Sisters of St. Joseph)"
  },
  {
   "id": "thiel-pa",
@@ -7635,7 +8245,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "brevard-nc",
@@ -7658,7 +8270,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "bethany-wv",
@@ -7683,7 +8297,9 @@
   },
   "source_urls": [
    "https://www.bethanywv.edu/tuition/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "elms-ma",
@@ -7706,7 +8322,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": true,
+  "catholic_note": "Catholic (founded 1928 by Sisters of St. Joseph of Springfield)"
  },
  {
   "id": "colby-sawyer-nh",
@@ -7729,7 +8347,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "mitchell-ct",
@@ -7752,7 +8372,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "centenary-university-nj",
@@ -7777,7 +8399,9 @@
   },
   "source_urls": [
    "https://bigfuture.collegeboard.org/colleges/centenary-university"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "la-roche-pa",
@@ -7802,7 +8426,9 @@
   },
   "source_urls": [
    "https://bigfuture.collegeboard.org/colleges/la-roche-university"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (founded 1963 by Sisters of Divine Providence)"
  },
  {
   "id": "keiser-fl",
@@ -7827,7 +8453,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Keiser_University"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "madonna-mi",
@@ -7852,7 +8480,9 @@
   },
   "source_urls": [
    "https://www.madonna.edu/tuition-and-financial-aid/tuition-and-fees/"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (founded by Felician Sisters)"
  },
  {
   "id": "aquinas-mi",
@@ -7877,7 +8507,9 @@
   },
   "source_urls": [
    "https://www.aquinas.edu/admissions/tuition-and-fees.html"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (founded by Dominican Sisters)"
  },
  {
   "id": "indiana-tech-in",
@@ -7902,7 +8534,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Indiana_Institute_of_Technology"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "reinhardt-ga",
@@ -7927,7 +8561,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Reinhardt_University"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "scad-ga",
@@ -7952,7 +8588,9 @@
   },
   "source_urls": [
    "https://www.scad.edu/admission/tuition-and-fees/undergraduate"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "william-penn-ia",
@@ -7977,7 +8615,9 @@
   },
   "source_urls": [
    "https://www.wmpenn.edu/admissions-aid/tuition-fees/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "benedictine-college-ks",
@@ -8002,7 +8642,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Benedictine_College"
-  ]
+  ],
+  "catholic": true,
+  "catholic_note": "Catholic (Benedictine monks and sisters)"
  },
  {
   "id": "life-university-ga",
@@ -8027,7 +8669,9 @@
   },
   "source_urls": [
    "https://www.life.edu/admissions-pages/cost-of-attendance/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "webber-international-fl",
@@ -8052,7 +8696,9 @@
   },
   "source_urls": [
    "https://webber.edu/student-billing/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "tennessee-wesleyan-tn",
@@ -8077,7 +8723,9 @@
   },
   "source_urls": [
    "https://www.tnwesleyan.edu/tuition-aid/costs/tuition-and-fees/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "mount-vernon-nazarene-oh",
@@ -8102,7 +8750,9 @@
   },
   "source_urls": [
    "https://mvnu.edu/admissions/on-campus/financial-aid/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "point-ga",
@@ -8127,7 +8777,9 @@
   },
   "source_urls": [
    "https://point.edu/admissions/tuition-aid/tuition-fees/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "taylor-in",
@@ -8152,7 +8804,9 @@
   },
   "source_urls": [
    "https://www.taylor.edu/admissions/tuition-funding/index"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "columbia-college-mo",
@@ -8177,7 +8831,9 @@
   },
   "source_urls": [
    "https://www.ccis.edu/tuition-financial-aid/college-cost/index"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "lawrence-tech-mi",
@@ -8202,7 +8858,9 @@
   },
   "source_urls": [
    "https://www.ltu.edu/admissions/tuition-and-fees"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "montreat-nc",
@@ -8227,7 +8885,9 @@
   },
   "source_urls": [
    "https://en.wikipedia.org/wiki/Montreat_College"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "william-woods-mo",
@@ -8252,7 +8912,9 @@
   },
   "source_urls": [
    "https://www.williamwoods.edu/cost-and-aid/tuition-and-fees/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "university-of-michigan-dearborn-mi",
@@ -8277,7 +8939,9 @@
   },
   "source_urls": [
    "https://umdearborn.edu/admissions-aid/paying-college"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "missouri-baptist-mo",
@@ -8302,7 +8966,9 @@
   },
   "source_urls": [
    "https://www.mobap.edu/tuition-financial-aid/tuition-and-costs/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "columbia-international-university-sc",
@@ -8327,7 +8993,9 @@
   },
   "source_urls": [
    "https://ciu.edu/cost-aid/undergraduate-tuition/"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "midland-ne",
@@ -8350,7 +9018,9 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "ottawa-ks",
@@ -8375,7 +9045,9 @@
   },
   "source_urls": [
    "https://www.ottawa.edu/admissions"
-  ]
+  ],
+  "catholic": false,
+  "catholic_note": null
  },
  {
   "id": "missouri-valley-mo",
@@ -8398,6 +9070,8 @@
    "gpa": "unverified",
    "tuition": "unverified"
   },
-  "source_urls": []
+  "source_urls": [],
+  "catholic": false,
+  "catholic_note": null
  }
 ]

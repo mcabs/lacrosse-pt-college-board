@@ -1,0 +1,53 @@
+hamilton-ny | Hamilton | NY
+st-john-fisher-ny | St John Fisher | NY
+union-ny | Union | NY
+williams-ma | Williams | MA
+st-lawrence-ny | St Lawrence | NY
+trinity-ct | Trinity | CT
+swarthmore-pa | Swarthmore | PA
+denison-oh | Denison | OH
+skidmore-ny | Skidmore | NY
+franklin-marshall-pa | Franklin & Marshall | PA
+colorado-college-co | Colorado College | CO
+connecticut-college-ct | Connecticut College | CT
+rpi-ny | RPI | NY
+colby-me | Colby | ME
+stevenson-md | Stevenson | MD
+mit-ma | MIT | MA
+washington-college-md | Washington College | MD
+roanoke-va | Roanoke | VA
+muhlenberg-pa | Muhlenberg | PA
+ohio-wesleyan-oh | Ohio Wesleyan | OH
+randolph-macon-va | Randolph-Macon | VA
+haverford-pa | Haverford | PA
+elmhurst-il | Elmhurst | IL
+vassar-ny | Vassar | NY
+baldwin-wallace-oh | Baldwin Wallace | OH
+grove-city-pa | Grove City | PA
+st-mary-s-college-of-maryland-md | St. Mary's College of Maryland | MD
+hope-mi | Hope | MI
+kenyon-oh | Kenyon | OH
+hampden-sydney-va | Hampden-Sydney | VA
+sewanee-tn | Sewanee | TN
+rhodes-tn | Rhodes | TN
+oberlin-oh | Oberlin | OH
+catholic-dc | Catholic | DC
+ohio-northern-oh | Ohio Northern | OH
+pfeiffer-nc | Pfeiffer | NC
+elizabethtown-pa | Elizabethtown | PA
+massachusetts-maritime-ma | Massachusetts Maritime | MA
+western-connecticut-ct | Western Connecticut | CT
+ursinus-pa | Ursinus | PA
+oneonta-ny | Oneonta | NY
+salve-regina-ri | Salve Regina | RI
+wheaton-ma | Wheaton | MA
+centre-ky | Centre | KY
+wooster-oh | Wooster | OH
+mary-washington-va | Mary Washington | VA
+western-new-england-ma | Western New England | MA
+aurora-il | Aurora | IL
+illinois-wesleyan-il | Illinois Wesleyan | IL
+merchant-marine-ny | Merchant Marine | NY
+coast-guard-ct | Coast Guard | CT
+umass-boston-ma | UMass Boston | MA
+potsdam-ny | Potsdam | NY

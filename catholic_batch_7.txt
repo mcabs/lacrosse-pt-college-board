@@ -1,0 +1,53 @@
+centenary-college-of-louisiana-la | Centenary College of Louisiana | LA
+new-paltz-ny | New Paltz | NY
+kalamazoo-mi | Kalamazoo | MI
+norwich-vt | Norwich | VT
+delhi-ny | Delhi | NY
+dubuque-ia | Dubuque | IA
+johnson-wales-ri | Johnson & Wales | RI
+wittenberg-oh | Wittenberg | OH
+gwynedd-mercy-pa | Gwynedd Mercy | PA
+fdu-florham-nj | FDU-Florham | NJ
+suny-poly-ny | SUNY Poly | NY
+marywood-pa | Marywood | PA
+curry-ma | Curry | MA
+dean-college-ma | Dean College | MA
+lawrence-wi | Lawrence | WI
+manhattanville-ny | Manhattanville | NY
+emmanuel-college-ma | Emmanuel College | MA
+kings-pa | Kings | PA
+allegheny-pa | Allegheny | PA
+huntingdon-al | Huntingdon | AL
+marietta-oh | Marietta | OH
+wilkes-pa | Wilkes | PA
+gordon-ma | Gordon | MA
+edgewood-wi | Edgewood | WI
+hendrix-ar | Hendrix | AR
+mount-st-vincent-ny | Mount St Vincent | NY
+canton-ny | Canton | NY
+franciscan-oh | Franciscan | OH
+thomas-me | Thomas | ME
+albright-pa | Albright | PA
+regis-college-ma | Regis College | MA
+castleton-vt | Castleton | VT
+new-england-college-nh | New England College | NH
+wilmington-college-oh | Wilmington College | OH
+alfred-state-ny | Alfred State | NY
+pitt-bradford-pa | Pitt-Bradford | PA
+delaware-valley-pa | Delaware Valley | PA
+southern-maine-me | Southern Maine | ME
+beloit-wi | Beloit | WI
+mount-saint-mary-college-ny | Mount Saint Mary College | NY
+keuka-ny | Keuka | NY
+william-peace-nc | William Peace | NC
+heidelberg-oh | Heidelberg | OH
+st-joseph-s-university-long-island-ny | St. Joseph's University (Long Island) | NY
+juniata-pa | Juniata | PA
+cornell-college-ia | Cornell College | IA
+lycoming-pa | Lycoming | PA
+averett-va | Averett | VA
+guilford-nc | Guilford | NC
+mcla-ma | MCLA | MA
+alma-mi | Alma | MI
+randolph-va | Randolph | VA
+oglethorpe-ga | Oglethorpe | GA

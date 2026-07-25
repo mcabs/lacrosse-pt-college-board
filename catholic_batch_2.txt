@@ -1,0 +1,53 @@
+kean | Kean University | NJ
+lebanon-valley | Lebanon Valley College | PA
+marymount-va | Marymount University | VA
+messiah | Messiah University | PA
+methodist | Methodist University | NC
+misericordia | Misericordia University | PA
+moravian | Moravian University | PA
+nazareth | Nazareth University | NY
+neumann | Neumann University | PA
+north-central | North Central College | IL
+plymouth-state | Plymouth State University | NH
+russell-sage | Russell Sage College | NY
+suny-brockport | SUNY Brockport | NY
+suny-cortland | SUNY Cortland | NY
+suny-geneseo | SUNY Geneseo | NY
+shenandoah | Shenandoah University | VA
+springfield | Springfield College | MA
+stockton | Stockton University | NJ
+trine | Trine University | IN
+tufts | Tufts University | MA
+hartford | University of Hartford | CT
+lynchburg | University of Lynchburg | VA
+mount-union | University of Mount Union | OH
+une | University of New England | ME
+scranton | University of Scranton | PA
+utica | Utica University | NY
+widener | Widener University | PA
+princeton-nj | Princeton | NJ
+notre-dame-in | Notre Dame | IN
+penn-state-pa | Penn State | PA
+richmond-va | Richmond | VA
+virginia-va | Virginia | VA
+syracuse-ny | Syracuse | NY
+maryland-md | Maryland | MD
+cornell-ny | Cornell | NY
+georgetown-dc | Georgetown | DC
+army-west-point-ny | Army West Point | NY
+johns-hopkins-md | Johns Hopkins | MD
+yale-ct | Yale | CT
+harvard-ma | Harvard | MA
+jacksonville-fl | Jacksonville | FL
+denver-co | Denver | CO
+penn-pa | Penn | PA
+towson-md | Towson | MD
+michigan-mi | Michigan | MI
+lehigh-pa | Lehigh | PA
+loyola-university-maryland-md | Loyola University Maryland | MD
+villanova-pa | Villanova | PA
+navy-md | Navy | MD
+brown-ri | Brown | RI
+dartmouth-nh | Dartmouth | NH
+providence-ri | Providence | RI
+colgate-ny | Colgate | NY

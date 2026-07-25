@@ -1,0 +1,46 @@
+albertus-magnus-ct | Albertus Magnus | CT
+hiram-oh | Hiram | OH
+marian-university-wi | Marian University | WI
+lagrange-ga | LaGrange | GA
+augustana-il | Augustana | IL
+elmira-ny | Elmira | NY
+cobleskill-ny | Cobleskill | NY
+washington-jefferson-pa | Washington & Jefferson | PA
+purchase-ny | Purchase | NY
+spalding-ky | Spalding | KY
+earlham-in | Earlham | IN
+cairn-pa | Cairn | PA
+warren-wilson-nc | Warren Wilson | NC
+hilbert-ny | Hilbert | NY
+thiel-pa | Thiel | PA
+brevard-nc | Brevard | NC
+bethany-wv | Bethany | WV
+elms-ma | Elms | MA
+colby-sawyer-nh | Colby-Sawyer | NH
+mitchell-ct | Mitchell | CT
+centenary-university-nj | Centenary University | NJ
+la-roche-pa | La Roche | PA
+keiser-fl | Keiser | FL
+madonna-mi | Madonna | MI
+aquinas-mi | Aquinas | MI
+indiana-tech-in | Indiana Tech | IN
+reinhardt-ga | Reinhardt | GA
+scad-ga | SCAD | GA
+william-penn-ia | William Penn | IA
+benedictine-college-ks | Benedictine College | KS
+life-university-ga | Life University | GA
+webber-international-fl | Webber International | FL
+tennessee-wesleyan-tn | Tennessee Wesleyan | TN
+mount-vernon-nazarene-oh | Mount Vernon Nazarene | OH
+point-ga | Point | GA
+taylor-in | Taylor | IN
+columbia-college-mo | Columbia College | MO
+lawrence-tech-mi | Lawrence Tech | MI
+montreat-nc | Montreat | NC
+william-woods-mo | William Woods | MO
+university-of-michigan-dearborn-mi | University of Michigan-Dearborn | MI
+missouri-baptist-mo | Missouri Baptist | MO
+columbia-international-university-sc | Columbia International University | SC
+midland-ne | Midland | NE
+ottawa-ks | Ottawa | KS
+missouri-valley-mo | Missouri Valley | MO

@@ -1,0 +1,53 @@
+bellarmine | Bellarmine University | KY
+binghamton | Binghamton University | NY
+boston-university | Boston University | MA
+delaware | University of Delaware | DE
+drexel | Drexel University | PA
+duke | Duke University | NC
+hampton | Hampton University | VA
+high-point | High Point University | NC
+liu | Long Island University (LIU Post) | NY
+marist | Marist University | NY
+marquette | Marquette University | WI
+umass-lowell | UMass Lowell | MA
+mercer | Mercer University | GA
+unc | University of North Carolina at Chapel Hill | NC
+ohio-state | Ohio State University | OH
+quinnipiac | Quinnipiac University | CT
+rutgers | Rutgers University | NJ
+sacred-heart | Sacred Heart University | CT
+saint-josephs-pa | Saint Joseph's University | PA
+stony-brook | Stony Brook University | NY
+utah | University of Utah | UT
+vermont | University of Vermont | VT
+aic | American International College | MA
+anderson-sc | Anderson University | SC
+colorado-mesa | Colorado Mesa University | CO
+dominican-ny | Dominican University New York | NY
+dyouville | D'Youville University | NY
+emory-henry | Emory & Henry University | VA
+florida-southern | Florida Southern College | FL
+franklin-pierce | Franklin Pierce University | NH
+indianapolis | University of Indianapolis | IN
+lincoln-memorial | Lincoln Memorial University | TN
+maryville-mo | Maryville University of Saint Louis | MO
+mercy | Mercy University | NY
+rockhurst | Rockhurst University | MO
+seton-hill | Seton Hill University | PA
+walsh | Walsh University | OH
+wheeling | Wheeling University | WV
+wingate | Wingate University | NC
+clarke | Clarke University | IA
+st-ambrose | St. Ambrose University | IA
+cumberlands | University of the Cumberlands | KY
+alvernia | Alvernia University | PA
+arcadia | Arcadia University | PA
+carroll-wi | Carroll University | WI
+chatham | Chatham University | PA
+clarkson | Clarkson University | NY
+concordia-wisconsin | Concordia University Wisconsin | WI
+desales | DeSales University | PA
+endicott | Endicott College | MA
+hanover | Hanover College | IN
+husson | Husson University | ME
+ithaca | Ithaca College | NY

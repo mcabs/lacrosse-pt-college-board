@@ -1,0 +1,53 @@
+transylvania-ky | Transylvania | KY
+montclair-state-nj | Montclair State | NJ
+maritime-ny | Maritime | NY
+eastern-pa | Eastern | PA
+wentworth-ma | Wentworth | MA
+farmingdale-state-ny | Farmingdale State | NY
+penn-college-pa | Penn College | PA
+southwestern-tx | Southwestern | TX
+virginia-wesleyan-va | Virginia Wesleyan | VA
+calvin-mi | Calvin | MI
+keene-state-nh | Keene State | NH
+john-carroll-oh | John Carroll | OH
+oswego-ny | Oswego | NY
+albion-mi | Albion | MI
+roger-williams-ri | Roger Williams | RI
+lake-forest-il | Lake Forest | IL
+alfred-ny | Alfred | NY
+rivier-ma | Rivier | NH
+bridgewater-va | Bridgewater | VA
+depauw-in | DePauw | IN
+southern-virginia-va | Southern Virginia | VA
+clark-ma | Clark | MA
+emerson-ma | Emerson | MA
+hood-md | Hood | MD
+carthage-wi | Carthage | WI
+adrian-mi | Adrian | MI
+capital-oh | Capital | OH
+eastern-connecticut-ct | Eastern Connecticut | CT
+msoe-wi | MSOE | WI
+hartwick-ny | Hartwick | NY
+st-vincent-pa | St Vincent | PA
+university-of-saint-joseph-ct | University of Saint Joseph | CT
+susquehanna-pa | Susquehanna | PA
+berry-ga | Berry | GA
+maine-maritime-me | Maine Maritime | ME
+nichols-ma | Nichols | MA
+piedmont-ga | Piedmont | GA
+greensboro-nc | Greensboro | NC
+immaculata-pa | Immaculata | PA
+goucher-md | Goucher | MD
+wabash-in | Wabash | IN
+drew-nj | Drew | NJ
+mcdaniel-md | McDaniel | MD
+muskingum-oh | Muskingum | OH
+plattsburgh-ny | Plattsburgh | NY
+morrisville-ny | Morrisville | NY
+salem-state-ma | Salem State | MA
+westminster-college-pa | Westminster College | PA
+lasell-ma | Lasell | MA
+saint-joseph-s-college-of-maine-me | Saint Joseph's College of Maine | ME
+illinois-tech-il | Illinois Tech | IL
+benedictine-university-il | Benedictine University | IL
+otterbein-oh | Otterbein | OH

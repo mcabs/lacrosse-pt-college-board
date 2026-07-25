@@ -8,6 +8,8 @@ men's varsity lacrosse program (D1/D2/D3/NAIA) against the CAPTE-accredited DPT 
 separately-verified list of 3+3/direct-entry freshman DPT programs; the 337 are every other currently-active
 men's lacrosse program nationally, added later at the user's request with full stats research (see below).
 
+Every one of the 417 schools is also tagged for **Catholic affiliation** (see dedicated section below).
+
 | Division | Lacrosse programs researched | Schools with a PT pathway (included) |
 |---|---|---|
 | D1 | 77 | 22 |
@@ -166,6 +168,37 @@ that well-known schools like Michigan shouldn't show blank stats when the data i
 Both were caught incidentally while researching stats, not through a dedicated closure-check pass — a reminder
 that this dataset is a snapshot and smaller private schools in particular can change status with little notice.
 
+## Catholic affiliation tagging (added after launch)
+
+Every one of the 417 schools was individually researched and tagged `catholic: true/false`, with a short
+`catholic_note` naming the founding order/diocese where applicable. **Result: 81 of 417 schools are
+Catholic-affiliated.** Shown in the app as a ✝ badge on cards/table rows, filterable via "Religious affiliation"
+in the filter panel, and included in CSV exports and the side-by-side compare view.
+
+**This was deliberately not done by name pattern** — guessing from "Saint ___" or "Mount St. ___" in a school's
+name would have been wrong in both directions:
+- **False positives avoided**: St. Lawrence University (historically Universalist/nonsectarian), Hobart
+  (Episcopal), Mount St. Mary's College at Maryland is actually a *public* honors college despite the name.
+- **Secularized-but-Catholic-founded schools correctly excluded** (per the "still maintains Catholic identity"
+  standard used, not just historical founding): Marist University (Marist Brothers founding, but the Archdiocese
+  of New York has publicly stated it's no longer Catholic), Manhattanville College (Religious of the Sacred
+  Heart, secularized 1969-71), Nazareth University (removed from the Official Catholic Directory in 2003),
+  Stevenson University MD (Sisters of Notre Dame de Namur founding, independent since 1967), Lynn University FL
+  (founded as Marymount College by a Catholic order, later secularized).
+- **Non-obvious true positives caught**: Villanova (Augustinian), Fairfield (Jesuit), Manhattan College, Canisius,
+  Iona, Le Moyne, Mercyhurst, Lewis University IL, John Carroll — none have "Catholic," "Saint," or an obviously
+  religious word in the name, but are all genuinely Catholic-affiliated today.
+- A few schools carry real nuance even among the 81 counted `true`: e.g. Walsh University and Wheeling University
+  both lost their original founding order's direct sponsorship (Walsh's Brothers of Christian Instruction
+  withdrew in 2021; Wheeling dropped "Jesuit" from its name) but both remain explicitly Catholic institutions
+  under new sponsorship — kept as `true` with a note explaining the change.
+
+Research was done via 8 parallel batches (~52 schools each), each explicitly instructed to verify rather than
+pattern-match, with cross-checks against Wikipedia and each school's own "about/mission" pages for ambiguous
+cases. High confidence overall, but as with the rest of this dataset, treat it as a strong starting point rather
+than a canonical religious-directory-grade classification — a handful of schools with genuinely ambiguous or
+recently-changed status could be mis-tagged.
+
 ## Files in this folder
 
 - `schools.json` — the 80-school PT-matched dataset
@@ -179,3 +212,5 @@ that this dataset is a snapshot and smaller private schools in particular can ch
 - `pp_batch*.json` — intermediate: public/private classification research for the 337-school pool
 - `stat_result_*.json` — intermediate: full stats research (SAT/GPA/tuition/enrollment/acceptance) for the
   337-school pool, per research batch
+- `catholic_batch_*.txt`, `catholic_result_*.json` — intermediate: Catholic-affiliation research batches for
+  all 417 schools

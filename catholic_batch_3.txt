@@ -1,0 +1,53 @@
+umass-amherst-ma | UMass Amherst | MA
+albany-ny | Albany | NY
+bucknell-pa | Bucknell | PA
+air-force-co | Air Force | CO
+lafayette-pa | Lafayette | PA
+robert-morris-pa | Robert Morris | PA
+fairfield-ct | Fairfield | CT
+college-of-the-holy-cross-ma | College of the Holy Cross | MA
+siena-ny | Siena | NY
+umbc-md | UMBC | MD
+hofstra-ny | Hofstra | NY
+monmouth-nj | Monmouth | NJ
+bryant-ri | Bryant | RI
+hobart-ny | Hobart | NY
+st-john-s-university-ny | St. John's University | NY
+njit-nj | NJIT | NJ
+merrimack-ma | Merrimack | MA
+cleveland-state-oh | Cleveland State | OH
+st-bonaventure-ny | St Bonaventure | NY
+vmi-va | VMI | VA
+queens-nc | Queens | NC
+manhattan-ny | Manhattan | NY
+detroit-mercy-mi | Detroit Mercy | MI
+mount-st-mary-s-university-md | Mount St. Mary's University | MD
+canisius-ny | Canisius | NY
+le-moyne-ny | Le Moyne | NY
+iona-ny | Iona | NY
+wagner-ny | Wagner | NY
+mercyhurst-pa | Mercyhurst | PA
+tampa-fl | Tampa | FL
+lenoir-rhyne-nc | Lenoir-Rhyne | NC
+adelphi-ny | Adelphi | NY
+lewis-il | Lewis | IL
+florida-tech-fl | Florida Tech | FL
+newberry-sc | Newberry | SC
+rollins-fl | Rollins | FL
+st-leo-fl | St Leo | FL
+st-anselm-nh | St Anselm | NH
+catawba-nc | Catawba | NC
+pace-ny | Pace | NY
+westminster-university-ut | Westminster University | UT
+embry-riddle-fl | Embry-Riddle | FL
+belmont-abbey-nc | Belmont Abbey | NC
+molloy-ny | Molloy | NY
+flagler-fl | Flagler | FL
+montevallo-al | Montevallo | AL
+palm-beach-atlantic-fl | Palm Beach Atlantic | FL
+assumption-ma | Assumption | MA
+north-greenville-sc | North Greenville | SC
+concordia-university-irvine-ca | Concordia University Irvine | CA
+st-michaels-vt | St Michaels | VT
+bentley-ma | Bentley | MA
+lander-sc | Lander | SC

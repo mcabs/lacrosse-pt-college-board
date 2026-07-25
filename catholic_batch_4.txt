@@ -1,0 +1,53 @@
+wilmington-university-de | Wilmington University | DE
+lees-mcrae-nc | Lees-McRae | NC
+lynn-fl | Lynn | FL
+northwood-mi | Northwood | MI
+frostburg-state-md | Frostburg State | MD
+southern-new-hampshire-nh | Southern New Hampshire | NH
+davenport-mi | Davenport | MI
+barton-nc | Barton | NC
+chestnut-hill-pa | Chestnut Hill | PA
+coker-sc | Coker | SC
+william-jewell-mo | William Jewell | MO
+roberts-wesleyan-ny | Roberts Wesleyan | NY
+bridgeport-ct | Bridgeport | CT
+mount-olive-nc | Mount Olive | NC
+alabama-huntsville-al | Alabama-Huntsville | AL
+tusculum-tn | Tusculum | TN
+georgian-court-nj | Georgian Court | NJ
+post-ct | Post | CT
+st-thomas-aquinas-ny | St Thomas Aquinas | NY
+holy-family-pa | Holy Family | PA
+quincy-il | Quincy | IL
+mars-hill-nc | Mars Hill | NC
+young-harris-ga | Young Harris | GA
+northwest-nazarene-id | Northwest Nazarene | ID
+chowan-nc | Chowan | NC
+lake-erie-oh | Lake Erie | OH
+emmanuel-college-georgia-ga | Emmanuel College (Georgia) | GA
+thomas-more-ky | Thomas More | KY
+adams-state-co | Adams State | CO
+tiffin-oh | Tiffin | OH
+point-park-pa | Point Park | PA
+dominican-university-of-california-ca | Dominican University of California | CA
+malone-oh | Malone | OH
+virginia-state-va | Virginia State | VA
+felician-nj | Felician | NJ
+district-of-columbia-dc | District of Columbia | DC
+davis-elkins-wv | Davis & Elkins | WV
+caldwell-nj | Caldwell | NJ
+shorter-ga | Shorter | GA
+bowdoin-me | Bowdoin | ME
+rit-ny | RIT | NY
+salisbury-md | Salisbury | MD
+wesleyan-ct | Wesleyan | CT
+babson-ma | Babson | MA
+christopher-newport-va | Christopher Newport | VA
+bates-me | Bates | ME
+stevens-nj | Stevens | NJ
+york-pa | York | PA
+middlebury-vt | Middlebury | VT
+amherst-ma | Amherst | MA
+gettysburg-pa | Gettysburg | PA
+dickinson-pa | Dickinson | PA
+washington-lee-va | Washington & Lee | VA
