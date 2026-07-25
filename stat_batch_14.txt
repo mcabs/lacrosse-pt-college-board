@@ -1,0 +1,24 @@
+centenary-university-nj | Centenary University | NJ | Private
+la-roche-pa | La Roche | PA | Private
+keiser-fl | Keiser | FL | Private
+madonna-mi | Madonna | MI | Private
+aquinas-mi | Aquinas | MI | Private
+indiana-tech-in | Indiana Tech | IN | Private
+reinhardt-ga | Reinhardt | GA | Private
+scad-ga | SCAD | GA | Private
+william-penn-ia | William Penn | IA | Private
+benedictine-college-ks | Benedictine College | KS | Private
+life-university-ga | Life University | GA | Private
+webber-international-fl | Webber International | FL | Private
+tennessee-wesleyan-tn | Tennessee Wesleyan | TN | Private
+mount-vernon-nazarene-oh | Mount Vernon Nazarene | OH | Private
+point-ga | Point | GA | Private
+taylor-in | Taylor | IN | Private
+columbia-college-mo | Columbia College | MO | Private
+lawrence-tech-mi | Lawrence Tech | MI | Private
+montreat-nc | Montreat | NC | Private
+william-woods-mo | William Woods | MO | Private
+university-of-michigan-dearborn-mi | University of Michigan-Dearborn | MI | Public
+missouri-baptist-mo | Missouri Baptist | MO | Private
+siena-heights-mi | Siena Heights | MI | Private
+columbia-international-university-sc | Columbia International University | SC | Private

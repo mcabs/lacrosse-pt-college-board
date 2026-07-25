@@ -1,0 +1,24 @@
+alma-mi | Alma | MI | Private
+randolph-va | Randolph | VA | Private
+oglethorpe-ga | Oglethorpe | GA | Private
+albertus-magnus-ct | Albertus Magnus | CT | Private
+hiram-oh | Hiram | OH | Private
+marian-university-wi | Marian University | WI | Private
+lagrange-ga | LaGrange | GA | Private
+augustana-il | Augustana | IL | Private
+elmira-ny | Elmira | NY | Private
+cobleskill-ny | Cobleskill | NY | Public
+washington-jefferson-pa | Washington & Jefferson | PA | Private
+purchase-ny | Purchase | NY | Public
+spalding-ky | Spalding | KY | Private
+earlham-in | Earlham | IN | Private
+anna-maria-ma | Anna Maria | MA | Private
+cairn-pa | Cairn | PA | Private
+warren-wilson-nc | Warren Wilson | NC | Private
+hilbert-ny | Hilbert | NY | Private
+thiel-pa | Thiel | PA | Private
+brevard-nc | Brevard | NC | Private
+bethany-wv | Bethany | WV | Private
+elms-ma | Elms | MA | Private
+colby-sawyer-nh | Colby-Sawyer | NH | Private
+mitchell-ct | Mitchell | CT | Private

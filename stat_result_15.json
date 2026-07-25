@@ -1,0 +1,3 @@
+{"midland-ne":{"city":"Fremont","avg_sat":null,"avg_gpa":null,"tuition_in":null,"tuition_out":null,"enrollment":null,"acceptance":null,"confidence":{"sat":"unverified","gpa":"unverified","tuition":"unverified"},"source_urls":[]},
+"ottawa-ks":{"city":"Ottawa","avg_sat":null,"avg_gpa":null,"tuition_in":null,"tuition_out":null,"enrollment":null,"acceptance":null,"confidence":{"sat":"unverified","gpa":"unverified","tuition":"unverified"},"source_urls":["https://www.ottawa.edu/admissions"]},
+"missouri-valley-mo":{"city":"Marshall","avg_sat":null,"avg_gpa":null,"tuition_in":null,"tuition_out":null,"enrollment":null,"acceptance":null,"confidence":{"sat":"unverified","gpa":"unverified","tuition":"unverified"},"source_urls":[]}}

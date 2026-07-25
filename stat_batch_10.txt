@@ -1,0 +1,24 @@
+university-of-saint-joseph-ct | University of Saint Joseph | CT | Private
+susquehanna-pa | Susquehanna | PA | Private
+berry-ga | Berry | GA | Private
+maine-maritime-me | Maine Maritime | ME | Public
+nichols-ma | Nichols | MA | Private
+piedmont-ga | Piedmont | GA | Private
+greensboro-nc | Greensboro | NC | Private
+immaculata-pa | Immaculata | PA | Private
+goucher-md | Goucher | MD | Private
+wabash-in | Wabash | IN | Private
+drew-nj | Drew | NJ | Private
+mcdaniel-md | McDaniel | MD | Private
+muskingum-oh | Muskingum | OH | Private
+plattsburgh-ny | Plattsburgh | NY | Public
+morrisville-ny | Morrisville | NY | Public
+salem-state-ma | Salem State | MA | Public
+westminster-college-pa | Westminster College | PA | Private
+lasell-ma | Lasell | MA | Private
+saint-joseph-s-college-of-maine-me | Saint Joseph's College of Maine | ME | Private
+illinois-tech-il | Illinois Tech | IL | Private
+benedictine-university-il | Benedictine University | IL | Private
+otterbein-oh | Otterbein | OH | Private
+centenary-college-of-louisiana-la | Centenary College of Louisiana | LA | Private
+new-paltz-ny | New Paltz | NY | Public

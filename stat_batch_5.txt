@@ -1,0 +1,24 @@
+post-ct | Post | CT | Private
+st-thomas-aquinas-ny | St Thomas Aquinas | NY | Private
+holy-family-pa | Holy Family | PA | Private
+quincy-il | Quincy | IL | Private
+mars-hill-nc | Mars Hill | NC | Private
+young-harris-ga | Young Harris | GA | Private
+northwest-nazarene-id | Northwest Nazarene | ID | Private
+chowan-nc | Chowan | NC | Private
+lake-erie-oh | Lake Erie | OH | Private
+emmanuel-college-georgia-ga | Emmanuel College (Georgia) | GA | Private
+thomas-more-ky | Thomas More | KY | Private
+adams-state-co | Adams State | CO | Public
+tiffin-oh | Tiffin | OH | Private
+point-park-pa | Point Park | PA | Private
+dominican-university-of-california-ca | Dominican University of California | CA | Private
+malone-oh | Malone | OH | Private
+virginia-state-va | Virginia State | VA | Public
+felician-nj | Felician | NJ | Private
+district-of-columbia-dc | District of Columbia | DC | Public
+davis-elkins-wv | Davis & Elkins | WV | Private
+caldwell-nj | Caldwell | NJ | Private
+shorter-ga | Shorter | GA | Private
+bowdoin-me | Bowdoin | ME | Private
+rit-ny | RIT | NY | Private

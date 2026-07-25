@@ -1,0 +1,24 @@
+elizabethtown-pa | Elizabethtown | PA | Private
+massachusetts-maritime-ma | Massachusetts Maritime | MA | Public
+western-connecticut-ct | Western Connecticut | CT | Public
+ursinus-pa | Ursinus | PA | Private
+oneonta-ny | Oneonta | NY | Public
+salve-regina-ri | Salve Regina | RI | Private
+wheaton-ma | Wheaton | MA | Private
+centre-ky | Centre | KY | Private
+wooster-oh | Wooster | OH | Private
+mary-washington-va | Mary Washington | VA | Public
+western-new-england-ma | Western New England | MA | Private
+aurora-il | Aurora | IL | Private
+illinois-wesleyan-il | Illinois Wesleyan | IL | Private
+merchant-marine-ny | Merchant Marine | NY | Public
+coast-guard-ct | Coast Guard | CT | Public
+umass-boston-ma | UMass Boston | MA | Public
+potsdam-ny | Potsdam | NY | Public
+transylvania-ky | Transylvania | KY | Private
+montclair-state-nj | Montclair State | NJ | Public
+maritime-ny | Maritime | NY | Public
+eastern-pa | Eastern | PA | Private
+wentworth-ma | Wentworth | MA | Private
+farmingdale-state-ny | Farmingdale State | NY | Public
+penn-college-pa | Penn College | PA | Public

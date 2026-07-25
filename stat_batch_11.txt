@@ -1,0 +1,24 @@
+kalamazoo-mi | Kalamazoo | MI | Private
+norwich-vt | Norwich | VT | Private
+delhi-ny | Delhi | NY | Public
+dubuque-ia | Dubuque | IA | Private
+johnson-wales-ri | Johnson & Wales | RI | Private
+wittenberg-oh | Wittenberg | OH | Private
+gwynedd-mercy-pa | Gwynedd Mercy | PA | Private
+fdu-florham-nj | FDU-Florham | NJ | Private
+suny-poly-ny | SUNY Poly | NY | Public
+marywood-pa | Marywood | PA | Private
+curry-ma | Curry | MA | Private
+dean-college-ma | Dean College | MA | Private
+lawrence-wi | Lawrence | WI | Private
+manhattanville-ny | Manhattanville | NY | Private
+emmanuel-college-ma | Emmanuel College | MA | Private
+kings-pa | Kings | PA | Private
+allegheny-pa | Allegheny | PA | Private
+huntingdon-al | Huntingdon | AL | Private
+marietta-oh | Marietta | OH | Private
+wilkes-pa | Wilkes | PA | Private
+gordon-ma | Gordon | MA | Private
+edgewood-wi | Edgewood | WI | Private
+hendrix-ar | Hendrix | AR | Private
+mount-st-vincent-ny | Mount St Vincent | NY | Private

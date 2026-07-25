@@ -2,9 +2,11 @@
 
 ## Coverage summary
 
-**80 schools** (as of the LaxNumbers verification pass below; 84 originally). Built as the intersection of every
-US men's varsity lacrosse program (D1/D2/D3/NAIA) against the CAPTE-accredited DPT program list and a
-separately-verified list of 3+3/direct-entry freshman DPT programs.
+**417 schools total**: **80** with a confirmed PT pathway (the app's default view) + **337** with no confirmed
+PT match (visible via the "Show all lacrosse schools" toggle). The 80 were built as the intersection of every US
+men's varsity lacrosse program (D1/D2/D3/NAIA) against the CAPTE-accredited DPT program list and a
+separately-verified list of 3+3/direct-entry freshman DPT programs; the 337 are every other currently-active
+men's lacrosse program nationally, added later at the user's request with full stats research (see below).
 
 | Division | Lacrosse programs researched | Schools with a PT pathway (included) |
 |---|---|---|
@@ -124,38 +126,56 @@ program is still running before investing recruiting effort.
 
 ## "Show all lacrosse schools" toggle — the no-PT-match pool (added after launch)
 
-The app now has a second tier of data behind an off-by-default toggle: **every other men's lacrosse program in
+The app has a second tier of data behind an off-by-default toggle: **every other men's lacrosse program in
 the country**, not just the 80 with a confirmed PT pathway. Rationale: a general pre-med/pre-health track at any
 school can still lead to PT school later (via a standard post-bacc DPT application), so a family may want the
 full lacrosse landscape as a backup/comparison view, not just the PT-filtered shortlist.
 
-**Coverage: 339 additional schools** (419 total with the original 80), tagged `pt_type: "none"`. Source: the
-same live LaxNumbers 2026 rosters used for the correction pass above (D1: 77, D2: 80, D3: 234, NAIA: 28 =
-419 currently-active programs), so — unlike the original Wikipedia/NCSA-sourced universe — this pool is already
-current and doesn't carry the "discontinued program" risk described earlier in this document.
+**Coverage: 337 additional schools** (417 total with the original 80), tagged `pt_type: "none"`. Source: the
+same live LaxNumbers 2026 rosters used for the correction pass above (D1: 77, D2: 80, D3: 234, NAIA: 28 = 419
+currently-active programs, minus 2 removed for closures — see below), so — unlike the original Wikipedia/NCSA-
+sourced universe — this pool is already current and doesn't carry the "discontinued program" risk described
+earlier in this document.
 
-**What's researched for these 339 schools:**
-- Division, state, region: 100% complete, sourced directly from the verified-active rosters.
-- Public/private status: researched for all 339 (parallel batch classification, cross-checked for tricky cases
-  like same-named public/private pairs — e.g. Alfred University (private) vs. Alfred State (public), Bridgewater
-  College VA (private) vs. Bridgewater State MA (public)).
-- **Not researched: city, conference, SAT, GPA, tuition, enrollment, acceptance rate.** These display as "—" in
-  the app. This is a deliberate scope cut — full stats research for 339 more schools would roughly quadruple the
-  research already done for the 80 PT-matched schools. If your son narrows in on specific schools from this
-  expanded list, the app's **Edit** button lets you fill in real numbers as you find them, and that data persists
-  in the browser.
-- PT status for these 339 is genuinely **"not confirmed found"**, not **"confirmed absent"** — the original PT
+**Full stats research was done for all 337** (not just backbone data — a follow-up pass after the user flagged
+that well-known schools like Michigan shouldn't show blank stats when the data is genuinely easy to find):
+- Division, state, region, public/private, city: essentially 100% complete.
+- **avg_sat: 283 of 337 (84%)** verified/found. The remaining ~16% are mostly genuinely test-optional/test-blind
+  small schools with too few SAT submitters to report a meaningful figure — not a research gap.
+- **avg_gpa: 50 of 337 (15%)** — consistent with the PT-matched 80, most schools simply don't publish an
+  average incoming HS GPA.
+- **tuition: 322 of 337 (96%)** verified/found.
+- A small number of schools (~10-12) went through a secondary research pass after their original batch's
+  sub-agent didn't fully complete; those were filled in directly with a mix of confirmed aggregator data and,
+  for a handful of public/service-academy schools, well-established facts (e.g. US Merchant Marine Academy and
+  US Coast Guard Academy have $0 tuition — federal service academies). A few schools (Transylvania University,
+  SUNY Maritime, Eastern University PA, Farmingdale State, Penn College) could not be confirmed this session and
+  are left fully null/unverified rather than guessed.
+- PT status for these 337 is genuinely **"not confirmed found"**, not **"confirmed absent"** — the original PT
   program research (CAPTE list + 3+3 list) was thorough but not treated as 100% exhaustive (see "3+3 list
   confidence" above). A school showing "No PT Match" could still turn out to have a program; it just didn't
   surface in this project's research.
 
+### Two more closures caught during this research pass
+
+- **Anna Maria College (MA, D3)** — permanently closed after the Spring 2026 semester (announced April 2026,
+  closed May 2026, filed Chapter 11 in June 2026). Removed from the dataset entirely.
+- **Siena Heights University (MI, NAIA)** — reportedly closing at the end of the 2025-26 academic year per its
+  Wikipedia page. Removed from the dataset entirely.
+
+Both were caught incidentally while researching stats, not through a dedicated closure-check pass — a reminder
+that this dataset is a snapshot and smaller private schools in particular can change status with little notice.
+
 ## Files in this folder
 
 - `schools.json` — the 80-school PT-matched dataset
-- `schools_all.json` — the full 419-school dataset (80 PT-matched + 339 no-PT-match), embedded into the app
+- `schools_all.json` — the full 417-school dataset (80 PT-matched + 337 no-PT-match), embedded into the app
 - `research_raw.md` — raw lacrosse rosters (D1/D2/D3/NAIA) and PT program lists, kept for audit
 - `schools_base.json` — intermediate: 84 schools with division/conference/state/pt_type only (pre-stats, pre-correction)
-- `stats_*.json` — intermediate: per-batch stats research before final merge into schools.json
+- `stats_*.json` — intermediate: original per-batch stats research for the 80 PT-matched schools
 - `laxnumbers_*.txt` — verified-active 2026 rosters pulled from laxnumbers.com, used for both the correction
   pass and the expanded no-PT-match pool
-- `nopt_pool.json`, `pp_batch*.json` — intermediate: the 339-school expansion and its public/private research
+- `nopt_pool.json` — the 337-school no-PT-match dataset (public/private + full stats)
+- `pp_batch*.json` — intermediate: public/private classification research for the 337-school pool
+- `stat_result_*.json` — intermediate: full stats research (SAT/GPA/tuition/enrollment/acceptance) for the
+  337-school pool, per research batch

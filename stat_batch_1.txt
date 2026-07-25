@@ -1,0 +1,24 @@
+princeton-nj | Princeton | NJ | Private
+notre-dame-in | Notre Dame | IN | Private
+penn-state-pa | Penn State | PA | Public
+richmond-va | Richmond | VA | Private
+virginia-va | Virginia | VA | Public
+syracuse-ny | Syracuse | NY | Private
+maryland-md | Maryland | MD | Public
+cornell-ny | Cornell | NY | Private
+georgetown-dc | Georgetown | DC | Private
+army-west-point-ny | Army West Point | NY | Public
+johns-hopkins-md | Johns Hopkins | MD | Private
+yale-ct | Yale | CT | Private
+harvard-ma | Harvard | MA | Private
+jacksonville-fl | Jacksonville | FL | Private
+denver-co | Denver | CO | Private
+penn-pa | Penn | PA | Private
+towson-md | Towson | MD | Public
+michigan-mi | Michigan | MI | Public
+lehigh-pa | Lehigh | PA | Private
+loyola-university-maryland-md | Loyola University Maryland | MD | Private
+villanova-pa | Villanova | PA | Private
+navy-md | Navy | MD | Public
+brown-ri | Brown | RI | Private
+dartmouth-nh | Dartmouth | NH | Private

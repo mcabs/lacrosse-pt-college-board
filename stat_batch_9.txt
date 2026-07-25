@@ -1,0 +1,24 @@
+southwestern-tx | Southwestern | TX | Private
+virginia-wesleyan-va | Virginia Wesleyan | VA | Private
+calvin-mi | Calvin | MI | Private
+keene-state-nh | Keene State | NH | Public
+john-carroll-oh | John Carroll | OH | Private
+oswego-ny | Oswego | NY | Public
+albion-mi | Albion | MI | Private
+roger-williams-ri | Roger Williams | RI | Private
+lake-forest-il | Lake Forest | IL | Private
+alfred-ny | Alfred | NY | Private
+rivier-ma | Rivier | MA | Private
+bridgewater-va | Bridgewater | VA | Private
+depauw-in | DePauw | IN | Private
+southern-virginia-va | Southern Virginia | VA | Private
+clark-ma | Clark | MA | Private
+emerson-ma | Emerson | MA | Private
+hood-md | Hood | MD | Private
+carthage-wi | Carthage | WI | Private
+adrian-mi | Adrian | MI | Private
+capital-oh | Capital | OH | Private
+eastern-connecticut-ct | Eastern Connecticut | CT | Public
+msoe-wi | MSOE | WI | Private
+hartwick-ny | Hartwick | NY | Private
+st-vincent-pa | St Vincent | PA | Private

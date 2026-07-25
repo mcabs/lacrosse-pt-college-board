@@ -1,0 +1,24 @@
+detroit-mercy-mi | Detroit Mercy | MI | Private
+mount-st-mary-s-university-md | Mount St. Mary's University | MD | Private
+canisius-ny | Canisius | NY | Private
+le-moyne-ny | Le Moyne | NY | Private
+iona-ny | Iona | NY | Private
+wagner-ny | Wagner | NY | Private
+mercyhurst-pa | Mercyhurst | PA | Private
+tampa-fl | Tampa | FL | Private
+lenoir-rhyne-nc | Lenoir-Rhyne | NC | Private
+adelphi-ny | Adelphi | NY | Private
+lewis-il | Lewis | IL | Private
+florida-tech-fl | Florida Tech | FL | Private
+newberry-sc | Newberry | SC | Private
+rollins-fl | Rollins | FL | Private
+st-leo-fl | St Leo | FL | Private
+st-anselm-nh | St Anselm | NH | Private
+catawba-nc | Catawba | NC | Private
+pace-ny | Pace | NY | Private
+westminster-university-ut | Westminster University | UT | Private
+embry-riddle-fl | Embry-Riddle | FL | Private
+belmont-abbey-nc | Belmont Abbey | NC | Private
+molloy-ny | Molloy | NY | Private
+flagler-fl | Flagler | FL | Private
+montevallo-al | Montevallo | AL | Public

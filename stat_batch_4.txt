@@ -1,0 +1,24 @@
+palm-beach-atlantic-fl | Palm Beach Atlantic | FL | Private
+assumption-ma | Assumption | MA | Private
+north-greenville-sc | North Greenville | SC | Private
+concordia-university-irvine-ca | Concordia University Irvine | CA | Private
+st-michaels-vt | St Michaels | VT | Private
+bentley-ma | Bentley | MA | Private
+lander-sc | Lander | SC | Public
+wilmington-university-de | Wilmington University | DE | Private
+lees-mcrae-nc | Lees-McRae | NC | Private
+lynn-fl | Lynn | FL | Private
+northwood-mi | Northwood | MI | Private
+frostburg-state-md | Frostburg State | MD | Public
+southern-new-hampshire-nh | Southern New Hampshire | NH | Private
+davenport-mi | Davenport | MI | Private
+barton-nc | Barton | NC | Private
+chestnut-hill-pa | Chestnut Hill | PA | Private
+coker-sc | Coker | SC | Private
+william-jewell-mo | William Jewell | MO | Private
+roberts-wesleyan-ny | Roberts Wesleyan | NY | Private
+bridgeport-ct | Bridgeport | CT | Private
+mount-olive-nc | Mount Olive | NC | Private
+alabama-huntsville-al | Alabama-Huntsville | AL | Public
+tusculum-tn | Tusculum | TN | Private
+georgian-court-nj | Georgian Court | NJ | Private

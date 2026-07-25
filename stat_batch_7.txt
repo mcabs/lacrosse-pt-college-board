@@ -1,0 +1,24 @@
+rpi-ny | RPI | NY | Private
+colby-me | Colby | ME | Private
+stevenson-md | Stevenson | MD | Private
+mit-ma | MIT | MA | Private
+washington-college-md | Washington College | MD | Private
+roanoke-va | Roanoke | VA | Private
+muhlenberg-pa | Muhlenberg | PA | Private
+ohio-wesleyan-oh | Ohio Wesleyan | OH | Private
+randolph-macon-va | Randolph-Macon | VA | Private
+haverford-pa | Haverford | PA | Private
+elmhurst-il | Elmhurst | IL | Private
+vassar-ny | Vassar | NY | Private
+baldwin-wallace-oh | Baldwin Wallace | OH | Private
+grove-city-pa | Grove City | PA | Private
+st-mary-s-college-of-maryland-md | St. Mary's College of Maryland | MD | Public
+hope-mi | Hope | MI | Private
+kenyon-oh | Kenyon | OH | Private
+hampden-sydney-va | Hampden-Sydney | VA | Private
+sewanee-tn | Sewanee | TN | Private
+rhodes-tn | Rhodes | TN | Private
+oberlin-oh | Oberlin | OH | Private
+catholic-dc | Catholic | DC | Private
+ohio-northern-oh | Ohio Northern | OH | Private
+pfeiffer-nc | Pfeiffer | NC | Private

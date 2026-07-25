@@ -1,0 +1,24 @@
+salisbury-md | Salisbury | MD | Public
+wesleyan-ct | Wesleyan | CT | Private
+babson-ma | Babson | MA | Private
+christopher-newport-va | Christopher Newport | VA | Public
+bates-me | Bates | ME | Private
+stevens-nj | Stevens | NJ | Private
+york-pa | York | PA | Private
+middlebury-vt | Middlebury | VT | Private
+amherst-ma | Amherst | MA | Private
+gettysburg-pa | Gettysburg | PA | Private
+dickinson-pa | Dickinson | PA | Private
+washington-lee-va | Washington & Lee | VA | Private
+hamilton-ny | Hamilton | NY | Private
+st-john-fisher-ny | St John Fisher | NY | Private
+union-ny | Union | NY | Private
+williams-ma | Williams | MA | Private
+st-lawrence-ny | St Lawrence | NY | Private
+trinity-ct | Trinity | CT | Private
+swarthmore-pa | Swarthmore | PA | Private
+denison-oh | Denison | OH | Private
+skidmore-ny | Skidmore | NY | Private
+franklin-marshall-pa | Franklin & Marshall | PA | Private
+colorado-college-co | Colorado College | CO | Private
+connecticut-college-ct | Connecticut College | CT | Private
