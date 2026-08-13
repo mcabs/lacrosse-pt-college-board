@@ -1,0 +1,53 @@
+transylvania-ky | Transylvania | KY | Private
+montclair-state-nj | Montclair State | NJ | Public
+maritime-ny | Maritime | NY | Public
+eastern-pa | Eastern | PA | Private
+wentworth-ma | Wentworth | MA | Private
+farmingdale-state-ny | Farmingdale State | NY | Public
+penn-college-pa | Penn College | PA | Public
+southwestern-tx | Southwestern | TX | Private
+virginia-wesleyan-va | Virginia Wesleyan | VA | Private
+calvin-mi | Calvin | MI | Private
+keene-state-nh | Keene State | NH | Public
+john-carroll-oh | John Carroll | OH | Private
+oswego-ny | Oswego | NY | Public
+albion-mi | Albion | MI | Private
+roger-williams-ri | Roger Williams | RI | Private
+lake-forest-il | Lake Forest | IL | Private
+alfred-ny | Alfred | NY | Private
+rivier-ma | Rivier | NH | Private
+bridgewater-va | Bridgewater | VA | Private
+depauw-in | DePauw | IN | Private
+southern-virginia-va | Southern Virginia | VA | Private
+clark-ma | Clark | MA | Private
+emerson-ma | Emerson | MA | Private
+hood-md | Hood | MD | Private
+carthage-wi | Carthage | WI | Private
+adrian-mi | Adrian | MI | Private
+capital-oh | Capital | OH | Private
+eastern-connecticut-ct | Eastern Connecticut | CT | Public
+msoe-wi | MSOE | WI | Private
+hartwick-ny | Hartwick | NY | Private
+st-vincent-pa | St Vincent | PA | Private
+university-of-saint-joseph-ct | University of Saint Joseph | CT | Private
+susquehanna-pa | Susquehanna | PA | Private
+berry-ga | Berry | GA | Private
+maine-maritime-me | Maine Maritime | ME | Public
+nichols-ma | Nichols | MA | Private
+piedmont-ga | Piedmont | GA | Private
+greensboro-nc | Greensboro | NC | Private
+immaculata-pa | Immaculata | PA | Private
+goucher-md | Goucher | MD | Private
+wabash-in | Wabash | IN | Private
+drew-nj | Drew | NJ | Private
+mcdaniel-md | McDaniel | MD | Private
+muskingum-oh | Muskingum | OH | Private
+plattsburgh-ny | Plattsburgh | NY | Public
+morrisville-ny | Morrisville | NY | Public
+salem-state-ma | Salem State | MA | Public
+westminster-college-pa | Westminster College | PA | Private
+lasell-ma | Lasell | MA | Private
+saint-joseph-s-college-of-maine-me | Saint Joseph's College of Maine | ME | Private
+illinois-tech-il | Illinois Tech | IL | Private
+benedictine-university-il | Benedictine University | IL | Private
+otterbein-oh | Otterbein | OH | Private

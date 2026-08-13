@@ -1,0 +1,53 @@
+umass-amherst-ma | UMass Amherst | MA | Public
+albany-ny | Albany | NY | Public
+bucknell-pa | Bucknell | PA | Private
+air-force-co | Air Force | CO | Public
+lafayette-pa | Lafayette | PA | Private
+robert-morris-pa | Robert Morris | PA | Private
+fairfield-ct | Fairfield | CT | Private
+college-of-the-holy-cross-ma | College of the Holy Cross | MA | Private
+siena-ny | Siena | NY | Private
+umbc-md | UMBC | MD | Public
+hofstra-ny | Hofstra | NY | Private
+monmouth-nj | Monmouth | NJ | Private
+bryant-ri | Bryant | RI | Private
+hobart-ny | Hobart | NY | Private
+st-john-s-university-ny | St. John's University | NY | Private
+njit-nj | NJIT | NJ | Public
+merrimack-ma | Merrimack | MA | Private
+cleveland-state-oh | Cleveland State | OH | Public
+st-bonaventure-ny | St Bonaventure | NY | Private
+vmi-va | VMI | VA | Public
+queens-nc | Queens | NC | Private
+manhattan-ny | Manhattan | NY | Private
+detroit-mercy-mi | Detroit Mercy | MI | Private
+mount-st-mary-s-university-md | Mount St. Mary's University | MD | Private
+canisius-ny | Canisius | NY | Private
+le-moyne-ny | Le Moyne | NY | Private
+iona-ny | Iona | NY | Private
+wagner-ny | Wagner | NY | Private
+mercyhurst-pa | Mercyhurst | PA | Private
+tampa-fl | Tampa | FL | Private
+lenoir-rhyne-nc | Lenoir-Rhyne | NC | Private
+adelphi-ny | Adelphi | NY | Private
+lewis-il | Lewis | IL | Private
+florida-tech-fl | Florida Tech | FL | Private
+newberry-sc | Newberry | SC | Private
+rollins-fl | Rollins | FL | Private
+st-leo-fl | St Leo | FL | Private
+st-anselm-nh | St Anselm | NH | Private
+catawba-nc | Catawba | NC | Private
+pace-ny | Pace | NY | Private
+westminster-university-ut | Westminster University | UT | Private
+embry-riddle-fl | Embry-Riddle | FL | Private
+belmont-abbey-nc | Belmont Abbey | NC | Private
+molloy-ny | Molloy | NY | Private
+flagler-fl | Flagler | FL | Private
+montevallo-al | Montevallo | AL | Public
+palm-beach-atlantic-fl | Palm Beach Atlantic | FL | Private
+assumption-ma | Assumption | MA | Private
+north-greenville-sc | North Greenville | SC | Private
+concordia-university-irvine-ca | Concordia University Irvine | CA | Private
+st-michaels-vt | St Michaels | VT | Private
+bentley-ma | Bentley | MA | Private
+lander-sc | Lander | SC | Public

@@ -1,0 +1,53 @@
+wilmington-university-de | Wilmington University | DE | Private
+lees-mcrae-nc | Lees-McRae | NC | Private
+lynn-fl | Lynn | FL | Private
+northwood-mi | Northwood | MI | Private
+frostburg-state-md | Frostburg State | MD | Public
+southern-new-hampshire-nh | Southern New Hampshire | NH | Private
+davenport-mi | Davenport | MI | Private
+barton-nc | Barton | NC | Private
+chestnut-hill-pa | Chestnut Hill | PA | Private
+coker-sc | Coker | SC | Private
+william-jewell-mo | William Jewell | MO | Private
+roberts-wesleyan-ny | Roberts Wesleyan | NY | Private
+bridgeport-ct | Bridgeport | CT | Private
+mount-olive-nc | Mount Olive | NC | Private
+alabama-huntsville-al | Alabama-Huntsville | AL | Public
+tusculum-tn | Tusculum | TN | Private
+georgian-court-nj | Georgian Court | NJ | Private
+post-ct | Post | CT | Private
+st-thomas-aquinas-ny | St Thomas Aquinas | NY | Private
+holy-family-pa | Holy Family | PA | Private
+quincy-il | Quincy | IL | Private
+mars-hill-nc | Mars Hill | NC | Private
+young-harris-ga | Young Harris | GA | Private
+northwest-nazarene-id | Northwest Nazarene | ID | Private
+chowan-nc | Chowan | NC | Private
+lake-erie-oh | Lake Erie | OH | Private
+emmanuel-college-georgia-ga | Emmanuel College (Georgia) | GA | Private
+thomas-more-ky | Thomas More | KY | Private
+adams-state-co | Adams State | CO | Public
+tiffin-oh | Tiffin | OH | Private
+point-park-pa | Point Park | PA | Private
+dominican-university-of-california-ca | Dominican University of California | CA | Private
+malone-oh | Malone | OH | Private
+virginia-state-va | Virginia State | VA | Public
+felician-nj | Felician | NJ | Private
+district-of-columbia-dc | District of Columbia | DC | Public
+davis-elkins-wv | Davis & Elkins | WV | Private
+caldwell-nj | Caldwell | NJ | Private
+shorter-ga | Shorter | GA | Private
+bowdoin-me | Bowdoin | ME | Private
+rit-ny | RIT | NY | Private
+salisbury-md | Salisbury | MD | Public
+wesleyan-ct | Wesleyan | CT | Private
+babson-ma | Babson | MA | Private
+christopher-newport-va | Christopher Newport | VA | Public
+bates-me | Bates | ME | Private
+stevens-nj | Stevens | NJ | Private
+york-pa | York | PA | Private
+middlebury-vt | Middlebury | VT | Private
+amherst-ma | Amherst | MA | Private
+gettysburg-pa | Gettysburg | PA | Private
+dickinson-pa | Dickinson | PA | Private
+washington-lee-va | Washington & Lee | VA | Private

@@ -1,0 +1,53 @@
+bellarmine | Bellarmine University | KY | Private
+binghamton | Binghamton University | NY | Public
+boston-university | Boston University | MA | Private
+delaware | University of Delaware | DE | Public
+drexel | Drexel University | PA | Private
+duke | Duke University | NC | Private
+hampton | Hampton University | VA | Private
+high-point | High Point University | NC | Private
+liu | Long Island University (LIU Post) | NY | Private
+marist | Marist University | NY | Private
+marquette | Marquette University | WI | Private
+umass-lowell | UMass Lowell | MA | Public
+mercer | Mercer University | GA | Private
+unc | University of North Carolina at Chapel Hill | NC | Public
+ohio-state | Ohio State University | OH | Public
+quinnipiac | Quinnipiac University | CT | Private
+rutgers | Rutgers University | NJ | Public
+sacred-heart | Sacred Heart University | CT | Private
+saint-josephs-pa | Saint Joseph's University | PA | Private
+stony-brook | Stony Brook University | NY | Public
+utah | University of Utah | UT | Public
+vermont | University of Vermont | VT | Public
+aic | American International College | MA | Private
+anderson-sc | Anderson University | SC | Private
+colorado-mesa | Colorado Mesa University | CO | Public
+dominican-ny | Dominican University New York | NY | Private
+dyouville | D'Youville University | NY | Private
+emory-henry | Emory & Henry University | VA | Private
+florida-southern | Florida Southern College | FL | Private
+franklin-pierce | Franklin Pierce University | NH | Private
+indianapolis | University of Indianapolis | IN | Private
+lincoln-memorial | Lincoln Memorial University | TN | Private
+maryville-mo | Maryville University of Saint Louis | MO | Private
+mercy | Mercy University | NY | Private
+rockhurst | Rockhurst University | MO | Private
+seton-hill | Seton Hill University | PA | Private
+walsh | Walsh University | OH | Private
+wheeling | Wheeling University | WV | Private
+wingate | Wingate University | NC | Private
+clarke | Clarke University | IA | Private
+st-ambrose | St. Ambrose University | IA | Private
+cumberlands | University of the Cumberlands | KY | Private
+alvernia | Alvernia University | PA | Private
+arcadia | Arcadia University | PA | Private
+carroll-wi | Carroll University | WI | Private
+chatham | Chatham University | PA | Private
+clarkson | Clarkson University | NY | Private
+concordia-wisconsin | Concordia University Wisconsin | WI | Private
+desales | DeSales University | PA | Private
+endicott | Endicott College | MA | Private
+hanover | Hanover College | IN | Private
+husson | Husson University | ME | Private
+ithaca | Ithaca College | NY | Private

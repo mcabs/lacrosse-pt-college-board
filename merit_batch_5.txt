@@ -1,0 +1,53 @@
+hamilton-ny | Hamilton | NY | Private
+st-john-fisher-ny | St John Fisher | NY | Private
+union-ny | Union | NY | Private
+williams-ma | Williams | MA | Private
+st-lawrence-ny | St Lawrence | NY | Private
+trinity-ct | Trinity | CT | Private
+swarthmore-pa | Swarthmore | PA | Private
+denison-oh | Denison | OH | Private
+skidmore-ny | Skidmore | NY | Private
+franklin-marshall-pa | Franklin & Marshall | PA | Private
+colorado-college-co | Colorado College | CO | Private
+connecticut-college-ct | Connecticut College | CT | Private
+rpi-ny | RPI | NY | Private
+colby-me | Colby | ME | Private
+stevenson-md | Stevenson | MD | Private
+mit-ma | MIT | MA | Private
+washington-college-md | Washington College | MD | Private
+roanoke-va | Roanoke | VA | Private
+muhlenberg-pa | Muhlenberg | PA | Private
+ohio-wesleyan-oh | Ohio Wesleyan | OH | Private
+randolph-macon-va | Randolph-Macon | VA | Private
+haverford-pa | Haverford | PA | Private
+elmhurst-il | Elmhurst | IL | Private
+vassar-ny | Vassar | NY | Private
+baldwin-wallace-oh | Baldwin Wallace | OH | Private
+grove-city-pa | Grove City | PA | Private
+st-mary-s-college-of-maryland-md | St. Mary's College of Maryland | MD | Public
+hope-mi | Hope | MI | Private
+kenyon-oh | Kenyon | OH | Private
+hampden-sydney-va | Hampden-Sydney | VA | Private
+sewanee-tn | Sewanee | TN | Private
+rhodes-tn | Rhodes | TN | Private
+oberlin-oh | Oberlin | OH | Private
+catholic-dc | Catholic | DC | Private
+ohio-northern-oh | Ohio Northern | OH | Private
+pfeiffer-nc | Pfeiffer | NC | Private
+elizabethtown-pa | Elizabethtown | PA | Private
+massachusetts-maritime-ma | Massachusetts Maritime | MA | Public
+western-connecticut-ct | Western Connecticut | CT | Public
+ursinus-pa | Ursinus | PA | Private
+oneonta-ny | Oneonta | NY | Public
+salve-regina-ri | Salve Regina | RI | Private
+wheaton-ma | Wheaton | MA | Private
+centre-ky | Centre | KY | Private
+wooster-oh | Wooster | OH | Private
+mary-washington-va | Mary Washington | VA | Public
+western-new-england-ma | Western New England | MA | Private
+aurora-il | Aurora | IL | Private
+illinois-wesleyan-il | Illinois Wesleyan | IL | Private
+merchant-marine-ny | Merchant Marine | NY | Public
+coast-guard-ct | Coast Guard | CT | Public
+umass-boston-ma | UMass Boston | MA | Public
+potsdam-ny | Potsdam | NY | Public

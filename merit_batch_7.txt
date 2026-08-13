@@ -1,0 +1,53 @@
+centenary-college-of-louisiana-la | Centenary College of Louisiana | LA | Private
+new-paltz-ny | New Paltz | NY | Public
+kalamazoo-mi | Kalamazoo | MI | Private
+norwich-vt | Norwich | VT | Private
+delhi-ny | Delhi | NY | Public
+dubuque-ia | Dubuque | IA | Private
+johnson-wales-ri | Johnson & Wales | RI | Private
+wittenberg-oh | Wittenberg | OH | Private
+gwynedd-mercy-pa | Gwynedd Mercy | PA | Private
+fdu-florham-nj | FDU-Florham | NJ | Private
+suny-poly-ny | SUNY Poly | NY | Public
+marywood-pa | Marywood | PA | Private
+curry-ma | Curry | MA | Private
+dean-college-ma | Dean College | MA | Private
+lawrence-wi | Lawrence | WI | Private
+manhattanville-ny | Manhattanville | NY | Private
+emmanuel-college-ma | Emmanuel College | MA | Private
+kings-pa | Kings | PA | Private
+allegheny-pa | Allegheny | PA | Private
+huntingdon-al | Huntingdon | AL | Private
+marietta-oh | Marietta | OH | Private
+wilkes-pa | Wilkes | PA | Private
+gordon-ma | Gordon | MA | Private
+edgewood-wi | Edgewood | WI | Private
+hendrix-ar | Hendrix | AR | Private
+mount-st-vincent-ny | Mount St Vincent | NY | Private
+canton-ny | Canton | NY | Public
+franciscan-oh | Franciscan | OH | Private
+thomas-me | Thomas | ME | Private
+albright-pa | Albright | PA | Private
+regis-college-ma | Regis College | MA | Private
+castleton-vt | Castleton | VT | Public
+new-england-college-nh | New England College | NH | Private
+wilmington-college-oh | Wilmington College | OH | Private
+alfred-state-ny | Alfred State | NY | Public
+pitt-bradford-pa | Pitt-Bradford | PA | Public
+delaware-valley-pa | Delaware Valley | PA | Private
+southern-maine-me | Southern Maine | ME | Public
+beloit-wi | Beloit | WI | Private
+mount-saint-mary-college-ny | Mount Saint Mary College | NY | Private
+keuka-ny | Keuka | NY | Private
+william-peace-nc | William Peace | NC | Private
+heidelberg-oh | Heidelberg | OH | Private
+st-joseph-s-university-long-island-ny | St. Joseph's University (Long Island) | NY | Private
+juniata-pa | Juniata | PA | Private
+cornell-college-ia | Cornell College | IA | Private
+lycoming-pa | Lycoming | PA | Private
+averett-va | Averett | VA | Private
+guilford-nc | Guilford | NC | Private
+mcla-ma | MCLA | MA | Public
+alma-mi | Alma | MI | Private
+randolph-va | Randolph | VA | Private
+oglethorpe-ga | Oglethorpe | GA | Private

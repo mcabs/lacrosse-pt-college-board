@@ -199,6 +199,44 @@ cases. High confidence overall, but as with the rest of this dataset, treat it a
 than a canonical religious-directory-grade classification — a handful of schools with genuinely ambiguous or
 recently-changed status could be mis-tagged.
 
+## Merit aid tagging (added after launch)
+
+Every one of the 417 schools was researched and tagged `merit_aid: true/false`, with a short `merit_aid_note`
+describing the program where known (e.g. "automatic scholarships for 3.5+ GPA/1200+ SAT" or "need-based aid
+only"). Shown in the app as a green "$ Merit Aid" badge or a muted "Need-Based Only" badge, filterable via
+"Merit aid" in the filter panel, and included in the compare view and CSV export.
+
+**Result: 379 of 417 schools (91%) offer merit aid; 38 (9%) are need-based-aid-only.** The distinction that
+matters here isn't selectivity in general — it's a specific, well-documented institutional policy choice:
+
+- **The need-based-only list is almost entirely two groups**: the Ivy League + peer-tier schools (Princeton,
+  Harvard, Yale, Brown, Columbia-tier, Cornell, Penn, Dartmouth, Duke, Georgetown, MIT, Johns Hopkins, Notre
+  Dame) and the most selective liberal arts colleges (Amherst, Williams, Swarthmore, Bowdoin, Middlebury,
+  Colby, Haverford, Vassar, Oberlin, Kenyon, Colorado College, Connecticut College, Trinity, Hamilton, Bates,
+  Wesleyan CT, Holy Cross), plus the federal service academies (Army, Navy, Air Force, Coast Guard, Merchant
+  Marine — tuition-free via military service commitment rather than any scholarship model).
+- **Non-obvious need-based-only catches**: UNC Chapel Hill (its own aid office is need-based only — the
+  well-known Morehead-Cain and Robertson programs are separate, externally-funded, ~1-2%-acceptance programs,
+  not general UNC merit aid), University of Virginia (same pattern — Jefferson Scholars is an independent
+  foundation), University of Michigan (need-based aid is the general policy; only a small number of narrow
+  departmental awards exist outside it), and Hamilton College (eliminated merit scholarships in 2008).
+- **Non-obvious merit-aid catches** (schools you might assume are need-based-only given their selectivity, but
+  actually run a real merit program): Washington & Lee (the Johnson Scholarship covers full tuition+room+board+
+  stipend for ~10% of each class, explicitly merit-based, alongside otherwise need-based aid), Bucknell and
+  College of the Holy Cross (both meet-full-need schools, but each awards a small number of genuine non-need
+  merit scholarships), Dickinson and Gettysburg (merit-generous despite selective-LAC profiles).
+- The remaining ~370 schools — nearly every mid-tier and smaller private college, plus most public
+  universities — confirmed real merit scholarship programs, usually automatic tiers keyed to GPA/SAT/ACT and
+  awarded regardless of financial need. This is standard practice at tuition-discounting institutions and was
+  the expected pattern; research batches devoted more individual verification effort to the ambiguous/elite
+  cases above and to smaller regional schools with less name recognition, while confirming the broad pattern
+  for schools clearly in the "everyone offers merit aid here" category.
+
+As with GPA/tuition figures elsewhere in this dataset, some individual `merit_aid_note` amounts (specific dollar
+figures, GPA thresholds) came from aggregator sites rather than each school's own current-year page and can
+change year to year — treat them as directional, and verify current figures directly with the school before
+relying on them for a financial decision.
+
 ## Files in this folder
 
 - `schools.json` — the 80-school PT-matched dataset
@@ -214,3 +252,4 @@ recently-changed status could be mis-tagged.
   337-school pool, per research batch
 - `catholic_batch_*.txt`, `catholic_result_*.json` — intermediate: Catholic-affiliation research batches for
   all 417 schools
+- `merit_batch_*.txt`, `merit_result_*.json` — intermediate: merit-aid research batches for all 417 schools

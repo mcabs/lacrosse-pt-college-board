@@ -1,0 +1,53 @@
+kean | Kean University | NJ | Public
+lebanon-valley | Lebanon Valley College | PA | Private
+marymount-va | Marymount University | VA | Private
+messiah | Messiah University | PA | Private
+methodist | Methodist University | NC | Private
+misericordia | Misericordia University | PA | Private
+moravian | Moravian University | PA | Private
+nazareth | Nazareth University | NY | Private
+neumann | Neumann University | PA | Private
+north-central | North Central College | IL | Private
+plymouth-state | Plymouth State University | NH | Public
+russell-sage | Russell Sage College | NY | Private
+suny-brockport | SUNY Brockport | NY | Public
+suny-cortland | SUNY Cortland | NY | Public
+suny-geneseo | SUNY Geneseo | NY | Public
+shenandoah | Shenandoah University | VA | Private
+springfield | Springfield College | MA | Private
+stockton | Stockton University | NJ | Public
+trine | Trine University | IN | Private
+tufts | Tufts University | MA | Private
+hartford | University of Hartford | CT | Private
+lynchburg | University of Lynchburg | VA | Private
+mount-union | University of Mount Union | OH | Private
+une | University of New England | ME | Private
+scranton | University of Scranton | PA | Private
+utica | Utica University | NY | Private
+widener | Widener University | PA | Private
+princeton-nj | Princeton | NJ | Private
+notre-dame-in | Notre Dame | IN | Private
+penn-state-pa | Penn State | PA | Public
+richmond-va | Richmond | VA | Private
+virginia-va | Virginia | VA | Public
+syracuse-ny | Syracuse | NY | Private
+maryland-md | Maryland | MD | Public
+cornell-ny | Cornell | NY | Private
+georgetown-dc | Georgetown | DC | Private
+army-west-point-ny | Army West Point | NY | Public
+johns-hopkins-md | Johns Hopkins | MD | Private
+yale-ct | Yale | CT | Private
+harvard-ma | Harvard | MA | Private
+jacksonville-fl | Jacksonville | FL | Private
+denver-co | Denver | CO | Private
+penn-pa | Penn | PA | Private
+towson-md | Towson | MD | Public
+michigan-mi | Michigan | MI | Public
+lehigh-pa | Lehigh | PA | Private
+loyola-university-maryland-md | Loyola University Maryland | MD | Private
+villanova-pa | Villanova | PA | Private
+navy-md | Navy | MD | Public
+brown-ri | Brown | RI | Private
+dartmouth-nh | Dartmouth | NH | Private
+providence-ri | Providence | RI | Private
+colgate-ny | Colgate | NY | Private

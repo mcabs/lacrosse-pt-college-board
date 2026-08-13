@@ -24,7 +24,9 @@
    "https://www.collegetuitioncompare.com/edu/156286/bellarmine-university/admission/"
   ],
   "catholic": true,
-  "catholic_note": "Diocesan; founded 1950 by the Archdiocese of Louisville"
+  "catholic_note": "Diocesan; founded 1950 by the Archdiocese of Louisville",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic scholarships based on GPA/test scores"
  },
  {
   "id": "binghamton",
@@ -51,7 +53,9 @@
    "https://www.collegetuitioncompare.com/edu/196079/binghamton-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "President's/Provost's/Dean's Scholarships awarded on admission"
  },
  {
   "id": "boston-university",
@@ -79,7 +83,9 @@
    "https://www.collegetuitioncompare.com/edu/164988/boston-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Trustee, Presidential, and National Merit scholarships"
  },
  {
   "id": "delaware",
@@ -106,7 +112,9 @@
    "https://www.udel.edu/udaily/2024/june/tuition-announcement-2024-2025-academic-year/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarships $1,500-$15,000/yr based on GPA"
  },
  {
   "id": "drexel",
@@ -133,7 +141,9 @@
    "https://www.collegetuitioncompare.com/edu/212054/drexel-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarship consideration with admission application"
  },
  {
   "id": "duke",
@@ -160,7 +170,9 @@
    "https://www.collegetuitioncompare.com/edu/198419/duke-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": false,
+  "merit_aid_note": "Need-based aid only, no merit scholarships"
  },
  {
   "id": "hampton",
@@ -187,7 +199,9 @@
    "https://home.hamptonu.edu/admissions/tuition-fees-and-statistics/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarships for 3.5+ GPA/1000+ SAT"
  },
  {
   "id": "high-point",
@@ -215,7 +229,9 @@
    "https://www.collegetuitioncompare.com/edu/198695/high-point-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Known for generous automatic merit scholarships"
  },
  {
   "id": "liu",
@@ -243,7 +259,9 @@
    "https://en.wikipedia.org/wiki/LIU_Post"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "LIU Post offers automatic merit scholarships based on GPA/SAT"
  },
  {
   "id": "marist",
@@ -271,7 +289,9 @@
    "https://www.collegetuitioncompare.com/edu/192819/marist-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarships based on academic profile"
  },
  {
   "id": "marquette",
@@ -299,7 +319,9 @@
    "https://www.collegetuitioncompare.com/edu/239105/marquette-university/admission/"
   ],
   "catholic": true,
-  "catholic_note": "Jesuit"
+  "catholic_note": "Jesuit",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarship consideration; plus National Merit awards"
  },
  {
   "id": "umass-lowell",
@@ -326,7 +348,9 @@
    "https://www.uml.edu/admissions/costs/nersp.aspx"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarship consideration with admission"
  },
  {
   "id": "mercer",
@@ -353,7 +377,9 @@
    "https://www.collegetuitioncompare.com/edu/140447/mercer-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic Dean's Scholarship and Merit Award tiers"
  },
  {
   "id": "unc",
@@ -380,7 +406,9 @@
    "https://cashier.unc.edu/tuition-fees/undergraduate-programs/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": false,
+  "merit_aid_note": "Institutional aid is need-based only; Morehead-Cain/Robertson are separate externally-funded programs, not general UNC merit aid"
  },
  {
   "id": "ohio-state",
@@ -407,7 +435,9 @@
    "https://research.com/best-colleges/ohio-state-university/admissions"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarship consideration by Nov 1 deadline"
  },
  {
   "id": "quinnipiac",
@@ -435,7 +465,9 @@
    "https://www.collegetuitioncompare.com/edu/130226/quinnipiac-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "rutgers",
@@ -462,7 +494,9 @@
    "https://www.usnews.com/best-colleges/rutgers-new-brunswick-6964"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarship consideration, plus National Merit add-on"
  },
  {
   "id": "sacred-heart",
@@ -490,7 +524,9 @@
    "https://www.usnews.com/best-colleges/sacred-heart-university-1403/applying"
   ],
   "catholic": true,
-  "catholic_note": "Founded 1963 by the Diocese of Bridgeport; maintains Catholic identity"
+  "catholic_note": "Founded 1963 by the Diocese of Bridgeport; maintains Catholic identity",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "saint-josephs-pa",
@@ -518,7 +554,9 @@
    "https://www.collegetuitioncompare.com/edu/215770/saint-josephs-university/admission/"
   ],
   "catholic": true,
-  "catholic_note": "Jesuit"
+  "catholic_note": "Jesuit",
+  "merit_aid": true,
+  "merit_aid_note": "Automatically reviewed for merit scholarship ($18k-$30k/yr)"
  },
  {
   "id": "stony-brook",
@@ -545,7 +583,9 @@
    "https://www.stonybrook.edu/undergraduate-admissions/cost-and-aid/tuition-costs.php"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Presidential/Provost automatic scholarships based on GPA/test scores"
  },
  {
   "id": "utah",
@@ -572,7 +612,9 @@
    "https://www.collegetuitioncompare.com/edu/230764/university-of-utah/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarship grid based on unweighted GPA (3.5+)"
  },
  {
   "id": "vermont",
@@ -599,7 +641,9 @@
    "https://www.collegetuitioncompare.com/edu/231174/university-of-vermont/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Green and Gold Scholarship and other automatic merit awards"
  },
  {
   "id": "aic",
@@ -626,7 +670,9 @@
    "https://www.collegetuitioncompare.com/edu/164447/american-international-college/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "anderson-sc",
@@ -653,7 +699,9 @@
    "https://edurank.org/uni/anderson-university-south-carolina/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "colorado-mesa",
@@ -680,7 +728,9 @@
    "https://www.collegetuitioncompare.com/edu/127556/colorado-mesa-university/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarship consideration based on GPA/test scores"
  },
  {
   "id": "dominican-ny",
@@ -707,7 +757,9 @@
    "https://app.overgrad.com/universities/823-dominican-university-new-york"
   ],
   "catholic": true,
-  "catholic_note": "Founded by the Dominican Sisters of Blauvelt; retains Catholic Dominican heritage"
+  "catholic_note": "Founded by the Dominican Sisters of Blauvelt; retains Catholic Dominican heritage",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "dyouville",
@@ -734,7 +786,9 @@
    "https://www.collegetuitioncompare.com/edu/190716/dyouville-university/"
   ],
   "catholic": true,
-  "catholic_note": "Founded by the Grey Nuns of the Sacred Heart"
+  "catholic_note": "Founded by the Grey Nuns of the Sacred Heart",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "emory-henry",
@@ -762,7 +816,9 @@
    "https://www.collegetuitioncompare.com/edu/232025/emory-and-henry-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "florida-southern",
@@ -789,7 +845,9 @@
    "https://www.sallie.com/colleges/search/florida-southern-college"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarship tiers based on GPA/test scores"
  },
  {
   "id": "franklin-pierce",
@@ -817,7 +875,9 @@
    "https://www.prepscholar.com/sat/s/colleges/Franklin-Pierce-University-sat-scores-GPA"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "indianapolis",
@@ -844,7 +904,9 @@
    "https://www.prepscholar.com/sat/s/colleges/University-of-Indianapolis-sat-scores-GPA"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "lincoln-memorial",
@@ -872,7 +934,9 @@
    "https://www.collegetuitioncompare.com/edu/220631/lincoln-memorial-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "maryville-mo",
@@ -900,7 +964,9 @@
    "https://www.collegetuitioncompare.com/edu/178059/maryville-university-of-saint-louis/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "mercy",
@@ -927,7 +993,9 @@
    "https://www.appily.com/colleges/mercy-university/admissions"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "rockhurst",
@@ -955,7 +1023,9 @@
    "https://www.appily.com/colleges/rockhurst-university/admissions"
   ],
   "catholic": true,
-  "catholic_note": "Jesuit"
+  "catholic_note": "Jesuit",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "seton-hill",
@@ -982,7 +1052,9 @@
    "https://edurank.org/uni/seton-hill-university/"
   ],
   "catholic": true,
-  "catholic_note": "Founded by the Sisters of Charity"
+  "catholic_note": "Founded by the Sisters of Charity",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "walsh",
@@ -1010,7 +1082,9 @@
    "https://edurank.org/uni/walsh-university/"
   ],
   "catholic": true,
-  "catholic_note": "Founded by the Brothers of Christian Instruction for Diocese of Youngstown; independent Catholic university"
+  "catholic_note": "Founded by the Brothers of Christian Instruction for Diocese of Youngstown; independent Catholic university",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "wheeling",
@@ -1037,7 +1111,9 @@
    "https://wheeling.edu/about/fast-facts/"
   ],
   "catholic": true,
-  "catholic_note": "Formerly Wheeling Jesuit; now sponsored by the Vincentians"
+  "catholic_note": "Formerly Wheeling Jesuit; now sponsored by the Vincentians",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "wingate",
@@ -1065,7 +1141,9 @@
    "https://www.collegetuitioncompare.com/edu/199962/wingate-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarship tiers"
  },
  {
   "id": "clarke",
@@ -1092,7 +1170,9 @@
    "https://www.collegetuitioncompare.com/edu/153126/clarke-university/"
   ],
   "catholic": true,
-  "catholic_note": "Founded by the Sisters of Charity of the Blessed Virgin Mary (BVM)"
+  "catholic_note": "Founded by the Sisters of Charity of the Blessed Virgin Mary (BVM)",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "st-ambrose",
@@ -1119,7 +1199,9 @@
    "https://www.sallie.com/colleges/search/saint-ambrose-university"
   ],
   "catholic": true,
-  "catholic_note": "Diocesan; founded by the Diocese of Davenport"
+  "catholic_note": "Diocesan; founded by the Diocese of Davenport",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "cumberlands",
@@ -1146,7 +1228,9 @@
    "https://www.collegesimply.com/colleges/kentucky/university-of-the-cumberlands/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "alvernia",
@@ -1174,7 +1258,9 @@
    "https://www.alvernia.edu/tuition-residential-costs"
   ],
   "catholic": true,
-  "catholic_note": "Founded by the Bernardine Franciscan Sisters"
+  "catholic_note": "Founded by the Bernardine Franciscan Sisters",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "arcadia",
@@ -1201,7 +1287,9 @@
    "https://bigfuture.collegeboard.org/colleges/arcadia-university/admissions"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "carroll-wi",
@@ -1229,7 +1317,9 @@
    "https://www.carrollu.edu/financial-aid/undergraduate-first-year/undergraduate-tuition"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "chatham",
@@ -1256,7 +1346,9 @@
    "https://www.chatham.edu/about-us/quick-facts.html"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "clarkson",
@@ -1283,7 +1375,9 @@
    "https://www.clarkson.edu/admissions-aid/undergraduate/tuition-costs"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic merit scholarships based on GPA/test scores"
  },
  {
   "id": "concordia-wisconsin",
@@ -1311,7 +1405,9 @@
    "https://nces.ed.gov/collegenavigator/?id=238616"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "desales",
@@ -1339,7 +1435,9 @@
    "https://nces.ed.gov/collegenavigator/?id=210739"
   ],
   "catholic": true,
-  "catholic_note": "Founded by the Oblates of St. Francis de Sales"
+  "catholic_note": "Founded by the Oblates of St. Francis de Sales",
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "endicott",
@@ -1366,7 +1464,9 @@
    "https://nces.ed.gov/collegenavigator/?id=165699"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "hanover",
@@ -1394,7 +1494,9 @@
    "https://nces.ed.gov/collegenavigator/?id=150756"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "husson",
@@ -1422,7 +1524,9 @@
    "https://nces.ed.gov/collegenavigator/?id=487524"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "ithaca",
@@ -1449,7 +1553,9 @@
    "https://www.collegetuitioncompare.com/edu/191968/ithaca-college/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores"
  },
  {
   "id": "kean",
@@ -1476,7 +1582,9 @@
    "https://www.kean.edu/offices/student-accounting/tuition-and-fees-2025-2026"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "NJ public; offers merit scholarships based on GPA/test scores"
  },
  {
   "id": "lebanon-valley",
@@ -1504,7 +1612,9 @@
    "https://www.collegetuitioncompare.com/edu/213507/lebanon-valley-college/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers academic merit scholarships"
  },
  {
   "id": "marymount-va",
@@ -1531,7 +1641,9 @@
    "https://www.collegetuitioncompare.com/edu/232706/marymount-university/"
   ],
   "catholic": true,
-  "catholic_note": "Founded by Religious of the Sacred Heart of Mary (RSHM); still Catholic"
+  "catholic_note": "Founded by Religious of the Sacred Heart of Mary (RSHM); still Catholic",
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "messiah",
@@ -1558,7 +1670,9 @@
    "https://www.collegetuitioncompare.com/edu/213996/messiah-university/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on GPA/test scores"
  },
  {
   "id": "methodist",
@@ -1585,7 +1699,9 @@
    "https://www.methodist.edu/admissions/tuition-fees/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "misericordia",
@@ -1613,7 +1729,9 @@
    "https://www.misericordia.edu/campus-community/other-offices/office-of-institutional-research/institutional-research/common-data-set"
   ],
   "catholic": true,
-  "catholic_note": "Founded by Sisters of Mercy"
+  "catholic_note": "Founded by Sisters of Mercy",
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on GPA/test scores"
  },
  {
   "id": "moravian",
@@ -1640,7 +1758,9 @@
    "https://www.collegetuitioncompare.com/edu/214157/moravian-university/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "nazareth",
@@ -1667,7 +1787,9 @@
    "https://www2.naz.edu/institutional-research-effectiveness/common-data-set/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "neumann",
@@ -1694,7 +1816,9 @@
    "https://www.collegetuitioncompare.com/edu/214272/neumann-university/admission/"
   ],
   "catholic": true,
-  "catholic_note": "Franciscan (Sisters of St. Francis of Philadelphia)"
+  "catholic_note": "Franciscan (Sisters of St. Francis of Philadelphia)",
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "north-central",
@@ -1721,7 +1845,9 @@
    "https://www.collegetuitioncompare.com/edu/147660/north-central-college/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on GPA/test scores"
  },
  {
   "id": "plymouth-state",
@@ -1748,7 +1874,9 @@
    "https://www.collegetuitioncompare.com/edu/183080/plymouth-state-university/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "NH public; offers merit scholarships"
  },
  {
   "id": "russell-sage",
@@ -1776,7 +1904,9 @@
    "https://www.collegetuitioncompare.com/edu/195128/russell-sage-college/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "suny-brockport",
@@ -1804,7 +1934,9 @@
    "https://www.collegetuitioncompare.com/edu/196121/suny-college-at-brockport/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "SUNY system offers merit-based Presidential/Provost scholarships"
  },
  {
   "id": "suny-cortland",
@@ -1832,7 +1964,9 @@
    "https://www2.cortland.edu/about/facts-figures/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "SUNY system offers merit-based scholarships"
  },
  {
   "id": "suny-geneseo",
@@ -1860,7 +1994,9 @@
    "https://www.geneseo.edu/ir/common_data_set"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Awards merit scholarships at admission based on GPA/rigor, not need"
  },
  {
   "id": "shenandoah",
@@ -1888,7 +2024,9 @@
    "https://www.collegetuitioncompare.com/edu/233541/shenandoah-university/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "springfield",
@@ -1916,7 +2054,9 @@
    "https://www.collegetuitioncompare.com/edu/167899/springfield-college/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "stockton",
@@ -1943,7 +2083,9 @@
    "https://bigfuture.collegeboard.org/colleges/stockton-university/admissions"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "NJ public; offers merit scholarships"
  },
  {
   "id": "trine",
@@ -1971,7 +2113,9 @@
    "https://www.collegesimply.com/colleges/indiana/trine-university/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers substantial merit scholarships"
  },
  {
   "id": "tufts",
@@ -1998,7 +2142,9 @@
    "https://www.tuftsdaily.com/article/2025/04/cost-of-attendance-rises-to-96078-for-2025-26-year"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": false,
+  "merit_aid_note": "Need-based aid only; explicitly does not offer merit-based aid"
  },
  {
   "id": "hartford",
@@ -2025,7 +2171,9 @@
    "https://www.collegetuitioncompare.com/edu/129525/university-of-hartford/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "lynchburg",
@@ -2052,7 +2200,9 @@
    "https://www.lynchburg.edu/admissions/tuition-fees/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "mount-union",
@@ -2079,7 +2229,9 @@
    "https://www.collegetuitioncompare.com/edu/204185/university-of-mount-union/admission/"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "une",
@@ -2106,7 +2258,9 @@
    "https://www.une.edu/catalog/2025-2026/undergraduate/financial-information"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "scranton",
@@ -2134,7 +2288,9 @@
    "https://admissions.scranton.edu/financial-aid/tuition-fees.shtml"
   ],
   "catholic": true,
-  "catholic_note": "Jesuit"
+  "catholic_note": "Jesuit",
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on GPA/test scores"
  },
  {
   "id": "utica",
@@ -2162,7 +2318,9 @@
    "https://www.utica.edu/tuition-and-financial-aid/tuition-and-fees"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  },
  {
   "id": "widener",
@@ -2190,6 +2348,8 @@
    "https://bigfuture.collegeboard.org/colleges/widener-university"
   ],
   "catholic": false,
-  "catholic_note": null
+  "catholic_note": null,
+  "merit_aid": true,
+  "merit_aid_note": "Offers merit scholarships based on academic profile"
  }
 ]
