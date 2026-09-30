@@ -237,6 +237,22 @@ figures, GPA thresholds) came from aggregator sites rather than each school's ow
 change year to year — treat them as directional, and verify current figures directly with the school before
 relying on them for a financial decision.
 
+## D1 NCAA RPI ranking (added after launch)
+
+All **77 D1 schools** (across both the PT-matched 22 and the no-PT-match 55) now carry `rpi_rank_2026` and
+`rpi_record_2026`, sourced directly from the NCAA's own [D1 men's lacrosse RPI rankings page](https://www.ncaa.com/rankings/lacrosse-men/d1/ncaa-mens-lacrosse-rpi),
+current through games May 25, 2026 — the final ranking of the just-completed spring 2026 season. All 77 matched
+cleanly by school name (verified programmatically, not eyeballed) with no ambiguous cases.
+
+This is **D1-only** — the NCAA doesn't publish an RPI for D2, D3, or NAIA men's lacrosse, so those divisions have
+no `rpi_rank_2026` field and show no RPI badge. Shown in the app as a "RPI #N" badge next to the division badge
+(hover for the season record), sortable via "D1 RPI rank: best to worst" in the sort dropdown or by clicking the
+"D1 RPI" table column header, and included in the compare view and CSV export.
+
+Note this is a **snapshot of the completed 2026 season** — it will not update automatically as the 2027 season
+progresses. If you want current in-season rankings later, the source page will have them; ask for a refresh and
+this section can be re-run the same way.
+
 ## Files in this folder
 
 - `schools.json` — the 80-school PT-matched dataset
@@ -253,3 +269,4 @@ relying on them for a financial decision.
 - `catholic_batch_*.txt`, `catholic_result_*.json` — intermediate: Catholic-affiliation research batches for
   all 417 schools
 - `merit_batch_*.txt`, `merit_result_*.json` — intermediate: merit-aid research batches for all 417 schools
+- `ncaa_d1_rpi_2026.txt` — raw scrape of the NCAA's final 2026 D1 men's lacrosse RPI rankings (77 schools)

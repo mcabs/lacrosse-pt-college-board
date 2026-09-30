@@ -1,0 +1,77 @@
+1|Princeton|17-2|Ivy League
+2|Notre Dame|13-3|ACC
+3|North Carolina|13-5|ACC
+4|Richmond|14-2|Atlantic 10
+5|Syracuse|13-6|ACC
+6|Duke|11-5|ACC
+7|Cornell|11-5|Ivy League
+8|Virginia|10-7|ACC
+9|Penn St.|10-6|Big Ten
+10|Johns Hopkins|10-6|Big Ten
+11|Army West Point|13-4|Patriot
+12|Georgetown|11-5|Big East
+13|Maryland|7-6|Big Ten
+14|Yale|9-6|Ivy League
+15|Harvard|9-5|Ivy League
+16|Penn|7-6|Ivy League
+17|Ohio St.|10-4|Big Ten
+18|Loyola Maryland|10-6|Patriot
+19|Towson|11-4|CAA
+20|Saint Joseph's|7-6|Atlantic 10
+21|Boston U.|8-6|Patriot
+22|Marist|12-5|MAAC
+23|UAlbany|11-6|America East
+24|Jacksonville|11-6|ASUN
+25|Robert Morris|14-4|NEC
+26|Rutgers|8-7|Big Ten
+27|High Point|6-8|Atlantic 10
+28|Massachusetts|10-6|Atlantic 10
+29|Air Force|7-8|ASUN
+30|Lehigh|8-8|Patriot
+31|Navy|7-7|Patriot
+32|Stony Brook|10-6|CAA
+33|Michigan|6-9|Big Ten
+34|Denver|6-8|Big East
+35|Utah|9-5|ASUN
+36|Colgate|6-9|Patriot
+37|Drexel|9-6|CAA
+38|Brown|6-7|Ivy League
+39|Sacred Heart|11-4|MAAC
+40|Siena|12-5|MAAC
+41|Dartmouth|4-9|Ivy League
+42|LIU|11-4|NEC
+43|Villanova|6-8|Big East
+44|Providence|8-9|Big East
+45|Bucknell|8-7|Patriot
+46|Vermont|7-7|America East
+47|Mercer|6-8|ASUN
+48|Marquette|6-7|Big East
+49|Holy Cross|6-8|Patriot
+50|UMBC|6-7|America East
+51|Bellarmine|5-11|ASUN
+52|Delaware|5-8|Atlantic 10
+53|Merrimack|7-9|MAAC
+54|Monmouth|6-7|CAA
+55|VMI|7-7|NEC
+56|Hobart|3-10|Atlantic 10
+57|Lafayette|5-9|Patriot
+58|Cleveland St.|6-8|NEC
+59|Bryant|7-6|America East
+60|Fairfield|4-10|CAA
+61|Hofstra|4-10|CAA
+62|NJIT|5-9|America East
+63|Quinnipiac|5-10|MAAC
+64|St. Bonaventure|4-10|Atlantic 10
+65|Iona|2-15|MAAC
+66|Manhattan|4-10|MAAC
+67|Wagner|5-8|NEC
+68|Mount St. Mary's|3-10|MAAC
+69|Detroit Mercy|3-10|NEC
+70|Le Moyne|4-11|NEC
+71|Queens (NC)|4-9|ASUN
+72|St. John's (NY)|2-12|Big East
+73|Binghamton|2-11|America East
+74|Canisius|3-11|MAAC
+75|UMass Lowell|2-10|America East
+76|Mercyhurst|2-13|NEC
+77|Hampton|0-13|CAA

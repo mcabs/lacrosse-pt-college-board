@@ -26,7 +26,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Ivy League policy: need-based aid only"
+  "merit_aid_note": "Ivy League policy: need-based aid only",
+  "rpi_rank_2026": 1,
+  "rpi_record_2026": "17-2"
  },
  {
   "id": "notre-dame-in",
@@ -55,7 +57,9 @@
   "catholic": true,
   "catholic_note": "Congregation of Holy Cross",
   "merit_aid": false,
-  "merit_aid_note": "Need-based aid only, no institutional merit scholarships"
+  "merit_aid_note": "Need-based aid only, no institutional merit scholarships",
+  "rpi_rank_2026": 2,
+  "rpi_record_2026": "13-3"
  },
  {
   "id": "penn-state-pa",
@@ -84,7 +88,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers merit scholarships incl. Trustee Scholarship and Provost Award"
+  "merit_aid_note": "Offers merit scholarships incl. Trustee Scholarship and Provost Award",
+  "rpi_rank_2026": 9,
+  "rpi_record_2026": "10-6"
  },
  {
   "id": "richmond-va",
@@ -113,7 +119,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers merit scholarships (Presidential/Trustee) alongside need-based aid"
+  "merit_aid_note": "Offers merit scholarships (Presidential/Trustee) alongside need-based aid",
+  "rpi_rank_2026": 4,
+  "rpi_record_2026": "14-2"
  },
  {
   "id": "virginia-va",
@@ -142,7 +150,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "No institution-wide merit scholarships; Jefferson Scholars is an independent foundation, not UVA aid"
+  "merit_aid_note": "No institution-wide merit scholarships; Jefferson Scholars is an independent foundation, not UVA aid",
+  "rpi_rank_2026": 8,
+  "rpi_record_2026": "10-7"
  },
  {
   "id": "syracuse-ny",
@@ -171,7 +181,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers merit scholarships (Chancellor's, Dean's, etc.)"
+  "merit_aid_note": "Offers merit scholarships (Chancellor's, Dean's, etc.)",
+  "rpi_rank_2026": 5,
+  "rpi_record_2026": "13-6"
  },
  {
   "id": "maryland-md",
@@ -200,7 +212,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers merit scholarships incl. Banneker/Key and other freshman merit awards"
+  "merit_aid_note": "Offers merit scholarships incl. Banneker/Key and other freshman merit awards",
+  "rpi_rank_2026": 13,
+  "rpi_record_2026": "7-6"
  },
  {
   "id": "cornell-ny",
@@ -229,7 +243,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Ivy League policy: need-based aid only"
+  "merit_aid_note": "Ivy League policy: need-based aid only",
+  "rpi_rank_2026": 7,
+  "rpi_record_2026": "11-5"
  },
  {
   "id": "georgetown-dc",
@@ -258,7 +274,9 @@
   "catholic": true,
   "catholic_note": "Jesuit",
   "merit_aid": false,
-  "merit_aid_note": "Need-based aid only"
+  "merit_aid_note": "Need-based aid only",
+  "rpi_rank_2026": 12,
+  "rpi_record_2026": "11-5"
  },
  {
   "id": "army-west-point-ny",
@@ -287,7 +305,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Full tuition/room/board via military service commitment, not merit aid"
+  "merit_aid_note": "Full tuition/room/board via military service commitment, not merit aid",
+  "rpi_rank_2026": 11,
+  "rpi_record_2026": "13-4"
  },
  {
   "id": "johns-hopkins-md",
@@ -316,7 +336,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based aid only"
+  "merit_aid_note": "Need-based aid only",
+  "rpi_rank_2026": 10,
+  "rpi_record_2026": "10-6"
  },
  {
   "id": "yale-ct",
@@ -345,7 +367,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Ivy League policy: need-based aid only"
+  "merit_aid_note": "Ivy League policy: need-based aid only",
+  "rpi_rank_2026": 14,
+  "rpi_record_2026": "9-6"
  },
  {
   "id": "harvard-ma",
@@ -374,7 +398,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Ivy League policy: need-based aid only"
+  "merit_aid_note": "Ivy League policy: need-based aid only",
+  "rpi_rank_2026": 15,
+  "rpi_record_2026": "9-5"
  },
  {
   "id": "jacksonville-fl",
@@ -403,7 +429,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers merit scholarships based on academic profile"
+  "merit_aid_note": "Offers merit scholarships based on academic profile",
+  "rpi_rank_2026": 24,
+  "rpi_record_2026": "11-6"
  },
  {
   "id": "denver-co",
@@ -432,7 +460,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships for all applicants, $15k-$40k/year"
+  "merit_aid_note": "Automatic merit scholarships for all applicants, $15k-$40k/year",
+  "rpi_rank_2026": 34,
+  "rpi_record_2026": "6-8"
  },
  {
   "id": "penn-pa",
@@ -461,7 +491,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Ivy League policy: need-based aid only"
+  "merit_aid_note": "Ivy League policy: need-based aid only",
+  "rpi_rank_2026": 16,
+  "rpi_record_2026": "7-6"
  },
  {
   "id": "towson-md",
@@ -490,7 +522,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "MD public; offers merit scholarships"
+  "merit_aid_note": "MD public; offers merit scholarships",
+  "rpi_rank_2026": 19,
+  "rpi_record_2026": "11-4"
  },
  {
   "id": "michigan-mi",
@@ -519,7 +553,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Primarily need-based aid; commits to meeting full need, limited departmental merit awards only"
+  "merit_aid_note": "Primarily need-based aid; commits to meeting full need, limited departmental merit awards only",
+  "rpi_rank_2026": 33,
+  "rpi_record_2026": "6-9"
  },
  {
   "id": "lehigh-pa",
@@ -548,7 +584,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers merit scholarships (Dean's, Trustee, etc.)"
+  "merit_aid_note": "Offers merit scholarships (Dean's, Trustee, etc.)",
+  "rpi_rank_2026": 30,
+  "rpi_record_2026": "8-8"
  },
  {
   "id": "loyola-university-maryland-md",
@@ -577,7 +615,9 @@
   "catholic": true,
   "catholic_note": "Jesuit",
   "merit_aid": true,
-  "merit_aid_note": "All applicants automatically considered for merit scholarships"
+  "merit_aid_note": "All applicants automatically considered for merit scholarships",
+  "rpi_rank_2026": 18,
+  "rpi_record_2026": "10-6"
  },
  {
   "id": "villanova-pa",
@@ -606,7 +646,9 @@
   "catholic": true,
   "catholic_note": "Augustinian",
   "merit_aid": true,
-  "merit_aid_note": "Offers merit scholarships (Presidential, St. Augustine, etc.)"
+  "merit_aid_note": "Offers merit scholarships (Presidential, St. Augustine, etc.)",
+  "rpi_rank_2026": 43,
+  "rpi_record_2026": "6-8"
  },
  {
   "id": "navy-md",
@@ -635,7 +677,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Full tuition/room/board via military service commitment, not merit aid"
+  "merit_aid_note": "Full tuition/room/board via military service commitment, not merit aid",
+  "rpi_rank_2026": 31,
+  "rpi_record_2026": "7-7"
  },
  {
   "id": "brown-ri",
@@ -664,7 +708,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Ivy League policy: need-based aid only"
+  "merit_aid_note": "Ivy League policy: need-based aid only",
+  "rpi_rank_2026": 38,
+  "rpi_record_2026": "6-7"
  },
  {
   "id": "dartmouth-nh",
@@ -693,7 +739,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Ivy League policy: need-based aid only"
+  "merit_aid_note": "Ivy League policy: need-based aid only",
+  "rpi_rank_2026": 41,
+  "rpi_record_2026": "4-9"
  },
  {
   "id": "providence-ri",
@@ -722,7 +770,9 @@
   "catholic": true,
   "catholic_note": "Dominican",
   "merit_aid": true,
-  "merit_aid_note": "Offers merit scholarships based on academic profile"
+  "merit_aid_note": "Offers merit scholarships based on academic profile",
+  "rpi_rank_2026": 44,
+  "rpi_record_2026": "8-9"
  },
  {
   "id": "colgate-ny",
@@ -751,7 +801,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers merit scholarships (e.g. Benton Scholars) alongside need-based aid"
+  "merit_aid_note": "Offers merit scholarships (e.g. Benton Scholars) alongside need-based aid",
+  "rpi_rank_2026": 36,
+  "rpi_record_2026": "6-9"
  },
  {
   "id": "umass-amherst-ma",
@@ -780,7 +832,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships for admitted freshmen based on academic record"
+  "merit_aid_note": "Automatic merit scholarships for admitted freshmen based on academic record",
+  "rpi_rank_2026": 28,
+  "rpi_record_2026": "10-6"
  },
  {
   "id": "albany-ny",
@@ -809,7 +863,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "SUNY Albany Presidential/merit scholarships, financial need not a factor"
+  "merit_aid_note": "SUNY Albany Presidential/merit scholarships, financial need not a factor",
+  "rpi_rank_2026": 23,
+  "rpi_record_2026": "11-6"
  },
  {
   "id": "bucknell-pa",
@@ -838,7 +894,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Primarily need-based, but awards limited non-need-based merit scholarships to top applicants"
+  "merit_aid_note": "Primarily need-based, but awards limited non-need-based merit scholarships to top applicants",
+  "rpi_rank_2026": 45,
+  "rpi_record_2026": "8-7"
  },
  {
   "id": "air-force-co",
@@ -867,7 +925,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Service academy: tuition-free for all cadets via military service commitment"
+  "merit_aid_note": "Service academy: tuition-free for all cadets via military service commitment",
+  "rpi_rank_2026": 29,
+  "rpi_record_2026": "7-8"
  },
  {
   "id": "lafayette-pa",
@@ -896,7 +956,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Marquis & Cur Non Scholarships are non-need-based merit awards"
+  "merit_aid_note": "Marquis & Cur Non Scholarships are non-need-based merit awards",
+  "rpi_rank_2026": 57,
+  "rpi_record_2026": "5-9"
  },
  {
   "id": "robert-morris-pa",
@@ -925,7 +987,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic academic merit scholarships by GPA/test score tier"
+  "merit_aid_note": "Automatic academic merit scholarships by GPA/test score tier",
+  "rpi_rank_2026": 25,
+  "rpi_record_2026": "14-4"
  },
  {
   "id": "fairfield-ct",
@@ -954,7 +1018,9 @@
   "catholic": true,
   "catholic_note": "Jesuit Catholic",
   "merit_aid": true,
-  "merit_aid_note": "All admits automatically considered for merit scholarships ($10k-$30k)"
+  "merit_aid_note": "All admits automatically considered for merit scholarships ($10k-$30k)",
+  "rpi_rank_2026": 60,
+  "rpi_record_2026": "4-10"
  },
  {
   "id": "college-of-the-holy-cross-ma",
@@ -983,7 +1049,9 @@
   "catholic": true,
   "catholic_note": "Jesuit Catholic",
   "merit_aid": false,
-  "merit_aid_note": "Predominantly need-based (meets 100% demonstrated need); only a small number of merit scholarships available"
+  "merit_aid_note": "Predominantly need-based (meets 100% demonstrated need); only a small number of merit scholarships available",
+  "rpi_rank_2026": 49,
+  "rpi_record_2026": "6-8"
  },
  {
   "id": "siena-ny",
@@ -1012,7 +1080,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Franciscan)",
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships based on GPA/test scores"
+  "merit_aid_note": "Automatic merit scholarships based on GPA/test scores",
+  "rpi_rank_2026": 40,
+  "rpi_record_2026": "12-5"
  },
  {
   "id": "umbc-md",
@@ -1041,7 +1111,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "General merit scholarships ($1k-$15k) at admission, no FAFSA required"
+  "merit_aid_note": "General merit scholarships ($1k-$15k) at admission, no FAFSA required",
+  "rpi_rank_2026": 50,
+  "rpi_record_2026": "6-7"
  },
  {
   "id": "hofstra-ny",
@@ -1070,7 +1142,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic academic merit scholarships"
+  "merit_aid_note": "Automatic academic merit scholarships",
+  "rpi_rank_2026": 61,
+  "rpi_record_2026": "4-10"
  },
  {
   "id": "monmouth-nj",
@@ -1099,7 +1173,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships by academic profile"
+  "merit_aid_note": "Merit scholarships by academic profile",
+  "rpi_rank_2026": 54,
+  "rpi_record_2026": "6-7"
  },
  {
   "id": "bryant-ri",
@@ -1128,7 +1204,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships"
+  "merit_aid_note": "Automatic merit scholarships",
+  "rpi_rank_2026": 59,
+  "rpi_record_2026": "7-6"
  },
  {
   "id": "hobart-ny",
@@ -1157,7 +1235,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Hobart and William Smith Colleges offer merit scholarships"
+  "merit_aid_note": "Hobart and William Smith Colleges offer merit scholarships",
+  "rpi_rank_2026": 56,
+  "rpi_record_2026": "3-10"
  },
  {
   "id": "st-john-s-university-ny",
@@ -1186,7 +1266,9 @@
   "catholic": true,
   "catholic_note": "Vincentian Catholic",
   "merit_aid": true,
-  "merit_aid_note": "Trustee/Presidential and other merit scholarships"
+  "merit_aid_note": "Trustee/Presidential and other merit scholarships",
+  "rpi_rank_2026": 72,
+  "rpi_record_2026": "2-12"
  },
  {
   "id": "njit-nj",
@@ -1215,7 +1297,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships based on GPA/SAT/ACT"
+  "merit_aid_note": "Automatic merit scholarships based on GPA/SAT/ACT",
+  "rpi_rank_2026": 62,
+  "rpi_record_2026": "5-9"
  },
  {
   "id": "merrimack-ma",
@@ -1244,7 +1328,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Augustinians of the Assumption)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": 53,
+  "rpi_record_2026": "7-9"
  },
  {
   "id": "cleveland-state-oh",
@@ -1273,7 +1359,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships by GPA/test-score tiers"
+  "merit_aid_note": "Merit scholarships by GPA/test-score tiers",
+  "rpi_rank_2026": 58,
+  "rpi_record_2026": "6-8"
  },
  {
   "id": "st-bonaventure-ny",
@@ -1302,7 +1390,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Franciscan)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": 64,
+  "rpi_record_2026": "4-10"
  },
  {
   "id": "vmi-va",
@@ -1331,7 +1421,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Institute Merit Scholars and Peay Merit Scholarships, not need-based"
+  "merit_aid_note": "Institute Merit Scholars and Peay Merit Scholarships, not need-based",
+  "rpi_rank_2026": 55,
+  "rpi_record_2026": "7-7"
  },
  {
   "id": "queens-nc",
@@ -1360,7 +1452,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": 71,
+  "rpi_record_2026": "4-9"
  },
  {
   "id": "manhattan-ny",
@@ -1389,7 +1483,9 @@
   "catholic": true,
   "catholic_note": "Catholic (De La Salle Christian Brothers)",
   "merit_aid": true,
-  "merit_aid_note": "Manhattan University offers merit scholarships"
+  "merit_aid_note": "Manhattan University offers merit scholarships",
+  "rpi_rank_2026": 66,
+  "rpi_record_2026": "4-10"
  },
  {
   "id": "detroit-mercy-mi",
@@ -1418,7 +1514,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Jesuit/Sisters of Mercy merger)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": 69,
+  "rpi_record_2026": "3-10"
  },
  {
   "id": "mount-st-mary-s-university-md",
@@ -1447,7 +1545,9 @@
   "catholic": true,
   "catholic_note": "Catholic, diocesan heritage, hosts largest Catholic seminary in US",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": 68,
+  "rpi_record_2026": "3-10"
  },
  {
   "id": "canisius-ny",
@@ -1476,7 +1576,9 @@
   "catholic": true,
   "catholic_note": "Jesuit Catholic",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": 74,
+  "rpi_record_2026": "3-11"
  },
  {
   "id": "le-moyne-ny",
@@ -1505,7 +1607,9 @@
   "catholic": true,
   "catholic_note": "Jesuit Catholic",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": 70,
+  "rpi_record_2026": "4-11"
  },
  {
   "id": "iona-ny",
@@ -1534,7 +1638,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Congregation of Christian Brothers)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": 65,
+  "rpi_record_2026": "2-15"
  },
  {
   "id": "wagner-ny",
@@ -1563,7 +1669,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": 67,
+  "rpi_record_2026": "5-8"
  },
  {
   "id": "mercyhurst-pa",
@@ -1592,7 +1700,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Sisters of Mercy)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": 76,
+  "rpi_record_2026": "2-13"
  },
  {
   "id": "tampa-fl",
@@ -1621,7 +1731,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "University of Tampa offers automatic merit scholarships by GPA/SAT tier"
+  "merit_aid_note": "University of Tampa offers automatic merit scholarships by GPA/SAT tier",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lenoir-rhyne-nc",
@@ -1650,7 +1762,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "adelphi-ny",
@@ -1679,7 +1793,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lewis-il",
@@ -1708,7 +1824,9 @@
   "catholic": true,
   "catholic_note": "Catholic (De La Salle Christian Brothers, Lasallian)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "florida-tech-fl",
@@ -1737,7 +1855,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "newberry-sc",
@@ -1766,7 +1886,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "rollins-fl",
@@ -1795,7 +1917,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic academic merit scholarships ($15k-$65k+); plus Alfond Scholars full-ride"
+  "merit_aid_note": "Automatic academic merit scholarships ($15k-$65k+); plus Alfond Scholars full-ride",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "st-leo-fl",
@@ -1824,7 +1948,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Benedictine)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "st-anselm-nh",
@@ -1853,7 +1979,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Benedictine)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "catawba-nc",
@@ -1882,7 +2010,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "pace-ny",
@@ -1911,7 +2041,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "westminster-university-ut",
@@ -1940,7 +2072,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "embry-riddle-fl",
@@ -1969,7 +2103,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic/aviation merit scholarships (Presidential Scholarship)"
+  "merit_aid_note": "Academic/aviation merit scholarships (Presidential Scholarship)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "belmont-abbey-nc",
@@ -1998,7 +2134,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Benedictine)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "molloy-ny",
@@ -2027,7 +2165,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Dominican)",
   "merit_aid": true,
-  "merit_aid_note": "Molloy University offers academic merit scholarships"
+  "merit_aid_note": "Molloy University offers academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "flagler-fl",
@@ -2056,7 +2196,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "montevallo-al",
@@ -2085,7 +2227,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "University of Montevallo offers academic merit scholarships"
+  "merit_aid_note": "University of Montevallo offers academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "palm-beach-atlantic-fl",
@@ -2114,7 +2258,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "assumption-ma",
@@ -2143,7 +2289,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Augustinians of the Assumption)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "north-greenville-sc",
@@ -2172,7 +2320,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "concordia-university-irvine-ca",
@@ -2201,7 +2351,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships"
+  "merit_aid_note": "Academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "st-michaels-vt",
@@ -2230,7 +2382,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Edmundite Fathers)",
   "merit_aid": true,
-  "merit_aid_note": "Saint Michael's College offers academic merit scholarships"
+  "merit_aid_note": "Saint Michael's College offers academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "bentley-ma",
@@ -2259,7 +2413,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit awards based on academic/leadership achievement, without regard to need"
+  "merit_aid_note": "Merit awards based on academic/leadership achievement, without regard to need",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lander-sc",
@@ -2288,7 +2444,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Public university offering academic merit scholarships"
+  "merit_aid_note": "Public university offering academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "wilmington-university-de",
@@ -2317,7 +2475,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships based on GPA/leadership; min 2.5 GPA"
+  "merit_aid_note": "Merit scholarships based on GPA/leadership; min 2.5 GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lees-mcrae-nc",
@@ -2346,7 +2506,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic academic merit scholarships $6k-$15k/yr, no app needed"
+  "merit_aid_note": "Automatic academic merit scholarships $6k-$15k/yr, no app needed",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lynn-fl",
@@ -2375,7 +2537,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit Scholarship $16k-$28k/yr based on GPA/SAT"
+  "merit_aid_note": "Merit Scholarship $16k-$28k/yr based on GPA/SAT",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "northwood-mi",
@@ -2404,7 +2568,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential/Freedom/Free Enterprise merit awards $7k-$15k"
+  "merit_aid_note": "Presidential/Freedom/Free Enterprise merit awards $7k-$15k",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "frostburg-state-md",
@@ -2433,7 +2599,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic Admissions Merit Scholarships"
+  "merit_aid_note": "Automatic Admissions Merit Scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "southern-new-hampshire-nh",
@@ -2462,7 +2630,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships $1k-$18k/yr based on GPA/test scores"
+  "merit_aid_note": "Merit scholarships $1k-$18k/yr based on GPA/test scores",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "davenport-mi",
@@ -2491,7 +2661,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic scholarships by GPA/ACT-SAT; 93% of students get gift aid"
+  "merit_aid_note": "Academic scholarships by GPA/ACT-SAT; 93% of students get gift aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "barton-nc",
@@ -2520,7 +2692,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Named merit scholarships with set GPA/SAT thresholds"
+  "merit_aid_note": "Named merit scholarships with set GPA/SAT thresholds",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "chestnut-hill-pa",
@@ -2549,7 +2723,9 @@
   "catholic": true,
   "catholic_note": "Founded by Sisters of St. Joseph",
   "merit_aid": true,
-  "merit_aid_note": "100% of full-time students receive merit-based scholarships, avg ~$24k/yr"
+  "merit_aid_note": "100% of full-time students receive merit-based scholarships, avg ~$24k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "coker-sc",
@@ -2578,7 +2754,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic Merit Scholarship $7.5k-$15k/yr based on GPA"
+  "merit_aid_note": "Academic Merit Scholarship $7.5k-$15k/yr based on GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "william-jewell-mo",
@@ -2607,7 +2785,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "First-Year Academic Scholarships renewable 4 yrs"
+  "merit_aid_note": "First-Year Academic Scholarships renewable 4 yrs",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "roberts-wesleyan-ny",
@@ -2636,7 +2816,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic/merit scholarships based on GPA + SAT/ACT"
+  "merit_aid_note": "Academic/merit scholarships based on GPA + SAT/ACT",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "bridgeport-ct",
@@ -2665,7 +2847,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships up to $25k"
+  "merit_aid_note": "Automatic merit scholarships up to $25k",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "mount-olive-nc",
@@ -2694,7 +2878,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "95% of incoming freshmen received merit-based scholarships"
+  "merit_aid_note": "95% of incoming freshmen received merit-based scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "alabama-huntsville-al",
@@ -2723,7 +2909,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit tuition scholarships based on ACT/SAT + GPA; National Merit full-tuition awards"
+  "merit_aid_note": "Merit tuition scholarships based on ACT/SAT + GPA; National Merit full-tuition awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "tusculum-tn",
@@ -2752,7 +2940,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic Academic/Heritage/Legacy scholarships"
+  "merit_aid_note": "Automatic Academic/Heritage/Legacy scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "georgian-court-nj",
@@ -2781,7 +2971,9 @@
   "catholic": true,
   "catholic_note": "Founded by Sisters of Mercy",
   "merit_aid": true,
-  "merit_aid_note": "Presidential/Provost/Dean's merit scholarships up to $16.5k"
+  "merit_aid_note": "Presidential/Provost/Dean's merit scholarships up to $16.5k",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "post-ct",
@@ -2810,7 +3002,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic Merit Scholarship confirmed for transfers; freshman merit awards standard"
+  "merit_aid_note": "Academic Merit Scholarship confirmed for transfers; freshman merit awards standard",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "st-thomas-aquinas-ny",
@@ -2839,7 +3033,9 @@
   "catholic": true,
   "catholic_note": "Founded by Dominican Sisters",
   "merit_aid": true,
-  "merit_aid_note": "Academic ($5k-$15k) and Merit scholarships, automatic"
+  "merit_aid_note": "Academic ($5k-$15k) and Merit scholarships, automatic",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "holy-family-pa",
@@ -2868,7 +3064,9 @@
   "catholic": true,
   "catholic_note": "Founded by Sisters of the Holy Family of Nazareth",
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships automatic, no extra application"
+  "merit_aid_note": "Merit scholarships automatic, no extra application",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "quincy-il",
@@ -2897,7 +3095,9 @@
   "catholic": true,
   "catholic_note": "Founded by Franciscan Friars",
   "merit_aid": true,
-  "merit_aid_note": "Merit-based scholarships not requiring financial need"
+  "merit_aid_note": "Merit-based scholarships not requiring financial need",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "mars-hill-nc",
@@ -2926,7 +3126,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships $1k-$7k based on GPA/SAT"
+  "merit_aid_note": "Automatic merit scholarships $1k-$7k based on GPA/SAT",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "young-harris-ga",
@@ -2955,7 +3157,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "4 merit tiers $17k-$21k plus Academic Scholarships $8k-$16k"
+  "merit_aid_note": "4 merit tiers $17k-$21k plus Academic Scholarships $8k-$16k",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "northwest-nazarene-id",
@@ -2984,7 +3188,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit Scholarship based on GPA + ACT/SAT, renewable"
+  "merit_aid_note": "Merit Scholarship based on GPA + ACT/SAT, renewable",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "chowan-nc",
@@ -3013,7 +3219,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships based on GPA/ACT-SAT/class rank"
+  "merit_aid_note": "Automatic merit scholarships based on GPA/ACT-SAT/class rank",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lake-erie-oh",
@@ -3042,7 +3250,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential and tiered merit scholarships up to $18k/yr"
+  "merit_aid_note": "Presidential and tiered merit scholarships up to $18k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "emmanuel-college-georgia-ga",
@@ -3071,7 +3281,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships up to $9k based on GPA"
+  "merit_aid_note": "Academic merit scholarships up to $9k based on GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "thomas-more-ky",
@@ -3100,7 +3312,9 @@
   "catholic": true,
   "catholic_note": "Diocesan, Diocese of Covington",
   "merit_aid": true,
-  "merit_aid_note": "Academic scholarships automatic on admission"
+  "merit_aid_note": "Academic scholarships automatic on admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "adams-state-co",
@@ -3129,7 +3343,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic renewable merit scholarships based on GPA"
+  "merit_aid_note": "Automatic renewable merit scholarships based on GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "tiffin-oh",
@@ -3158,7 +3374,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships up to $18k based on academics"
+  "merit_aid_note": "Merit scholarships up to $18k based on academics",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "point-park-pa",
@@ -3187,7 +3405,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships on acceptance"
+  "merit_aid_note": "Automatic merit scholarships on acceptance",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "dominican-university-of-california-ca",
@@ -3216,7 +3436,9 @@
   "catholic": true,
   "catholic_note": "Founded by Dominican Sisters",
   "merit_aid": true,
-  "merit_aid_note": "Automatic renewable merit scholarships $13k-$26k"
+  "merit_aid_note": "Automatic renewable merit scholarships $13k-$26k",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "malone-oh",
@@ -3245,7 +3467,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships based on GPA + ACT/SAT/CLT"
+  "merit_aid_note": "Automatic merit scholarships based on GPA + ACT/SAT/CLT",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "virginia-state-va",
@@ -3274,7 +3498,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "GPA-tiered merit awards, public HBCU"
+  "merit_aid_note": "GPA-tiered merit awards, public HBCU",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "felician-nj",
@@ -3303,7 +3529,9 @@
   "catholic": true,
   "catholic_note": "Founded by Felician Sisters",
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships $3k-$30.5k for all admitted students"
+  "merit_aid_note": "Automatic merit scholarships $3k-$30.5k for all admitted students",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "district-of-columbia-dc",
@@ -3332,7 +3560,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "DC-UP and other merit-based scholarships tied to GPA"
+  "merit_aid_note": "DC-UP and other merit-based scholarships tied to GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "davis-elkins-wv",
@@ -3361,7 +3591,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Highlands Scholarship explicitly merit-based, $11k-$20k"
+  "merit_aid_note": "Highlands Scholarship explicitly merit-based, $11k-$20k",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "caldwell-nj",
@@ -3390,7 +3622,9 @@
   "catholic": true,
   "catholic_note": "Founded by Dominican Sisters",
   "merit_aid": true,
-  "merit_aid_note": "Caldwell Commitment grants merit scholarships to all applicants"
+  "merit_aid_note": "Caldwell Commitment grants merit scholarships to all applicants",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "shorter-ga",
@@ -3419,7 +3653,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic scholarships $1.2k-$11k based on GPA/SAT-ACT"
+  "merit_aid_note": "Academic scholarships $1.2k-$11k based on GPA/SAT-ACT",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "bowdoin-me",
@@ -3448,7 +3684,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "100% need-based aid; explicitly does not offer merit aid"
+  "merit_aid_note": "100% need-based aid; explicitly does not offer merit aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "rit-ny",
@@ -3477,7 +3715,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships $14k-$27k regardless of financial need"
+  "merit_aid_note": "Merit scholarships $14k-$27k regardless of financial need",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "salisbury-md",
@@ -3506,7 +3746,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Sea Gull Scholarship Program: GPA-based merit awards (public)"
+  "merit_aid_note": "Sea Gull Scholarship Program: GPA-based merit awards (public)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "wesleyan-ct",
@@ -3535,7 +3777,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only; explicitly does not offer merit-based aid"
+  "merit_aid_note": "Need-based-only; explicitly does not offer merit-based aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "babson-ma",
@@ -3564,7 +3808,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Limited but confirmed merit scholarships, avg non-need award ~$27k"
+  "merit_aid_note": "Limited but confirmed merit scholarships, avg non-need award ~$27k",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "christopher-newport-va",
@@ -3593,7 +3839,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "President's Leadership Program and other merit scholarships (public)"
+  "merit_aid_note": "President's Leadership Program and other merit scholarships (public)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "bates-me",
@@ -3622,7 +3870,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "100% need-based aid, explicitly no merit or athletic awards"
+  "merit_aid_note": "100% need-based aid, explicitly no merit or athletic awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "stevens-nj",
@@ -3651,7 +3901,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships (Presidential Achievement) at admission"
+  "merit_aid_note": "Merit scholarships (Presidential Achievement) at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "york-pa",
@@ -3680,7 +3932,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit Scholarship for all admitted freshmen, $4.5k-$13.5k"
+  "merit_aid_note": "Merit Scholarship for all admitted freshmen, $4.5k-$13.5k",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "middlebury-vt",
@@ -3709,7 +3963,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "100% need-based aid; does not provide merit aid"
+  "merit_aid_note": "100% need-based aid; does not provide merit aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "amherst-ma",
@@ -3738,7 +3994,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "100% need-based aid; no merit scholarships of any kind"
+  "merit_aid_note": "100% need-based aid; no merit scholarships of any kind",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "gettysburg-pa",
@@ -3767,7 +4025,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Renewable merit scholarships $30k-$53k/yr"
+  "merit_aid_note": "Renewable merit scholarships $30k-$53k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "dickinson-pa",
@@ -3796,7 +4056,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit awards $15k-$35k/yr without regard to financial need"
+  "merit_aid_note": "Merit awards $15k-$35k/yr without regard to financial need",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "washington-lee-va",
@@ -3825,7 +4087,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "General aid is need-based, but Johnson Scholarship is explicitly merit-based (full tuition+room+board+stipend) for ~10% of class"
+  "merit_aid_note": "General aid is need-based, but Johnson Scholarship is explicitly merit-based (full tuition+room+board+stipend) for ~10% of class",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "hamilton-ny",
@@ -3854,7 +4118,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Eliminated merit scholarships in 2008; need-based aid only"
+  "merit_aid_note": "Eliminated merit scholarships in 2008; need-based aid only",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "st-john-fisher-ny",
@@ -3883,7 +4149,9 @@
   "catholic": true,
   "catholic_note": "Founded 1948 by the Basilian Fathers; still maintains Catholic/Basilian identity",
   "merit_aid": true,
-  "merit_aid_note": "Automatic academic merit scholarships $9k-$22k/yr"
+  "merit_aid_note": "Automatic academic merit scholarships $9k-$22k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "union-ny",
@@ -3912,7 +4180,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential Scholarship and other merit awards $10k-$46k/yr"
+  "merit_aid_note": "Presidential Scholarship and other merit awards $10k-$46k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "williams-ma",
@@ -3941,7 +4211,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only; no merit scholarships"
+  "merit_aid_note": "Need-based-only; no merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "st-lawrence-ny",
@@ -3970,7 +4242,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Trustee, Momentum, Sesquicentennial merit scholarships up to full tuition"
+  "merit_aid_note": "Trustee, Momentum, Sesquicentennial merit scholarships up to full tuition",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "trinity-ct",
@@ -3999,7 +4273,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only"
+  "merit_aid_note": "Need-based-only",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "swarthmore-pa",
@@ -4028,7 +4304,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only; no merit scholarships"
+  "merit_aid_note": "Need-based-only; no merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "denison-oh",
@@ -4057,7 +4335,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers significant merit aid"
+  "merit_aid_note": "Offers significant merit aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "skidmore-ny",
@@ -4086,7 +4366,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Limited/selective merit scholarships (Filene Music, Porter Presidential) alongside need-based aid"
+  "merit_aid_note": "Limited/selective merit scholarships (Filene Music, Porter Presidential) alongside need-based aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "franklin-marshall-pa",
@@ -4115,7 +4397,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships up to $35k/yr plus Diplomat/Rouse Leadership programs"
+  "merit_aid_note": "Merit scholarships up to $35k/yr plus Diplomat/Rouse Leadership programs",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "colorado-college-co",
@@ -4144,7 +4428,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only"
+  "merit_aid_note": "Need-based-only",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "connecticut-college-ct",
@@ -4173,7 +4459,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only"
+  "merit_aid_note": "Need-based-only",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "rpi-ny",
@@ -4202,7 +4490,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Rensselaer Medal ($40k/yr) and other merit scholarships"
+  "merit_aid_note": "Rensselaer Medal ($40k/yr) and other merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "colby-me",
@@ -4231,7 +4521,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only"
+  "merit_aid_note": "Need-based-only",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "stevenson-md",
@@ -4260,7 +4552,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit awards $10k-$21k/yr regardless of need"
+  "merit_aid_note": "Merit awards $10k-$21k/yr regardless of need",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "mit-ma",
@@ -4289,7 +4583,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only"
+  "merit_aid_note": "Need-based-only",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "washington-college-md",
@@ -4318,7 +4614,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships $33k-$38k/yr; Presidential Fellows"
+  "merit_aid_note": "Automatic merit scholarships $33k-$38k/yr; Presidential Fellows",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "roanoke-va",
@@ -4347,7 +4645,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Trustee/Presidential/Dean's/Faculty/Maroon merit awards $9k-$20k/yr"
+  "merit_aid_note": "Trustee/Presidential/Dean's/Faculty/Maroon merit awards $9k-$20k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "muhlenberg-pa",
@@ -4376,7 +4676,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers significant merit aid"
+  "merit_aid_note": "Offers significant merit aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "ohio-wesleyan-oh",
@@ -4405,7 +4707,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers significant merit aid"
+  "merit_aid_note": "Offers significant merit aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "randolph-macon-va",
@@ -4434,7 +4738,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential Scholarships and Dean's Award up to $33k/yr"
+  "merit_aid_note": "Presidential Scholarships and Dean's Award up to $33k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "haverford-pa",
@@ -4463,7 +4769,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only"
+  "merit_aid_note": "Need-based-only",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "elmhurst-il",
@@ -4492,7 +4800,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential Scholarship up to $25k/yr"
+  "merit_aid_note": "Presidential Scholarship up to $25k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "vassar-ny",
@@ -4521,7 +4831,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only"
+  "merit_aid_note": "Need-based-only",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "baldwin-wallace-oh",
@@ -4550,7 +4862,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships up to $22k/yr"
+  "merit_aid_note": "Academic merit scholarships up to $22k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "grove-city-pa",
@@ -4579,7 +4893,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Trustee Scholarship (full ride), President's Scholarship, other merit awards"
+  "merit_aid_note": "Trustee Scholarship (full ride), President's Scholarship, other merit awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "st-mary-s-college-of-maryland-md",
@@ -4608,7 +4924,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships without regard to need; Monument Scholars program"
+  "merit_aid_note": "Merit scholarships without regard to need; Monument Scholars program",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "hope-mi",
@@ -4637,7 +4955,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit and talent-based scholarships $2.5k-$20k/yr"
+  "merit_aid_note": "Merit and talent-based scholarships $2.5k-$20k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "kenyon-oh",
@@ -4666,7 +4986,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only"
+  "merit_aid_note": "Need-based-only",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "hampden-sydney-va",
@@ -4695,7 +5017,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Citrone Scholars (full tuition), President's Scholarships, Hurt Scholarship"
+  "merit_aid_note": "Citrone Scholars (full tuition), President's Scholarships, Hurt Scholarship",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "sewanee-tn",
@@ -4724,7 +5048,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers significant merit aid"
+  "merit_aid_note": "Offers significant merit aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "rhodes-tn",
@@ -4753,7 +5079,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers significant merit aid"
+  "merit_aid_note": "Offers significant merit aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "oberlin-oh",
@@ -4782,7 +5110,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Need-based-only"
+  "merit_aid_note": "Need-based-only",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "catholic-dc",
@@ -4811,7 +5141,9 @@
   "catholic": true,
   "catholic_note": "The Catholic University of America; pontifical university, USCCB-affiliated",
   "merit_aid": true,
-  "merit_aid_note": "Catholic University/Archdiocesan/Trustee merit scholarships $17k-$32k/yr or full tuition"
+  "merit_aid_note": "Catholic University/Archdiocesan/Trustee merit scholarships $17k-$32k/yr or full tuition",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "ohio-northern-oh",
@@ -4840,7 +5172,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships $20.5k-$29.5k/yr"
+  "merit_aid_note": "Automatic merit scholarships $20.5k-$29.5k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "pfeiffer-nc",
@@ -4869,7 +5203,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships"
+  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "elizabethtown-pa",
@@ -4898,7 +5234,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships"
+  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "massachusetts-maritime-ma",
@@ -4927,7 +5265,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit and need-based scholarships offered automatically"
+  "merit_aid_note": "Merit and need-based scholarships offered automatically",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "western-connecticut-ct",
@@ -4956,7 +5296,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential Merit Scholarship and other merit awards $4k-$24k+/yr"
+  "merit_aid_note": "Presidential Merit Scholarship and other merit awards $4k-$24k+/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "ursinus-pa",
@@ -4985,7 +5327,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers significant merit aid"
+  "merit_aid_note": "Offers significant merit aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "oneonta-ny",
@@ -5014,7 +5358,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "President's and Provost's Scholarships ($2k-$5k/yr)"
+  "merit_aid_note": "President's and Provost's Scholarships ($2k-$5k/yr)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "salve-regina-ri",
@@ -5043,7 +5389,9 @@
   "catholic": true,
   "catholic_note": "Founded 1934 by the Sisters of Mercy",
   "merit_aid": true,
-  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships"
+  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "wheaton-ma",
@@ -5072,7 +5420,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships up to $40k/yr regardless of financial need"
+  "merit_aid_note": "Merit scholarships up to $40k/yr regardless of financial need",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "centre-ky",
@@ -5101,7 +5451,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers significant merit aid"
+  "merit_aid_note": "Offers significant merit aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "wooster-oh",
@@ -5130,7 +5482,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential Scholar (full tuition), College Scholar, Dean's Scholar awards"
+  "merit_aid_note": "Presidential Scholar (full tuition), College Scholar, Dean's Scholar awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "mary-washington-va",
@@ -5159,7 +5513,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "In-state and out-of-state merit scholarships based on GPA/test scores"
+  "merit_aid_note": "In-state and out-of-state merit scholarships based on GPA/test scores",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "western-new-england-ma",
@@ -5188,7 +5544,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships"
+  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "aurora-il",
@@ -5217,7 +5575,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships"
+  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "illinois-wesleyan-il",
@@ -5246,7 +5606,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships"
+  "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "merchant-marine-ny",
@@ -5275,7 +5637,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Federal service academy; tuition-free via service commitment, not merit scholarships"
+  "merit_aid_note": "Federal service academy; tuition-free via service commitment, not merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "coast-guard-ct",
@@ -5304,7 +5668,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": false,
-  "merit_aid_note": "Federal service academy; tuition-free via service commitment, not merit scholarships"
+  "merit_aid_note": "Federal service academy; tuition-free via service commitment, not merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "umass-boston-ma",
@@ -5333,7 +5699,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships (Chancellor's Scholarship)"
+  "merit_aid_note": "Automatic merit scholarships (Chancellor's Scholarship)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "potsdam-ny",
@@ -5362,7 +5730,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships for students with min. 88/100 HS GPA"
+  "merit_aid_note": "Automatic merit scholarships for students with min. 88/100 HS GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "transylvania-ky",
@@ -5389,7 +5759,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Transy Achievement/Bingham merit scholarships"
+  "merit_aid_note": "Transy Achievement/Bingham merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "montclair-state-nj",
@@ -5418,7 +5790,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential Scholarship (GPA-based, up to $20k total)"
+  "merit_aid_note": "Presidential Scholarship (GPA-based, up to $20k total)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "maritime-ny",
@@ -5445,7 +5819,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "SUNY Maritime offers academic merit scholarships"
+  "merit_aid_note": "SUNY Maritime offers academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "eastern-pa",
@@ -5472,7 +5848,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Eastern University offers academic merit scholarships"
+  "merit_aid_note": "Eastern University offers academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "wentworth-ma",
@@ -5501,7 +5879,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships awarded at admission based on academics"
+  "merit_aid_note": "Merit scholarships awarded at admission based on academics",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "farmingdale-state-ny",
@@ -5528,7 +5908,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "SUNY Farmingdale offers merit-based academic scholarships"
+  "merit_aid_note": "SUNY Farmingdale offers merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "penn-college-pa",
@@ -5555,7 +5937,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Penn College offers merit scholarships"
+  "merit_aid_note": "Penn College offers merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "southwestern-tx",
@@ -5584,7 +5968,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Brown Scholarship ($45k/yr) and other merit awards"
+  "merit_aid_note": "Brown Scholarship ($45k/yr) and other merit awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "virginia-wesleyan-va",
@@ -5613,7 +5999,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "calvin-mi",
@@ -5642,7 +6030,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Distinguished Scholar and other merit awards"
+  "merit_aid_note": "Distinguished Scholar and other merit awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "keene-state-nh",
@@ -5671,7 +6061,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers merit-based academic scholarships"
+  "merit_aid_note": "Offers merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "john-carroll-oh",
@@ -5700,7 +6092,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Jesuit)",
   "merit_aid": true,
-  "merit_aid_note": "Tiered merit scholarships by GPA/test score"
+  "merit_aid_note": "Tiered merit scholarships by GPA/test score",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "oswego-ny",
@@ -5729,7 +6123,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential Scholarship plus Dean's/Destination Oswego awards"
+  "merit_aid_note": "Presidential Scholarship plus Dean's/Destination Oswego awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "albion-mi",
@@ -5758,7 +6154,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Trustee/Provost merit scholarships automatic on admission"
+  "merit_aid_note": "Trustee/Provost merit scholarships automatic on admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "roger-williams-ri",
@@ -5787,7 +6185,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential/Trustee merit scholarships"
+  "merit_aid_note": "Presidential/Trustee merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lake-forest-il",
@@ -5816,7 +6216,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Trustee and Presidential merit scholarships"
+  "merit_aid_note": "Trustee and Presidential merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "alfred-ny",
@@ -5845,7 +6247,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships based on academic achievement"
+  "merit_aid_note": "Merit scholarships based on academic achievement",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "rivier-ma",
@@ -5874,7 +6278,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Sisters of the Presentation of Mary)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit awards (school is actually in Nashua, NH)"
+  "merit_aid_note": "Academic merit awards (school is actually in Nashua, NH)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "bridgewater-va",
@@ -5903,7 +6309,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "depauw-in",
@@ -5932,7 +6340,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit awards $10k-$30k/yr, automatic consideration"
+  "merit_aid_note": "Merit awards $10k-$30k/yr, automatic consideration",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "southern-virginia-va",
@@ -5961,7 +6371,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic and Performance scholarships based on GPA/test scores/talent"
+  "merit_aid_note": "Academic and Performance scholarships based on GPA/test scores/talent",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "clark-ma",
@@ -5990,7 +6402,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential Scholarship (full ride) plus general merit awards"
+  "merit_aid_note": "Presidential Scholarship (full ride) plus general merit awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "emerson-ma",
@@ -6019,7 +6433,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Named merit awards, automatic on admission"
+  "merit_aid_note": "Named merit awards, automatic on admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "hood-md",
@@ -6048,7 +6464,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit-based academic scholarships"
+  "merit_aid_note": "Merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "carthage-wi",
@@ -6077,7 +6495,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Generous automatic merit scholarships by GPA/test score"
+  "merit_aid_note": "Generous automatic merit scholarships by GPA/test score",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "adrian-mi",
@@ -6106,7 +6526,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships (academic + talent-based)"
+  "merit_aid_note": "Merit scholarships (academic + talent-based)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "capital-oh",
@@ -6135,7 +6557,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "eastern-connecticut-ct",
@@ -6164,7 +6588,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Public CSCU school; offers merit-based scholarships"
+  "merit_aid_note": "Public CSCU school; offers merit-based scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "msoe-wi",
@@ -6193,7 +6619,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships based on GPA/class rank/test scores"
+  "merit_aid_note": "Merit scholarships based on GPA/class rank/test scores",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "hartwick-ny",
@@ -6222,7 +6650,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit-based academic scholarships"
+  "merit_aid_note": "Merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "st-vincent-pa",
@@ -6251,7 +6681,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Benedictine)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "university-of-saint-joseph-ct",
@@ -6280,7 +6712,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Sisters of Mercy)",
   "merit_aid": true,
-  "merit_aid_note": "Academic Merit Scholarship up to $25k/yr"
+  "merit_aid_note": "Academic Merit Scholarship up to $25k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "susquehanna-pa",
@@ -6309,7 +6743,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Provost/Dean's/Trustee merit scholarships"
+  "merit_aid_note": "Provost/Dean's/Trustee merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "berry-ga",
@@ -6338,7 +6774,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic academic merit scholarships (avg ~$22k); also has need-based work program"
+  "merit_aid_note": "Automatic academic merit scholarships (avg ~$22k); also has need-based work program",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "maine-maritime-me",
@@ -6367,7 +6805,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential Achievement and Dean's merit scholarships"
+  "merit_aid_note": "Presidential Achievement and Dean's merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "nichols-ma",
@@ -6396,7 +6836,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit-based academic scholarships"
+  "merit_aid_note": "Merit-based academic scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "piedmont-ga",
@@ -6425,7 +6867,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships based on academic record"
+  "merit_aid_note": "Automatic merit scholarships based on academic record",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "greensboro-nc",
@@ -6454,7 +6898,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "All admits reviewed for GPA-based merit scholarships"
+  "merit_aid_note": "All admits reviewed for GPA-based merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "immaculata-pa",
@@ -6483,7 +6929,9 @@
   "catholic": true,
   "catholic_note": "Catholic (IHM Sisters)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "goucher-md",
@@ -6512,7 +6960,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships (avg ~$39k), test scores not required"
+  "merit_aid_note": "Automatic merit scholarships (avg ~$39k), test scores not required",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "wabash-in",
@@ -6541,7 +6991,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Lilly Award (full tuition+) and Honor Scholarships"
+  "merit_aid_note": "Lilly Award (full tuition+) and Honor Scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "drew-nj",
@@ -6570,7 +7022,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit-based academic scholarships (Baldwin Honors and others)"
+  "merit_aid_note": "Merit-based academic scholarships (Baldwin Honors and others)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "mcdaniel-md",
@@ -6599,7 +7053,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "muskingum-oh",
@@ -6628,7 +7084,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "plattsburgh-ny",
@@ -6657,7 +7115,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "SUNY school; offers merit-based scholarships"
+  "merit_aid_note": "SUNY school; offers merit-based scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "morrisville-ny",
@@ -6686,7 +7146,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "SUNY school; offers merit-based scholarships"
+  "merit_aid_note": "SUNY school; offers merit-based scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "salem-state-ma",
@@ -6715,7 +7177,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Public MA school; offers merit-based scholarships"
+  "merit_aid_note": "Public MA school; offers merit-based scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "westminster-college-pa",
@@ -6744,7 +7208,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lasell-ma",
@@ -6773,7 +7239,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "saint-joseph-s-college-of-maine-me",
@@ -6802,7 +7270,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Sisters of Mercy)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "illinois-tech-il",
@@ -6831,7 +7301,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Camras Scholars (full tuition) plus Crown/Duchossois merit tiers"
+  "merit_aid_note": "Camras Scholars (full tuition) plus Crown/Duchossois merit tiers",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "benedictine-university-il",
@@ -6860,7 +7332,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Benedictine)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "otterbein-oh",
@@ -6889,7 +7363,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships at admission"
+  "merit_aid_note": "Academic merit scholarships at admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "centenary-college-of-louisiana-la",
@@ -6918,7 +7394,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "~99% of freshmen receive merit aid averaging ~$26k"
+  "merit_aid_note": "~99% of freshmen receive merit aid averaging ~$26k",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "new-paltz-ny",
@@ -6947,7 +7425,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "SUNY campus; institutional academic/merit scholarships"
+  "merit_aid_note": "SUNY campus; institutional academic/merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "kalamazoo-mi",
@@ -6976,7 +7456,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "100% of admitted students get merit scholarship ($44k-$52k/yr)"
+  "merit_aid_note": "100% of admitted students get merit scholarship ($44k-$52k/yr)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "norwich-vt",
@@ -7005,7 +7487,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "All admitted residential students auto-considered for academic merit scholarships"
+  "merit_aid_note": "All admitted residential students auto-considered for academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "delhi-ny",
@@ -7034,7 +7518,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "SUNY campus; Presidential Scholarship for 93+ GPA"
+  "merit_aid_note": "SUNY campus; Presidential Scholarship for 93+ GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "dubuque-ia",
@@ -7063,7 +7549,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic Academic Merit Scholarships ($8k-$20k/yr); 85% of freshmen receive merit aid"
+  "merit_aid_note": "Automatic Academic Merit Scholarships ($8k-$20k/yr); 85% of freshmen receive merit aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "johnson-wales-ri",
@@ -7092,7 +7580,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "President's Academic Scholarship and other automatic merit awards"
+  "merit_aid_note": "President's Academic Scholarship and other automatic merit awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "wittenberg-oh",
@@ -7121,7 +7611,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "All merit awards automatic, based on GPA/test scores"
+  "merit_aid_note": "All merit awards automatic, based on GPA/test scores",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "gwynedd-mercy-pa",
@@ -7150,7 +7642,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Sisters of Mercy)",
   "merit_aid": true,
-  "merit_aid_note": "Merit-based academic scholarships alongside need-based aid"
+  "merit_aid_note": "Merit-based academic scholarships alongside need-based aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "fdu-florham-nj",
@@ -7179,7 +7673,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships up to $22k/yr; 100% of freshmen offered scholarships"
+  "merit_aid_note": "Merit scholarships up to $22k/yr; 100% of freshmen offered scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "suny-poly-ny",
@@ -7208,7 +7704,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships automatic for top ~20-25% of admitted first-years"
+  "merit_aid_note": "Academic merit scholarships automatic for top ~20-25% of admitted first-years",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "marywood-pa",
@@ -7237,7 +7735,9 @@
   "catholic": true,
   "catholic_note": "Catholic (IHM Sisters)",
   "merit_aid": true,
-  "merit_aid_note": "President's/Trustees'/Founders'/Deans' Scholarships based on GPA"
+  "merit_aid_note": "President's/Trustees'/Founders'/Deans' Scholarships based on GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "curry-ma",
@@ -7266,7 +7766,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "All admitted students automatically considered for merit scholarships ($15k-$34k)"
+  "merit_aid_note": "All admitted students automatically considered for merit scholarships ($15k-$34k)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "dean-college-ma",
@@ -7295,7 +7797,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Oliver Dean Scholarship and other merit awards"
+  "merit_aid_note": "Oliver Dean Scholarship and other merit awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lawrence-wi",
@@ -7324,7 +7828,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Every applicant reviewed for merit scholarship ($30k-$42k/yr)"
+  "merit_aid_note": "Every applicant reviewed for merit scholarship ($30k-$42k/yr)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "manhattanville-ny",
@@ -7353,7 +7859,9 @@
   "catholic": false,
   "catholic_note": "Founded Catholic (RSCJ, 1841) but fully secularized 1969-71",
   "merit_aid": true,
-  "merit_aid_note": "Rewards academic accomplishment regardless of financial need"
+  "merit_aid_note": "Rewards academic accomplishment regardless of financial need",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "emmanuel-college-ma",
@@ -7382,7 +7890,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Sisters of Notre Dame de Namur)",
   "merit_aid": true,
-  "merit_aid_note": "Presidential/Dean's/Academic Achievement merit scholarships"
+  "merit_aid_note": "Presidential/Dean's/Academic Achievement merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "kings-pa",
@@ -7411,7 +7921,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Congregation of Holy Cross)",
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships incl. full-tuition Presidential Scholarship for top 5%"
+  "merit_aid_note": "Automatic merit scholarships incl. full-tuition Presidential Scholarship for top 5%",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "allegheny-pa",
@@ -7440,7 +7952,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Trustee/Alumni Scholarships explicitly awarded without regard to financial need, up to $43k/yr"
+  "merit_aid_note": "Trustee/Alumni Scholarships explicitly awarded without regard to financial need, up to $43k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "huntingdon-al",
@@ -7469,7 +7983,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships for freshmen/transfers based on academics"
+  "merit_aid_note": "Merit scholarships for freshmen/transfers based on academics",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "marietta-oh",
@@ -7498,7 +8014,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships ($14k-$26k/yr); full-ride McCoy/Rickey programs"
+  "merit_aid_note": "Automatic merit scholarships ($14k-$26k/yr); full-ride McCoy/Rickey programs",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "wilkes-pa",
@@ -7527,7 +8045,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships offered directly at admission, renewable"
+  "merit_aid_note": "Merit scholarships offered directly at admission, renewable",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "gordon-ma",
@@ -7556,7 +8076,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships ($16k-$20k/yr) automatic based on GPA/test scores"
+  "merit_aid_note": "Merit scholarships ($16k-$20k/yr) automatic based on GPA/test scores",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "edgewood-wi",
@@ -7585,7 +8107,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Dominican Sisters of Sinsinawa)",
   "merit_aid": true,
-  "merit_aid_note": "Merit-based academic scholarships ($1k-$26k), no application"
+  "merit_aid_note": "Merit-based academic scholarships ($1k-$26k), no application",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "hendrix-ar",
@@ -7614,7 +8138,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Odyssey Distinction Awards and Academic/National Merit scholarships"
+  "merit_aid_note": "Odyssey Distinction Awards and Academic/National Merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "mount-st-vincent-ny",
@@ -7643,7 +8169,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Sisters of Charity)",
   "merit_aid": true,
-  "merit_aid_note": "Dean's Merit Scholarship, four-year renewable"
+  "merit_aid_note": "Dean's Merit Scholarship, four-year renewable",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "canton-ny",
@@ -7672,7 +8200,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "SUNY Canton Scholars program and other academic/merit awards"
+  "merit_aid_note": "SUNY Canton Scholars program and other academic/merit awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "franciscan-oh",
@@ -7701,7 +8231,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Franciscan/TOR)",
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships ($9k-$21k/yr) based on weighted HS GPA"
+  "merit_aid_note": "Automatic merit scholarships ($9k-$21k/yr) based on weighted HS GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "thomas-me",
@@ -7730,7 +8262,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships based on HS/transfer GPA"
+  "merit_aid_note": "Automatic merit scholarships based on HS/transfer GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "albright-pa",
@@ -7759,7 +8293,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential/Dean's/Recognition/Shirk merit scholarships up to $22k/yr"
+  "merit_aid_note": "Presidential/Dean's/Recognition/Shirk merit scholarships up to $22k/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "regis-college-ma",
@@ -7788,7 +8324,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Congregation of St. Joseph)",
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships ($20k-$35k) automatic on admission"
+  "merit_aid_note": "Merit scholarships ($20k-$35k) automatic on admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "castleton-vt",
@@ -7817,7 +8355,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic Recognition and Achievement Scholarships"
+  "merit_aid_note": "Academic Recognition and Achievement Scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "new-england-college-nh",
@@ -7846,7 +8386,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers automatic academic/Presidential merit scholarships"
+  "merit_aid_note": "Offers automatic academic/Presidential merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "wilmington-college-oh",
@@ -7875,7 +8417,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers academic merit scholarships based on GPA/test scores"
+  "merit_aid_note": "Offers academic merit scholarships based on GPA/test scores",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "alfred-state-ny",
@@ -7904,7 +8448,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "ASC Merit Scholarships up to $20k over 4 years"
+  "merit_aid_note": "ASC Merit Scholarships up to $20k over 4 years",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "pitt-bradford-pa",
@@ -7933,7 +8479,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships ($1k-$12.5k) based on GPA/SAT-ACT, not financial need"
+  "merit_aid_note": "Merit scholarships ($1k-$12.5k) based on GPA/SAT-ACT, not financial need",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "delaware-valley-pa",
@@ -7962,7 +8510,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers automatic academic merit scholarships tiered by GPA"
+  "merit_aid_note": "Offers automatic academic merit scholarships tiered by GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "southern-maine-me",
@@ -7991,7 +8541,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "President's/Dirigo/USM Scholar merit awards ($1k-$11k/yr)"
+  "merit_aid_note": "President's/Dirigo/USM Scholar merit awards ($1k-$11k/yr)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "beloit-wi",
@@ -8020,7 +8572,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Established tiered academic merit scholarship program"
+  "merit_aid_note": "Established tiered academic merit scholarship program",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "mount-saint-mary-college-ny",
@@ -8049,7 +8603,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Dominican Sisters)",
   "merit_aid": true,
-  "merit_aid_note": "Offers automatic academic merit scholarships by GPA/test scores"
+  "merit_aid_note": "Offers automatic academic merit scholarships by GPA/test scores",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "keuka-ny",
@@ -8078,7 +8634,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers automatic academic merit scholarships"
+  "merit_aid_note": "Offers automatic academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "william-peace-nc",
@@ -8107,7 +8665,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers automatic academic merit scholarships"
+  "merit_aid_note": "Offers automatic academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "heidelberg-oh",
@@ -8136,7 +8696,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers automatic academic merit scholarships"
+  "merit_aid_note": "Offers automatic academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "st-joseph-s-university-long-island-ny",
@@ -8165,7 +8727,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Sisters of St. Joseph)",
   "merit_aid": true,
-  "merit_aid_note": "Offers automatic academic merit scholarships"
+  "merit_aid_note": "Offers automatic academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "juniata-pa",
@@ -8194,7 +8758,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Well-established tiered merit scholarship program (Baker Scholars)"
+  "merit_aid_note": "Well-established tiered merit scholarship program (Baker Scholars)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "cornell-college-ia",
@@ -8223,7 +8789,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Established academic merit scholarship program"
+  "merit_aid_note": "Established academic merit scholarship program",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lycoming-pa",
@@ -8252,7 +8820,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers automatic academic merit scholarships"
+  "merit_aid_note": "Offers automatic academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "averett-va",
@@ -8281,7 +8851,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers automatic academic merit scholarships"
+  "merit_aid_note": "Offers automatic academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "guilford-nc",
@@ -8310,7 +8882,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers academic merit scholarships"
+  "merit_aid_note": "Offers academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "mcla-ma",
@@ -8339,7 +8913,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "MCLA Presidential Scholarship (min 3.3 GPA/1600 SAT) explicitly merit-based"
+  "merit_aid_note": "MCLA Presidential Scholarship (min 3.3 GPA/1600 SAT) explicitly merit-based",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "alma-mi",
@@ -8368,7 +8944,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Competitive Presidential Scholars program and tiered academic merit scholarships"
+  "merit_aid_note": "Competitive Presidential Scholars program and tiered academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "randolph-va",
@@ -8397,7 +8975,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers automatic academic merit scholarships"
+  "merit_aid_note": "Offers automatic academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "oglethorpe-ga",
@@ -8426,7 +9006,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Offers tiered academic merit scholarships"
+  "merit_aid_note": "Offers tiered academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "albertus-magnus-ct",
@@ -8455,7 +9037,9 @@
   "catholic": true,
   "catholic_note": "Catholic (founded 1925 by Dominican Sisters of St. Mary of the Springs)",
   "merit_aid": true,
-  "merit_aid_note": "'Albertus Guarantee' of at least $40,000 in merit scholarship"
+  "merit_aid_note": "'Albertus Guarantee' of at least $40,000 in merit scholarship",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "hiram-oh",
@@ -8484,7 +9068,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic holistic-review merit scholarships upon admission"
+  "merit_aid_note": "Automatic holistic-review merit scholarships upon admission",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "marian-university-wi",
@@ -8513,7 +9099,9 @@
   "catholic": true,
   "catholic_note": "Catholic (founded by Sisters of St. Francis of the Holy Cross)",
   "merit_aid": true,
-  "merit_aid_note": "Freshman merit scholarships $6,000-$18,000 based on GPA/test scores"
+  "merit_aid_note": "Freshman merit scholarships $6,000-$18,000 based on GPA/test scores",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lagrange-ga",
@@ -8542,7 +9130,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "100% of freshmen received scholarships avg $18,277"
+  "merit_aid_note": "100% of freshmen received scholarships avg $18,277",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "augustana-il",
@@ -8571,7 +9161,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Tiered Presidential/Dean's/Founder's scholarships ($28k-$32k)"
+  "merit_aid_note": "Tiered Presidential/Dean's/Founder's scholarships ($28k-$32k)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "elmira-ny",
@@ -8600,7 +9192,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Elmira Scholars (full tuition), Trustee ($30k), Presidential/Founder awards"
+  "merit_aid_note": "Elmira Scholars (full tuition), Trustee ($30k), Presidential/Founder awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "cobleskill-ny",
@@ -8629,7 +9223,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Public SUNY; merit-based institutional scholarships"
+  "merit_aid_note": "Public SUNY; merit-based institutional scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "washington-jefferson-pa",
@@ -8658,7 +9254,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Millennial Scholarship (full tuition) and Thrive Scholarship"
+  "merit_aid_note": "Millennial Scholarship (full tuition) and Thrive Scholarship",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "purchase-ny",
@@ -8687,7 +9285,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Public SUNY; GPA-based merit awards for 87+ GPA"
+  "merit_aid_note": "Public SUNY; GPA-based merit awards for 87+ GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "spalding-ky",
@@ -8716,7 +9316,9 @@
   "catholic": true,
   "catholic_note": "Catholic (founded by Sisters of Charity of Nazareth)",
   "merit_aid": true,
-  "merit_aid_note": "Traditional Merit awards via GPA/ACT/SAT matrix"
+  "merit_aid_note": "Traditional Merit awards via GPA/ACT/SAT matrix",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "earlham-in",
@@ -8745,7 +9347,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships start at $30,000, separate from need-based aid"
+  "merit_aid_note": "Merit scholarships start at $30,000, separate from need-based aid",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "cairn-pa",
@@ -8774,7 +9378,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships up to $18,000/year based on academic merit"
+  "merit_aid_note": "Merit scholarships up to $18,000/year based on academic merit",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "warren-wilson-nc",
@@ -8803,7 +9409,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Trustee/Presidential/Dean's/Opportunity scholarships up to $13,000"
+  "merit_aid_note": "Trustee/Presidential/Dean's/Opportunity scholarships up to $13,000",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "hilbert-ny",
@@ -8832,7 +9440,9 @@
   "catholic": true,
   "catholic_note": "Catholic Franciscan heritage (founded by Franciscan Sisters of St. Joseph)",
   "merit_aid": true,
-  "merit_aid_note": "Academic Excellence Scholarship (85+ Regents average)"
+  "merit_aid_note": "Academic Excellence Scholarship (85+ Regents average)",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "thiel-pa",
@@ -8859,7 +9469,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "100% of freshmen offered scholarships avg $21,336"
+  "merit_aid_note": "100% of freshmen offered scholarships avg $21,336",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "brevard-nc",
@@ -8886,7 +9498,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships based on GPA/course rigor, five-figure awards"
+  "merit_aid_note": "Merit scholarships based on GPA/course rigor, five-figure awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "bethany-wv",
@@ -8915,7 +9529,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Bethany Merit Scholarship $17,000-$21,000, renewable 4 years"
+  "merit_aid_note": "Bethany Merit Scholarship $17,000-$21,000, renewable 4 years",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "elms-ma",
@@ -8942,7 +9558,9 @@
   "catholic": true,
   "catholic_note": "Catholic (founded 1928 by Sisters of St. Joseph of Springfield)",
   "merit_aid": true,
-  "merit_aid_note": "Avg non-need-based award $27,634"
+  "merit_aid_note": "Avg non-need-based award $27,634",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "colby-sawyer-nh",
@@ -8969,7 +9587,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit awards $15,000-$28,000/year"
+  "merit_aid_note": "Automatic merit awards $15,000-$28,000/year",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "mitchell-ct",
@@ -8996,7 +9616,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Holistic merit scholarships based on GPA/rigor"
+  "merit_aid_note": "Holistic merit scholarships based on GPA/rigor",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "centenary-university-nj",
@@ -9025,7 +9647,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships up to $25,000/year"
+  "merit_aid_note": "Merit scholarships up to $25,000/year",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "la-roche-pa",
@@ -9054,7 +9678,9 @@
   "catholic": true,
   "catholic_note": "Catholic (founded 1963 by Sisters of Divine Providence)",
   "merit_aid": true,
-  "merit_aid_note": "Automatic GPA-tiered merit scholarships up to $21,000"
+  "merit_aid_note": "Automatic GPA-tiered merit scholarships up to $21,000",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "keiser-fl",
@@ -9083,7 +9709,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Tiered Chancellor/Gold Seal/Dean's awards by GPA"
+  "merit_aid_note": "Tiered Chancellor/Gold Seal/Dean's awards by GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "madonna-mi",
@@ -9112,7 +9740,9 @@
   "catholic": true,
   "catholic_note": "Catholic (founded by Felician Sisters)",
   "merit_aid": true,
-  "merit_aid_note": "Up to $14,000/year merit scholarships"
+  "merit_aid_note": "Up to $14,000/year merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "aquinas-mi",
@@ -9141,7 +9771,9 @@
   "catholic": true,
   "catholic_note": "Catholic (founded by Dominican Sisters)",
   "merit_aid": true,
-  "merit_aid_note": "Academic scholarships $15,000-$25,000; Spectrum full-tuition competition"
+  "merit_aid_note": "Academic scholarships $15,000-$25,000; Spectrum full-tuition competition",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "indiana-tech-in",
@@ -9170,7 +9802,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships $5,000-$18,000; full-tuition Presidential Scholarship"
+  "merit_aid_note": "Merit scholarships $5,000-$18,000; full-tuition Presidential Scholarship",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "reinhardt-ga",
@@ -9199,7 +9833,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Presidential ($10k) and Sharp ($5k) merit scholarships"
+  "merit_aid_note": "Presidential ($10k) and Sharp ($5k) merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "scad-ga",
@@ -9228,7 +9864,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic scholarships; Honors Scholarship requires 3.5+ GPA"
+  "merit_aid_note": "Academic scholarships; Honors Scholarship requires 3.5+ GPA",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "william-penn-ia",
@@ -9257,7 +9895,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic Merit Scholarships $6,000-$16,000; full-tuition Trustee Scholarship"
+  "merit_aid_note": "Academic Merit Scholarships $6,000-$16,000; full-tuition Trustee Scholarship",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "benedictine-college-ks",
@@ -9286,7 +9926,9 @@
   "catholic": true,
   "catholic_note": "Catholic (Benedictine monks and sisters)",
   "merit_aid": true,
-  "merit_aid_note": "Academic merit scholarships $15,000-$35,000; full-tuition Presidential awards"
+  "merit_aid_note": "Academic merit scholarships $15,000-$35,000; full-tuition Presidential awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "life-university-ga",
@@ -9315,7 +9957,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit-based scholarships regardless of financial situation"
+  "merit_aid_note": "Merit-based scholarships regardless of financial situation",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "webber-international-fl",
@@ -9344,7 +9988,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit Award and Academic Excellence Award, no SAT/ACT required"
+  "merit_aid_note": "Merit Award and Academic Excellence Award, no SAT/ACT required",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "tennessee-wesleyan-tn",
@@ -9373,7 +10019,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "100% of students receive merit or athletic scholarship"
+  "merit_aid_note": "100% of students receive merit or athletic scholarship",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "mount-vernon-nazarene-oh",
@@ -9402,7 +10050,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Freshman/transfer academic merit scholarships"
+  "merit_aid_note": "Freshman/transfer academic merit scholarships",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "point-ga",
@@ -9431,7 +10081,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Founders Scholarship (full ride) plus GPA/test-based general merit awards"
+  "merit_aid_note": "Founders Scholarship (full ride) plus GPA/test-based general merit awards",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "taylor-in",
@@ -9460,7 +10112,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit grid $11,000-$21,000"
+  "merit_aid_note": "Automatic merit grid $11,000-$21,000",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "columbia-college-mo",
@@ -9489,7 +10143,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit-Based Scholarship and Dean's Excellence Scholarship"
+  "merit_aid_note": "Merit-Based Scholarship and Dean's Excellence Scholarship",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "lawrence-tech-mi",
@@ -9518,7 +10174,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit scholarships $4,000-$16,000, several named tiers"
+  "merit_aid_note": "Merit scholarships $4,000-$16,000, several named tiers",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "montreat-nc",
@@ -9547,7 +10205,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Competitive merit scholarships based on academic achievement"
+  "merit_aid_note": "Competitive merit scholarships based on academic achievement",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "william-woods-mo",
@@ -9576,7 +10236,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Merit Scholar Award range $8,000-full tuition"
+  "merit_aid_note": "Merit Scholar Award range $8,000-full tuition",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "university-of-michigan-dearborn-mi",
@@ -9605,7 +10267,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Public; GPA-based Dearborn Gateway Award plus larger merit scholarships up to $12,500/yr"
+  "merit_aid_note": "Public; GPA-based Dearborn Gateway Award plus larger merit scholarships up to $12,500/yr",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "missouri-baptist-mo",
@@ -9634,7 +10298,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Four automatic merit tiers $500-$23,000/yr; Full Trustee award"
+  "merit_aid_note": "Four automatic merit tiers $500-$23,000/yr; Full Trustee award",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "columbia-international-university-sc",
@@ -9663,7 +10329,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic merit scholarships $4,000-$14,000"
+  "merit_aid_note": "Automatic merit scholarships $4,000-$14,000",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "midland-ne",
@@ -9690,7 +10358,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Personalized scholarship packages by HS GPA; Dean's Achievement Award"
+  "merit_aid_note": "Personalized scholarship packages by HS GPA; Dean's Achievement Award",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "ottawa-ks",
@@ -9719,7 +10389,9 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Automatic institutional/academic scholarships; Presidential Scholarship"
+  "merit_aid_note": "Automatic institutional/academic scholarships; Presidential Scholarship",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  },
  {
   "id": "missouri-valley-mo",
@@ -9746,6 +10418,8 @@
   "catholic": false,
   "catholic_note": null,
   "merit_aid": true,
-  "merit_aid_note": "Academic scholarships awarded on GPA/ACT basis"
+  "merit_aid_note": "Academic scholarships awarded on GPA/ACT basis",
+  "rpi_rank_2026": null,
+  "rpi_record_2026": null
  }
 ]
