@@ -1,0 +1,67 @@
+{
+ "illinois-wesleyan-il": {
+  "rank": 2,
+  "tie": false,
+  "category": "Regional Colleges Midwest"
+ },
+ "taylor-in": {
+  "rank": 3,
+  "tie": false,
+  "category": "Regional Colleges Midwest"
+ },
+ "alma-mi": {
+  "rank": 6,
+  "tie": false,
+  "category": "Regional Colleges Midwest"
+ },
+ "benedictine-college-ks": {
+  "rank": 10,
+  "tie": true,
+  "category": "Regional Colleges Midwest"
+ },
+ "marietta-oh": {
+  "rank": 16,
+  "tie": true,
+  "category": "Regional Colleges Midwest"
+ },
+ "william-jewell-mo": {
+  "rank": 16,
+  "tie": true,
+  "category": "Regional Colleges Midwest"
+ },
+ "hiram-oh": {
+  "rank": 19,
+  "tie": false,
+  "category": "Regional Colleges Midwest"
+ },
+ "aquinas-mi": {
+  "rank": 20,
+  "tie": true,
+  "category": "Regional Colleges Midwest"
+ },
+ "wilmington-college-oh": {
+  "rank": 39,
+  "tie": false,
+  "category": "Regional Colleges Midwest"
+ },
+ "quincy-il": {
+  "rank": 45,
+  "tie": false,
+  "category": "Regional Colleges Midwest"
+ },
+ "ottawa-ks": {
+  "rank": 47,
+  "tie": false,
+  "category": "Regional Colleges Midwest"
+ },
+ "william-penn-ia": {
+  "rank": 59,
+  "tie": true,
+  "category": "Regional Colleges Midwest"
+ },
+ "missouri-valley-mo": {
+  "rank": 80,
+  "tie": false,
+  "category": "Regional Colleges Midwest"
+ }
+}

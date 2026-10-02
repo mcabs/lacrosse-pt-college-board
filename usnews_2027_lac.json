@@ -1,0 +1,457 @@
+{
+ "williams-ma": {
+  "rank": 1,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "amherst-ma": {
+  "rank": 2,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "bowdoin-me": {
+  "rank": 3,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "swarthmore-pa": {
+  "rank": 3,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "vassar-ny": {
+  "rank": 12,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "washington-lee-va": {
+  "rank": 12,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "hamilton-ny": {
+  "rank": 14,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "wesleyan-ct": {
+  "rank": 14,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "middlebury-vt": {
+  "rank": 19,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "richmond-va": {
+  "rank": 21,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "colby-me": {
+  "rank": 22,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "colgate-ny": {
+  "rank": 22,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "college-of-the-holy-cross-ma": {
+  "rank": 22,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "bates-me": {
+  "rank": 26,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "haverford-pa": {
+  "rank": 26,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "bucknell-pa": {
+  "rank": 29,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "lafayette-pa": {
+  "rank": 30,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "denison-oh": {
+  "rank": 31,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "trinity-ct": {
+  "rank": 31,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "colorado-college-co": {
+  "rank": 34,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "franklin-marshall-pa": {
+  "rank": 34,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "kenyon-oh": {
+  "rank": 41,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "skidmore-ny": {
+  "rank": 41,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "union-ny": {
+  "rank": 44,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "wabash-in": {
+  "rank": 44,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "connecticut-college-ct": {
+  "rank": 47,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "depauw-in": {
+  "rank": 49,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "rhodes-tn": {
+  "rank": 49,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "st-lawrence-ny": {
+  "rank": 49,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "centre-ky": {
+  "rank": 54,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "dickinson-pa": {
+  "rank": 54,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "gettysburg-pa": {
+  "rank": 54,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "oberlin-oh": {
+  "rank": 59,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "lake-forest-il": {
+  "rank": 62,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "muhlenberg-pa": {
+  "rank": 62,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "lawrence-wi": {
+  "rank": 68,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "st-anselm-nh": {
+  "rank": 72,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "kalamazoo-mi": {
+  "rank": 74,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "rollins-fl": {
+  "rank": 74,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "hope-mi": {
+  "rank": 78,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "wheaton-ma": {
+  "rank": 81,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "earlham-in": {
+  "rank": 83,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "allegheny-pa": {
+  "rank": 85,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "drew-nj": {
+  "rank": 85,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "randolph-macon-va": {
+  "rank": 85,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "susquehanna-pa": {
+  "rank": 85,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "augustana-il": {
+  "rank": 91,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "wooster-oh": {
+  "rank": 91,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "juniata-pa": {
+  "rank": 91,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "southwestern-tx": {
+  "rank": 91,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "ursinus-pa": {
+  "rank": 91,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "washington-jefferson-pa": {
+  "rank": 91,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "washington-college-md": {
+  "rank": 97,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "beloit-wi": {
+  "rank": 100,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "hendrix-ar": {
+  "rank": 100,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "lycoming-pa": {
+  "rank": 100,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "suny-geneseo": {
+  "rank": 100,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "st-mary-s-college-of-maryland-md": {
+  "rank": 106,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "transylvania-ky": {
+  "rank": 106,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "hanover": {
+  "rank": 109,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "hampden-sydney-va": {
+  "rank": 111,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "st-vincent-pa": {
+  "rank": 111,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "ohio-wesleyan-oh": {
+  "rank": 116,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "roanoke-va": {
+  "rank": 116,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "st-michaels-vt": {
+  "rank": 116,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "albion-mi": {
+  "rank": 119,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "christopher-newport-va": {
+  "rank": 119,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "emmanuel-college-ma": {
+  "rank": 125,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "goucher-md": {
+  "rank": 125,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "cornell-college-ia": {
+  "rank": 128,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "mary-washington-va": {
+  "rank": 128,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "gordon-ma": {
+  "rank": 146,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "oglethorpe-ga": {
+  "rank": 146,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "randolph-va": {
+  "rank": 157,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "albright-pa": {
+  "rank": 160,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "wittenberg-oh": {
+  "rank": 160,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "bridgewater-va": {
+  "rank": 165,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "guilford-nc": {
+  "rank": 172,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "mitchell-ct": {
+  "rank": 175,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "warren-wilson-nc": {
+  "rank": 181,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "bethany-wv": {
+  "rank": 181,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "navy-md": {
+  "rank": 3,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "army-west-point-ny": {
+  "rank": 9,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "air-force-co": {
+  "rank": 11,
+  "tie": false,
+  "category": "National Liberal Arts Colleges"
+ },
+ "sewanee-tn": {
+  "rank": 49,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "hobart-ny": {
+  "rank": 60,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "vmi-va": {
+  "rank": 62,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "purchase-ny": {
+  "rank": 128,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "centenary-college-of-louisiana-la": {
+  "rank": 132,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "mcla-ma": {
+  "rank": 140,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ },
+ "eastern-connecticut-ct": {
+  "rank": 142,
+  "tie": true,
+  "category": "National Liberal Arts Colleges"
+ }
+}

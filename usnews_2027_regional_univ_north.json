@@ -1,0 +1,457 @@
+{
+ "babson-ma": {
+  "rank": 1,
+  "tie": false,
+  "category": "Regional Universities North"
+ },
+ "bentley-ma": {
+  "rank": 2,
+  "tie": false,
+  "category": "Regional Universities North"
+ },
+ "providence-ri": {
+  "rank": 3,
+  "tie": false,
+  "category": "Regional Universities North"
+ },
+ "loyola-university-maryland-md": {
+  "rank": 6,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "marist": {
+  "rank": 6,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "bryant-ri": {
+  "rank": 8,
+  "tie": false,
+  "category": "Regional Universities North"
+ },
+ "ithaca": {
+  "rank": 11,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "siena-ny": {
+  "rank": 11,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "towson-md": {
+  "rank": 13,
+  "tie": false,
+  "category": "Regional Universities North"
+ },
+ "le-moyne-ny": {
+  "rank": 14,
+  "tie": false,
+  "category": "Regional Universities North"
+ },
+ "salve-regina-ri": {
+  "rank": 16,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "endicott": {
+  "rank": 19,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "st-bonaventure-ny": {
+  "rank": 19,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "stockton": {
+  "rank": 19,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "manhattan-ny": {
+  "rank": 22,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "st-john-fisher-ny": {
+  "rank": 22,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "merrimack-ma": {
+  "rank": 25,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "roger-williams-ri": {
+  "rank": 25,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "suny-cortland": {
+  "rank": 25,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "assumption-ma": {
+  "rank": 29,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "moravian": {
+  "rank": 29,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "elizabethtown-pa": {
+  "rank": 32,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "university-of-saint-joseph-ct": {
+  "rank": 32,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "molloy-ny": {
+  "rank": 39,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "seton-hill": {
+  "rank": 39,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "gwynedd-mercy-pa": {
+  "rank": 45,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "marywood-pa": {
+  "rank": 45,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "messiah": {
+  "rank": 45,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "nazareth": {
+  "rank": 45,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "regis-college-ma": {
+  "rank": 45,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "salisbury-md": {
+  "rank": 45,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "springfield": {
+  "rank": 45,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "wagner-ny": {
+  "rank": 45,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "canisius-ny": {
+  "rank": 56,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "elms-ma": {
+  "rank": 56,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "iona-ny": {
+  "rank": 56,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "misericordia": {
+  "rank": 56,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "stevenson-md": {
+  "rank": 56,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "st-joseph-s-university-long-island-ny": {
+  "rank": 56,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "lebanon-valley": {
+  "rank": 64,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "mcdaniel-md": {
+  "rank": 64,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "mount-st-mary-s-university-md": {
+  "rank": 64,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "mount-st-vincent-ny": {
+  "rank": 64,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "holy-family-pa": {
+  "rank": 68,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "hood-md": {
+  "rank": 68,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "mercyhurst-pa": {
+  "rank": 68,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "mount-saint-mary-college-ny": {
+  "rank": 68,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "alfred-ny": {
+  "rank": 73,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "norwich-vt": {
+  "rank": 73,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "frostburg-state-md": {
+  "rank": 76,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "suny-brockport": {
+  "rank": 76,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "caldwell-nj": {
+  "rank": 81,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "manhattanville-ny": {
+  "rank": 85,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "salem-state-ma": {
+  "rank": 85,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "dominican-ny": {
+  "rank": 89,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "immaculata-pa": {
+  "rank": 89,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "kings-pa": {
+  "rank": 89,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "liu": {
+  "rank": 89,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "albertus-magnus-ct": {
+  "rank": 98,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "husson": {
+  "rank": 98,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "johnson-wales-ri": {
+  "rank": 98,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "lasell-ma": {
+  "rank": 98,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "centenary-university-nj": {
+  "rank": 107,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "georgian-court-nj": {
+  "rank": 107,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "alvernia": {
+  "rank": 116,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "felician-nj": {
+  "rank": 116,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "roberts-wesleyan-ny": {
+  "rank": 116,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "st-thomas-aquinas-ny": {
+  "rank": 116,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "neumann": {
+  "rank": 123,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "nichols-ma": {
+  "rank": 123,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "chestnut-hill-pa": {
+  "rank": 128,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "delaware-valley-pa": {
+  "rank": 128,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "franklin-pierce": {
+  "rank": 128,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "keuka-ny": {
+  "rank": 128,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "cairn-pa": {
+  "rank": 134,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "la-roche-pa": {
+  "rank": 134,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "curry-ma": {
+  "rank": 137,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "rivier-ma": {
+  "rank": 139,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "district-of-columbia-dc": {
+  "rank": 139,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "massachusetts-maritime-ma": {
+  "rank": 10,
+  "tie": false,
+  "category": "Regional Universities North"
+ },
+ "new-paltz-ny": {
+  "rank": 16,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "wentworth-ma": {
+  "rank": 22,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "oneonta-ny": {
+  "rank": 29,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "maritime-ny": {
+  "rank": 32,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "oswego-ny": {
+  "rank": 45,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "plattsburgh-ny": {
+  "rank": 62,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "suny-poly-ny": {
+  "rank": 73,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "saint-joseph-s-college-of-maine-me": {
+  "rank": 81,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "york-pa": {
+  "rank": 81,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "potsdam-ny": {
+  "rank": 98,
+  "tie": true,
+  "category": "Regional Universities North"
+ },
+ "western-connecticut-ct": {
+  "rank": 114,
+  "tie": true,
+  "category": "Regional Universities North"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "dominican-university-of-california-ca": {
+  "rank": 7,
+  "tie": false,
+  "category": "Regional Universities West"
+ },
+ "westminster-university-ut": {
+  "rank": 12,
+  "tie": true,
+  "category": "Regional Universities West"
+ },
+ "northwest-nazarene-id": {
+  "rank": 41,
+  "tie": false,
+  "category": "Regional Universities West"
+ }
+}

@@ -31,8 +31,9 @@
   "rpi_record_2026": "5-11",
   "forbes_rank": 492,
   "forbes_salary_10yr": 97770,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 26,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "binghamton",
@@ -67,7 +68,8 @@
   "forbes_rank": 63,
   "forbes_salary_10yr": 111611,
   "us_news_rank": 73,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "boston-university",
@@ -103,7 +105,8 @@
   "forbes_rank": 38,
   "forbes_salary_10yr": 108955,
   "us_news_rank": 34,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "delaware",
@@ -138,7 +141,8 @@
   "forbes_rank": 136,
   "forbes_salary_10yr": 107134,
   "us_news_rank": 85,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "drexel",
@@ -173,7 +177,8 @@
   "forbes_rank": 148,
   "forbes_salary_10yr": 110420,
   "us_news_rank": 80,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "duke",
@@ -207,8 +212,9 @@
   "rpi_record_2026": "11-5",
   "forbes_rank": 13,
   "forbes_salary_10yr": 119558,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 8,
+  "us_news_tie": false,
+  "us_news_category": "National Universities"
  },
  {
   "id": "hampton",
@@ -239,7 +245,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships for 3.5+ GPA/1000+ SAT",
   "rpi_rank_2026": 77,
-  "rpi_record_2026": "0-13"
+  "rpi_record_2026": "0-13",
+  "us_news_rank": 8,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "high-point",
@@ -271,7 +280,10 @@
   "merit_aid": true,
   "merit_aid_note": "Known for generous automatic merit scholarships",
   "rpi_rank_2026": 27,
-  "rpi_record_2026": "6-8"
+  "rpi_record_2026": "6-8",
+  "us_news_rank": 5,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "liu",
@@ -303,7 +315,10 @@
   "merit_aid": true,
   "merit_aid_note": "LIU Post offers automatic merit scholarships based on GPA/SAT",
   "rpi_rank_2026": 42,
-  "rpi_record_2026": "11-4"
+  "rpi_record_2026": "11-4",
+  "us_news_rank": 89,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "marist",
@@ -338,8 +353,9 @@
   "rpi_record_2026": "12-5",
   "forbes_rank": 301,
   "forbes_salary_10yr": 105582,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 6,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "marquette",
@@ -374,8 +390,9 @@
   "rpi_record_2026": "6-7",
   "forbes_rank": 119,
   "forbes_salary_10yr": 108680,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 90,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "umass-lowell",
@@ -409,8 +426,9 @@
   "rpi_record_2026": "2-10",
   "forbes_rank": 329,
   "forbes_salary_10yr": 109000,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 148,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "mercer",
@@ -444,8 +462,9 @@
   "rpi_record_2026": "6-8",
   "forbes_rank": 405,
   "forbes_salary_10yr": 99666,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 148,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "unc",
@@ -479,8 +498,9 @@
   "rpi_record_2026": "13-5",
   "forbes_rank": 49,
   "forbes_salary_10yr": 103179,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 27,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "ohio-state",
@@ -514,8 +534,9 @@
   "rpi_record_2026": "10-4",
   "forbes_rank": 95,
   "forbes_salary_10yr": 102071,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 44,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "quinnipiac",
@@ -550,8 +571,9 @@
   "rpi_record_2026": "5-10",
   "forbes_rank": 473,
   "forbes_salary_10yr": 104173,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 156,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "rutgers",
@@ -586,7 +608,8 @@
   "forbes_rank": 81,
   "forbes_salary_10yr": 98972,
   "us_news_rank": 44,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "sacred-heart",
@@ -618,7 +641,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": 39,
-  "rpi_record_2026": "11-4"
+  "rpi_record_2026": "11-4",
+  "us_news_rank": 202,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "saint-josephs-pa",
@@ -653,8 +679,9 @@
   "rpi_record_2026": "7-6",
   "forbes_rank": 304,
   "forbes_salary_10yr": 108783,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 137,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "stony-brook",
@@ -689,7 +716,8 @@
   "forbes_rank": 64,
   "forbes_salary_10yr": 107318,
   "us_news_rank": 59,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "utah",
@@ -723,8 +751,9 @@
   "rpi_record_2026": "9-5",
   "forbes_rank": 105,
   "forbes_salary_10yr": 105860,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 179,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "vermont",
@@ -758,8 +787,9 @@
   "rpi_record_2026": "7-7",
   "forbes_rank": 184,
   "forbes_salary_10yr": 102780,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 133,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "aic",
@@ -821,7 +851,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 31,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "colorado-mesa",
@@ -852,7 +885,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarship consideration based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 18,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges West"
  },
  {
   "id": "dominican-ny",
@@ -883,7 +919,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 89,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "dyouville",
@@ -917,8 +956,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 472,
   "forbes_salary_10yr": 66942,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 250,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "emory-henry",
@@ -950,7 +990,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 317,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "florida-southern",
@@ -981,7 +1024,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarship tiers based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 18,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "franklin-pierce",
@@ -1013,7 +1059,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 128,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "indianapolis",
@@ -1044,7 +1093,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 288,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "lincoln-memorial",
@@ -1076,7 +1128,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 342,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "maryville-mo",
@@ -1108,7 +1163,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 308,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "mercy",
@@ -1139,7 +1197,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 332,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "rockhurst",
@@ -1174,8 +1235,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 305,
   "forbes_salary_10yr": 104702,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 11,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "seton-hill",
@@ -1206,7 +1268,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 39,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "walsh",
@@ -1238,7 +1303,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 108,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "wheeling",
@@ -1269,7 +1337,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 118,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "wingate",
@@ -1301,7 +1372,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarship tiers",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 66,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "clarke",
@@ -1332,7 +1406,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 78,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "st-ambrose",
@@ -1363,7 +1440,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 32,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "cumberlands",
@@ -1394,7 +1474,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 105,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "alvernia",
@@ -1426,7 +1509,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 116,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "arcadia",
@@ -1457,7 +1543,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 288,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "carroll-wi",
@@ -1489,7 +1578,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 20,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "chatham",
@@ -1520,7 +1612,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 236,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "clarkson",
@@ -1554,8 +1649,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 225,
   "forbes_salary_10yr": 119691,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 137,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "concordia-wisconsin",
@@ -1587,7 +1683,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 299,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "desales",
@@ -1619,7 +1718,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 262,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "endicott",
@@ -1650,7 +1752,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 19,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "hanover",
@@ -1682,7 +1787,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 109,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "husson",
@@ -1714,7 +1822,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 98,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "ithaca",
@@ -1748,8 +1859,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 381,
   "forbes_salary_10yr": 102334,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 11,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "kean",
@@ -1780,7 +1892,10 @@
   "merit_aid": true,
   "merit_aid_note": "NJ public; offers merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 317,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "lebanon-valley",
@@ -1812,7 +1927,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 64,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "marymount-va",
@@ -1843,7 +1961,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 276,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "messiah",
@@ -1874,7 +1995,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 45,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "methodist",
@@ -1905,7 +2029,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 105,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "misericordia",
@@ -1937,7 +2064,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 56,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "moravian",
@@ -1968,7 +2098,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 29,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "nazareth",
@@ -1999,7 +2132,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 45,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "neumann",
@@ -2030,7 +2166,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 123,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "north-central",
@@ -2061,7 +2200,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 23,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "plymouth-state",
@@ -2092,7 +2234,10 @@
   "merit_aid": true,
   "merit_aid_note": "NH public; offers merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 353,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "russell-sage",
@@ -2124,7 +2269,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 227,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "suny-brockport",
@@ -2156,7 +2304,10 @@
   "merit_aid": true,
   "merit_aid_note": "SUNY system offers merit-based Presidential/Provost scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 76,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "suny-cortland",
@@ -2188,7 +2339,10 @@
   "merit_aid": true,
   "merit_aid_note": "SUNY system offers merit-based scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 25,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "suny-geneseo",
@@ -2223,8 +2377,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 234,
   "forbes_salary_10yr": 101182,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 100,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "shenandoah",
@@ -2256,7 +2411,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 288,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "springfield",
@@ -2288,7 +2446,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 45,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "stockton",
@@ -2322,8 +2483,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 399,
   "forbes_salary_10yr": 95672,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 19,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "trine",
@@ -2355,7 +2517,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers substantial merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 36,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "tufts",
@@ -2390,7 +2555,8 @@
   "forbes_rank": 54,
   "forbes_salary_10yr": 115684,
   "us_news_rank": 31,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "hartford",
@@ -2421,7 +2587,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 288,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "lynchburg",
@@ -2452,7 +2621,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 332,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "mount-union",
@@ -2483,7 +2655,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 36,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "une",
@@ -2514,7 +2689,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 262,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "scranton",
@@ -2549,8 +2727,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 247,
   "forbes_salary_10yr": 108061,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 137,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "utica",
@@ -2582,7 +2761,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 299,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "widener",
@@ -2614,6 +2796,9 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 276,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  }
 ]

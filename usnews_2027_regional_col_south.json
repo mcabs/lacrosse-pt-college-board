@@ -1,0 +1,82 @@
+{
+ "catawba-nc": {
+  "rank": 1,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "flagler-fl": {
+  "rank": 1,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "belmont-abbey-nc": {
+  "rank": 10,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "huntingdon-al": {
+  "rank": 13,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "mars-hill-nc": {
+  "rank": 13,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "william-peace-nc": {
+  "rank": 13,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "brevard-nc": {
+  "rank": 16,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "lees-mcrae-nc": {
+  "rank": 16,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "barton-nc": {
+  "rank": 19,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "newberry-sc": {
+  "rank": 21,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "davis-elkins-wv": {
+  "rank": 26,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "montreat-nc": {
+  "rank": 28,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "point-ga": {
+  "rank": 46,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "emmanuel-college-georgia-ga": {
+  "rank": 52,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "chowan-nc": {
+  "rank": 58,
+  "tie": true,
+  "category": "Regional Colleges South"
+ },
+ "webber-international-fl": {
+  "rank": 68,
+  "tie": false,
+  "category": "Regional Colleges South"
+ }
+}

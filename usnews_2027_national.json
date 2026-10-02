@@ -1,0 +1,457 @@
+{
+ "alabama-huntsville-al": {
+  "rank": 262,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "denver-co": {
+  "rank": 121,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "fairfield-ct": {
+  "rank": 109,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "quinnipiac": {
+  "rank": 156,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "sacred-heart": {
+  "rank": 202,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "delaware": {
+  "rank": 85,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "georgetown-dc": {
+  "rank": 23,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "mercer": {
+  "rank": 148,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "aurora-il": {
+  "rank": 262,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "notre-dame-in": {
+  "rank": 20,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "une": {
+  "rank": 262,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "maryland-md": {
+  "rank": 49,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "clark-ma": {
+  "rank": 133,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "tufts": {
+  "rank": 31,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "western-new-england-ma": {
+  "rank": 262,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "detroit-mercy-mi": {
+  "rank": 186,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "university-of-michigan-dearborn-mi": {
+  "rank": 227,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "dartmouth-nh": {
+  "rank": 12,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "monmouth-nj": {
+  "rank": 169,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "montclair-state-nj": {
+  "rank": 156,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "adelphi-ny": {
+  "rank": 191,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "clarkson": {
+  "rank": 137,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "cornell-ny": {
+  "rank": 14,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "dyouville": {
+  "rank": 250,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "hofstra-ny": {
+  "rank": 191,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "pace-ny": {
+  "rank": 250,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "russell-sage": {
+  "rank": 227,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "st-john-s-university-ny": {
+  "rank": 137,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "albany-ny": {
+  "rank": 121,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "binghamton": {
+  "rank": 73,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "stony-brook": {
+  "rank": 59,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "syracuse-ny": {
+  "rank": 72,
+  "tie": false,
+  "category": "National Universities"
+ },
+ "unc": {
+  "rank": 27,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "ohio-northern-oh": {
+  "rank": 208,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "chatham": {
+  "rank": 236,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "drexel": {
+  "rank": 80,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "lehigh-pa": {
+  "rank": 44,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "robert-morris-pa": {
+  "rank": 219,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "saint-josephs-pa": {
+  "rank": 137,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "scranton": {
+  "rank": 137,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "villanova-pa": {
+  "rank": 42,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "brown-ri": {
+  "rank": 16,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "utah": {
+  "rank": 179,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "vermont": {
+  "rank": 133,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "marymount-va": {
+  "rank": 276,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "marquette": {
+  "rank": 90,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "desales": {
+  "rank": 262,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "ohio-state": {
+  "rank": 44,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "virginia-va": {
+  "rank": 26,
+  "tie": false,
+  "category": "National Universities"
+ },
+ "princeton-nj": {
+  "rank": 2,
+  "tie": false,
+  "category": "National Universities"
+ },
+ "harvard-ma": {
+  "rank": 3,
+  "tie": false,
+  "category": "National Universities"
+ },
+ "yale-ct": {
+  "rank": 4,
+  "tie": false,
+  "category": "National Universities"
+ },
+ "duke": {
+  "rank": 8,
+  "tie": false,
+  "category": "National Universities"
+ },
+ "johns-hopkins-md": {
+  "rank": 9,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "penn-state-pa": {
+  "rank": 55,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "umass-lowell": {
+  "rank": 148,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "umass-amherst-ma": {
+  "rank": 59,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "umass-boston-ma": {
+  "rank": 202,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "njit-nj": {
+  "rank": 85,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "rit-ny": {
+  "rank": 95,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "rpi-ny": {
+  "rank": 69,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "stevens-nj": {
+  "rank": 59,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "illinois-tech-il": {
+  "rank": 121,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "umbc-md": {
+  "rank": 137,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "florida-tech-fl": {
+  "rank": 236,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "catholic-dc": {
+  "rank": 148,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "mit-ma": {
+  "rank": 1,
+  "tie": false,
+  "category": "National Universities"
+ },
+ "penn-pa": {
+  "rank": 7,
+  "tie": false,
+  "category": "National Universities"
+ },
+ "michigan-mi": {
+  "rank": 25,
+  "tie": false,
+  "category": "National Universities"
+ },
+ "boston-university": {
+  "rank": 34,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "rutgers": {
+  "rank": 44,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "arcadia": {
+  "rank": 288,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "cleveland-state-oh": {
+  "rank": 342,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "concordia-university-irvine-ca": {
+  "rank": 342,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "concordia-wisconsin": {
+  "rank": 299,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "emory-henry": {
+  "rank": 317,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "jacksonville-fl": {
+  "rank": 332,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "kean": {
+  "rank": 317,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "lincoln-memorial": {
+  "rank": 342,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "maryville-mo": {
+  "rank": 308,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "mercy": {
+  "rank": 332,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "plymouth-state": {
+  "rank": 353,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "point-park-pa": {
+  "rank": 332,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "wilkes-pa": {
+  "rank": 308,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "widener": {
+  "rank": 276,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "utica": {
+  "rank": 299,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "lynchburg": {
+  "rank": 332,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "indianapolis": {
+  "rank": 288,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "hartford": {
+  "rank": 288,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "bridgeport-ct": {
+  "rank": 376,
+  "tie": true,
+  "category": "National Universities"
+ },
+ "shenandoah": {
+  "rank": 288,
+  "tie": true,
+  "category": "National Universities"
+ }
+}

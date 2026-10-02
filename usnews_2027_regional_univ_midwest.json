@@ -1,0 +1,187 @@
+{
+ "john-carroll-oh": {
+  "rank": 1,
+  "tie": false,
+  "category": "Regional Universities Midwest"
+ },
+ "calvin-mi": {
+  "rank": 3,
+  "tie": false,
+  "category": "Regional Universities Midwest"
+ },
+ "elmhurst-il": {
+  "rank": 10,
+  "tie": false,
+  "category": "Regional Universities Midwest"
+ },
+ "rockhurst": {
+  "rank": 11,
+  "tie": false,
+  "category": "Regional Universities Midwest"
+ },
+ "baldwin-wallace-oh": {
+  "rank": 12,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "carroll-wi": {
+  "rank": 20,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "otterbein-oh": {
+  "rank": 20,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "north-central": {
+  "rank": 23,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "lewis-il": {
+  "rank": 32,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "st-ambrose": {
+  "rank": 32,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "trine": {
+  "rank": 36,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "mount-union": {
+  "rank": 36,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "carthage-wi": {
+  "rank": 42,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "edgewood-wi": {
+  "rank": 46,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "muskingum-oh": {
+  "rank": 46,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "capital-oh": {
+  "rank": 49,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "northwood-mi": {
+  "rank": 58,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "dubuque-ia": {
+  "rank": 67,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "benedictine-university-il": {
+  "rank": 70,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "clarke": {
+  "rank": 78,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "heidelberg-oh": {
+  "rank": 78,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "mount-vernon-nazarene-oh": {
+  "rank": 91,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "walsh": {
+  "rank": 108,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "adrian-mi": {
+  "rank": 110,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "madonna-mi": {
+  "rank": 110,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "marian-university-wi": {
+  "rank": 117,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "davenport-mi": {
+  "rank": 125,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "malone-oh": {
+  "rank": 133,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "tiffin-oh": {
+  "rank": 136,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "indiana-tech-in": {
+  "rank": 142,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "columbia-college-mo": {
+  "rank": 149,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "william-woods-mo": {
+  "rank": 152,
+  "tie": false,
+  "category": "Regional Universities Midwest"
+ },
+ "lake-erie-oh": {
+  "rank": 153,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "midland-ne": {
+  "rank": 153,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "msoe-wi": {
+  "rank": 2,
+  "tie": false,
+  "category": "Regional Universities Midwest"
+ },
+ "franciscan-oh": {
+  "rank": 36,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ },
+ "lawrence-tech-mi": {
+  "rank": 34,
+  "tie": true,
+  "category": "Regional Universities Midwest"
+ }
+}

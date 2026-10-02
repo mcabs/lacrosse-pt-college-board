@@ -32,7 +32,8 @@
   "forbes_rank": 2,
   "forbes_salary_10yr": 121773,
   "us_news_rank": 2,
-  "us_news_tie": false
+  "us_news_tie": false,
+  "us_news_category": "National Universities"
  },
  {
   "id": "notre-dame-in",
@@ -66,8 +67,9 @@
   "rpi_record_2026": "13-3",
   "forbes_rank": 23,
   "forbes_salary_10yr": 119835,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 20,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "penn-state-pa",
@@ -102,7 +104,8 @@
   "forbes_rank": 185,
   "forbes_salary_10yr": 107183,
   "us_news_rank": 55,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "richmond-va",
@@ -136,8 +139,9 @@
   "rpi_record_2026": "14-2",
   "forbes_rank": 82,
   "forbes_salary_10yr": 110390,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 21,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "virginia-va",
@@ -172,7 +176,8 @@
   "forbes_rank": 28,
   "forbes_salary_10yr": 111777,
   "us_news_rank": 26,
-  "us_news_tie": false
+  "us_news_tie": false,
+  "us_news_category": "National Universities"
  },
  {
   "id": "syracuse-ny",
@@ -207,7 +212,8 @@
   "forbes_rank": 113,
   "forbes_salary_10yr": 108774,
   "us_news_rank": 72,
-  "us_news_tie": false
+  "us_news_tie": false,
+  "us_news_category": "National Universities"
  },
  {
   "id": "maryland-md",
@@ -242,7 +248,8 @@
   "forbes_rank": 44,
   "forbes_salary_10yr": 106208,
   "us_news_rank": 49,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "cornell-ny",
@@ -277,7 +284,8 @@
   "forbes_rank": 14,
   "forbes_salary_10yr": 119804,
   "us_news_rank": 14,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "georgetown-dc",
@@ -312,7 +320,8 @@
   "forbes_rank": 31,
   "forbes_salary_10yr": 117530,
   "us_news_rank": 23,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "army-west-point-ny",
@@ -343,7 +352,10 @@
   "merit_aid": false,
   "merit_aid_note": "Full tuition/room/board via military service commitment, not merit aid",
   "rpi_rank_2026": 11,
-  "rpi_record_2026": "13-4"
+  "rpi_record_2026": "13-4",
+  "us_news_rank": 9,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "johns-hopkins-md",
@@ -378,7 +390,8 @@
   "forbes_rank": 11,
   "forbes_salary_10yr": 111678,
   "us_news_rank": 9,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "yale-ct",
@@ -413,7 +426,8 @@
   "forbes_rank": 8,
   "forbes_salary_10yr": 117464,
   "us_news_rank": 4,
-  "us_news_tie": false
+  "us_news_tie": false,
+  "us_news_category": "National Universities"
  },
  {
   "id": "harvard-ma",
@@ -448,7 +462,8 @@
   "forbes_rank": 3,
   "forbes_salary_10yr": 119708,
   "us_news_rank": 3,
-  "us_news_tie": false
+  "us_news_tie": false,
+  "us_news_category": "National Universities"
  },
  {
   "id": "jacksonville-fl",
@@ -479,7 +494,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on academic profile",
   "rpi_rank_2026": 24,
-  "rpi_record_2026": "11-6"
+  "rpi_record_2026": "11-6",
+  "us_news_rank": 332,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "denver-co",
@@ -513,8 +531,9 @@
   "rpi_record_2026": "6-8",
   "forbes_rank": 145,
   "forbes_salary_10yr": 107707,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 121,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "penn-pa",
@@ -549,7 +568,8 @@
   "forbes_rank": 5,
   "forbes_salary_10yr": 151328,
   "us_news_rank": 7,
-  "us_news_tie": false
+  "us_news_tie": false,
+  "us_news_category": "National Universities"
  },
  {
   "id": "towson-md",
@@ -583,8 +603,9 @@
   "rpi_record_2026": "11-4",
   "forbes_rank": 230,
   "forbes_salary_10yr": 96775,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 13,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "michigan-mi",
@@ -618,8 +639,9 @@
   "rpi_record_2026": "6-9",
   "forbes_rank": 21,
   "forbes_salary_10yr": 113024,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 25,
+  "us_news_tie": false,
+  "us_news_category": "National Universities"
  },
  {
   "id": "lehigh-pa",
@@ -654,7 +676,8 @@
   "forbes_rank": 79,
   "forbes_salary_10yr": 124208,
   "us_news_rank": 44,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "loyola-university-maryland-md",
@@ -688,8 +711,9 @@
   "rpi_record_2026": "10-6",
   "forbes_rank": 242,
   "forbes_salary_10yr": 113717,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 6,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "villanova-pa",
@@ -724,7 +748,8 @@
   "forbes_rank": 88,
   "forbes_salary_10yr": 119912,
   "us_news_rank": 42,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "navy-md",
@@ -755,7 +780,10 @@
   "merit_aid": false,
   "merit_aid_note": "Full tuition/room/board via military service commitment, not merit aid",
   "rpi_rank_2026": 31,
-  "rpi_record_2026": "7-7"
+  "rpi_record_2026": "7-7",
+  "us_news_rank": 3,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "brown-ri",
@@ -790,7 +818,8 @@
   "forbes_rank": 18,
   "forbes_salary_10yr": 112801,
   "us_news_rank": 16,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "dartmouth-nh",
@@ -825,7 +854,8 @@
   "forbes_rank": 20,
   "forbes_salary_10yr": 119408,
   "us_news_rank": 12,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "providence-ri",
@@ -859,8 +889,9 @@
   "rpi_record_2026": "8-9",
   "forbes_rank": 283,
   "forbes_salary_10yr": 114840,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 3,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "colgate-ny",
@@ -894,8 +925,9 @@
   "rpi_record_2026": "6-9",
   "forbes_rank": 48,
   "forbes_salary_10yr": 113004,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 22,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "umass-amherst-ma",
@@ -930,7 +962,8 @@
   "forbes_rank": 135,
   "forbes_salary_10yr": 104641,
   "us_news_rank": 59,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "albany-ny",
@@ -964,8 +997,9 @@
   "rpi_record_2026": "11-6",
   "forbes_rank": 214,
   "forbes_salary_10yr": 107205,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 121,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "bucknell-pa",
@@ -999,8 +1033,9 @@
   "rpi_record_2026": "8-7",
   "forbes_rank": 68,
   "forbes_salary_10yr": 120461,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 29,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "air-force-co",
@@ -1031,7 +1066,10 @@
   "merit_aid": false,
   "merit_aid_note": "Service academy: tuition-free for all cadets via military service commitment",
   "rpi_rank_2026": 29,
-  "rpi_record_2026": "7-8"
+  "rpi_record_2026": "7-8",
+  "us_news_rank": 11,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "lafayette-pa",
@@ -1065,8 +1103,9 @@
   "rpi_record_2026": "5-9",
   "forbes_rank": 83,
   "forbes_salary_10yr": 114112,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 30,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "robert-morris-pa",
@@ -1097,7 +1136,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships by GPA/test score tier",
   "rpi_rank_2026": 25,
-  "rpi_record_2026": "14-4"
+  "rpi_record_2026": "14-4",
+  "us_news_rank": 219,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "fairfield-ct",
@@ -1131,8 +1173,9 @@
   "rpi_record_2026": "4-10",
   "forbes_rank": 207,
   "forbes_salary_10yr": 117867,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 109,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "college-of-the-holy-cross-ma",
@@ -1166,8 +1209,9 @@
   "rpi_record_2026": "6-8",
   "forbes_rank": 67,
   "forbes_salary_10yr": 116914,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 22,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "siena-ny",
@@ -1201,8 +1245,9 @@
   "rpi_record_2026": "12-5",
   "forbes_rank": 371,
   "forbes_salary_10yr": 109625,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 11,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "umbc-md",
@@ -1236,8 +1281,9 @@
   "rpi_record_2026": "6-7",
   "forbes_rank": 164,
   "forbes_salary_10yr": 98831,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 137,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "hofstra-ny",
@@ -1271,8 +1317,9 @@
   "rpi_record_2026": "4-10",
   "forbes_rank": 294,
   "forbes_salary_10yr": 107690,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 191,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "monmouth-nj",
@@ -1306,8 +1353,9 @@
   "rpi_record_2026": "6-7",
   "forbes_rank": 423,
   "forbes_salary_10yr": 101732,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 169,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "bryant-ri",
@@ -1341,8 +1389,9 @@
   "rpi_record_2026": "7-6",
   "forbes_rank": 324,
   "forbes_salary_10yr": 117723,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 8,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "hobart-ny",
@@ -1376,8 +1425,9 @@
   "rpi_record_2026": "3-10",
   "forbes_rank": 289,
   "forbes_salary_10yr": 108404,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 60,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "st-john-s-university-ny",
@@ -1411,8 +1461,9 @@
   "rpi_record_2026": "2-12",
   "forbes_rank": 282,
   "forbes_salary_10yr": 108647,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 137,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "njit-nj",
@@ -1447,7 +1498,8 @@
   "forbes_rank": 93,
   "forbes_salary_10yr": 115375,
   "us_news_rank": 85,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "merrimack-ma",
@@ -1478,7 +1530,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": 53,
-  "rpi_record_2026": "7-9"
+  "rpi_record_2026": "7-9",
+  "us_news_rank": 25,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "cleveland-state-oh",
@@ -1509,7 +1564,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships by GPA/test-score tiers",
   "rpi_rank_2026": 58,
-  "rpi_record_2026": "6-8"
+  "rpi_record_2026": "6-8",
+  "us_news_rank": 342,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "st-bonaventure-ny",
@@ -1540,7 +1598,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": 64,
-  "rpi_record_2026": "4-10"
+  "rpi_record_2026": "4-10",
+  "us_news_rank": 19,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "vmi-va",
@@ -1574,8 +1635,9 @@
   "rpi_record_2026": "7-7",
   "forbes_rank": 257,
   "forbes_salary_10yr": 104473,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 62,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "queens-nc",
@@ -1606,7 +1668,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": 71,
-  "rpi_record_2026": "4-9"
+  "rpi_record_2026": "4-9",
+  "us_news_rank": 28,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "manhattan-ny",
@@ -1640,8 +1705,9 @@
   "rpi_record_2026": "4-10",
   "forbes_rank": 237,
   "forbes_salary_10yr": 119603,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 22,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "detroit-mercy-mi",
@@ -1675,8 +1741,9 @@
   "rpi_record_2026": "3-10",
   "forbes_rank": 219,
   "forbes_salary_10yr": 106163,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 186,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "mount-st-mary-s-university-md",
@@ -1710,8 +1777,9 @@
   "rpi_record_2026": "3-10",
   "forbes_rank": 420,
   "forbes_salary_10yr": 101061,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 64,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "canisius-ny",
@@ -1745,8 +1813,9 @@
   "rpi_record_2026": "3-11",
   "forbes_rank": 392,
   "forbes_salary_10yr": 107571,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 56,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "le-moyne-ny",
@@ -1780,8 +1849,9 @@
   "rpi_record_2026": "4-11",
   "forbes_rank": 459,
   "forbes_salary_10yr": 102369,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 14,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "iona-ny",
@@ -1815,8 +1885,9 @@
   "rpi_record_2026": "2-15",
   "forbes_rank": 440,
   "forbes_salary_10yr": 107855,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 56,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "wagner-ny",
@@ -1850,8 +1921,9 @@
   "rpi_record_2026": "5-8",
   "forbes_rank": 352,
   "forbes_salary_10yr": 105742,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 45,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "mercyhurst-pa",
@@ -1882,7 +1954,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": 76,
-  "rpi_record_2026": "2-13"
+  "rpi_record_2026": "2-13",
+  "us_news_rank": 68,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "tampa-fl",
@@ -1913,7 +1988,10 @@
   "merit_aid": true,
   "merit_aid_note": "University of Tampa offers automatic merit scholarships by GPA/SAT tier",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 11,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "lenoir-rhyne-nc",
@@ -1944,7 +2022,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 45,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "adelphi-ny",
@@ -1978,8 +2059,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 290,
   "forbes_salary_10yr": 104033,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 191,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "lewis-il",
@@ -2013,8 +2095,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 382,
   "forbes_salary_10yr": 98710,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 32,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "florida-tech-fl",
@@ -2045,7 +2128,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 236,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "newberry-sc",
@@ -2076,7 +2162,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 21,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "rollins-fl",
@@ -2110,8 +2199,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 378,
   "forbes_salary_10yr": 102738,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 74,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "st-leo-fl",
@@ -2176,8 +2266,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 445,
   "forbes_salary_10yr": 105409,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 72,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "catawba-nc",
@@ -2208,7 +2299,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 1,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "pace-ny",
@@ -2242,8 +2336,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 339,
   "forbes_salary_10yr": 111073,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 250,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "westminster-university-ut",
@@ -2274,7 +2369,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 12,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities West"
  },
  {
   "id": "embry-riddle-fl",
@@ -2308,8 +2406,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 418,
   "forbes_salary_10yr": 84131,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 2,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "belmont-abbey-nc",
@@ -2340,7 +2439,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 10,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "molloy-ny",
@@ -2371,7 +2473,10 @@
   "merit_aid": true,
   "merit_aid_note": "Molloy University offers academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 39,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "flagler-fl",
@@ -2402,7 +2507,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 1,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "montevallo-al",
@@ -2433,7 +2541,10 @@
   "merit_aid": true,
   "merit_aid_note": "University of Montevallo offers academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 37,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "palm-beach-atlantic-fl",
@@ -2498,8 +2609,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 400,
   "forbes_salary_10yr": 103041,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 29,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "north-greenville-sc",
@@ -2530,7 +2642,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 66,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "concordia-university-irvine-ca",
@@ -2561,7 +2676,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 342,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "st-michaels-vt",
@@ -2595,8 +2713,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 415,
   "forbes_salary_10yr": 102627,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 116,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "bentley-ma",
@@ -2630,8 +2749,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 182,
   "forbes_salary_10yr": 123326,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 2,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "lander-sc",
@@ -2662,7 +2782,10 @@
   "merit_aid": true,
   "merit_aid_note": "Public university offering academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 54,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "wilmington-university-de",
@@ -2724,7 +2847,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships $6k-$15k/yr, no app needed",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 16,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "lynn-fl",
@@ -2755,7 +2881,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit Scholarship $16k-$28k/yr based on GPA/SAT",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 66,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "northwood-mi",
@@ -2786,7 +2915,10 @@
   "merit_aid": true,
   "merit_aid_note": "Presidential/Freedom/Free Enterprise merit awards $7k-$15k",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 58,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "frostburg-state-md",
@@ -2817,7 +2949,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic Admissions Merit Scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 76,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "southern-new-hampshire-nh",
@@ -2879,7 +3014,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic scholarships by GPA/ACT-SAT; 93% of students get gift aid",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 125,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "barton-nc",
@@ -2910,7 +3048,10 @@
   "merit_aid": true,
   "merit_aid_note": "Named merit scholarships with set GPA/SAT thresholds",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 19,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "chestnut-hill-pa",
@@ -2941,7 +3082,10 @@
   "merit_aid": true,
   "merit_aid_note": "100% of full-time students receive merit-based scholarships, avg ~$24k/yr",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 128,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "coker-sc",
@@ -2972,7 +3116,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic Merit Scholarship $7.5k-$15k/yr based on GPA",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 118,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "william-jewell-mo",
@@ -3006,8 +3153,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 487,
   "forbes_salary_10yr": 101377,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 16,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "roberts-wesleyan-ny",
@@ -3038,7 +3186,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic/merit scholarships based on GPA + SAT/ACT",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 116,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "bridgeport-ct",
@@ -3069,7 +3220,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships up to $25k",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 376,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "mount-olive-nc",
@@ -3100,7 +3254,10 @@
   "merit_aid": true,
   "merit_aid_note": "95% of incoming freshmen received merit-based scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 100,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "alabama-huntsville-al",
@@ -3134,8 +3291,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 325,
   "forbes_salary_10yr": 100666,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 262,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "tusculum-tn",
@@ -3166,7 +3324,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic Academic/Heritage/Legacy scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 134,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "georgian-court-nj",
@@ -3197,7 +3358,10 @@
   "merit_aid": true,
   "merit_aid_note": "Presidential/Provost/Dean's merit scholarships up to $16.5k",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 107,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "post-ct",
@@ -3259,7 +3423,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic ($5k-$15k) and Merit scholarships, automatic",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 116,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "holy-family-pa",
@@ -3290,7 +3457,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships automatic, no extra application",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 68,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "quincy-il",
@@ -3321,7 +3491,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit-based scholarships not requiring financial need",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 45,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "mars-hill-nc",
@@ -3352,7 +3525,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships $1k-$7k based on GPA/SAT",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 13,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "young-harris-ga",
@@ -3414,7 +3590,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit Scholarship based on GPA + ACT/SAT, renewable",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 41,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities West"
  },
  {
   "id": "chowan-nc",
@@ -3445,7 +3624,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships based on GPA/ACT-SAT/class rank",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 58,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "lake-erie-oh",
@@ -3476,7 +3658,10 @@
   "merit_aid": true,
   "merit_aid_note": "Presidential and tiered merit scholarships up to $18k/yr",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 153,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "emmanuel-college-georgia-ga",
@@ -3507,7 +3692,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships up to $9k based on GPA",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 52,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "thomas-more-ky",
@@ -3538,7 +3726,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic scholarships automatic on admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 108,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "adams-state-co",
@@ -3600,7 +3791,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships up to $18k based on academics",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 136,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "point-park-pa",
@@ -3631,7 +3825,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships on acceptance",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 332,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "dominican-university-of-california-ca",
@@ -3665,8 +3862,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 471,
   "forbes_salary_10yr": 97055,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 7,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities West"
  },
  {
   "id": "malone-oh",
@@ -3697,7 +3895,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships based on GPA + ACT/SAT/CLT",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 133,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "virginia-state-va",
@@ -3728,7 +3929,10 @@
   "merit_aid": true,
   "merit_aid_note": "GPA-tiered merit awards, public HBCU",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 48,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "felician-nj",
@@ -3759,7 +3963,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships $3k-$30.5k for all admitted students",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 116,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "district-of-columbia-dc",
@@ -3790,7 +3997,10 @@
   "merit_aid": true,
   "merit_aid_note": "DC-UP and other merit-based scholarships tied to GPA",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 139,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "davis-elkins-wv",
@@ -3821,7 +4031,10 @@
   "merit_aid": true,
   "merit_aid_note": "Highlands Scholarship explicitly merit-based, $11k-$20k",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 26,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "caldwell-nj",
@@ -3852,7 +4065,10 @@
   "merit_aid": true,
   "merit_aid_note": "Caldwell Commitment grants merit scholarships to all applicants",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 81,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "shorter-ga",
@@ -3883,7 +4099,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic scholarships $1.2k-$11k based on GPA/SAT-ACT",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 133,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "bowdoin-me",
@@ -3917,8 +4136,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 24,
   "forbes_salary_10yr": 109747,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 3,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "rit-ny",
@@ -3953,7 +4173,8 @@
   "forbes_rank": 217,
   "forbes_salary_10yr": 110164,
   "us_news_rank": 95,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "salisbury-md",
@@ -3987,8 +4208,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 337,
   "forbes_salary_10yr": 92595,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 45,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "wesleyan-ct",
@@ -4022,8 +4244,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 57,
   "forbes_salary_10yr": 103220,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 14,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "babson-ma",
@@ -4057,8 +4280,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 86,
   "forbes_salary_10yr": 130610,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 1,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "christopher-newport-va",
@@ -4092,8 +4316,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 432,
   "forbes_salary_10yr": 95269,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 119,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "bates-me",
@@ -4127,8 +4352,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 87,
   "forbes_salary_10yr": 108579,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 26,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "stevens-nj",
@@ -4163,7 +4389,8 @@
   "forbes_rank": 118,
   "forbes_salary_10yr": 131329,
   "us_news_rank": 59,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "york-pa",
@@ -4194,7 +4421,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit Scholarship for all admitted freshmen, $4.5k-$13.5k",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 81,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "middlebury-vt",
@@ -4228,8 +4458,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 47,
   "forbes_salary_10yr": 113413,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 19,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "amherst-ma",
@@ -4263,8 +4494,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 30,
   "forbes_salary_10yr": 111713,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 2,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "gettysburg-pa",
@@ -4298,8 +4530,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 178,
   "forbes_salary_10yr": 109415,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 54,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "dickinson-pa",
@@ -4333,8 +4566,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 115,
   "forbes_salary_10yr": 107879,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 54,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "washington-lee-va",
@@ -4368,8 +4602,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 43,
   "forbes_salary_10yr": 118135,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 12,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "hamilton-ny",
@@ -4403,8 +4638,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 65,
   "forbes_salary_10yr": 112820,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 14,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "st-john-fisher-ny",
@@ -4438,8 +4674,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 401,
   "forbes_salary_10yr": 102421,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 22,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "union-ny",
@@ -4473,8 +4710,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 162,
   "forbes_salary_10yr": 113873,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 44,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "williams-ma",
@@ -4508,8 +4746,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 19,
   "forbes_salary_10yr": 111600,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 1,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "st-lawrence-ny",
@@ -4543,8 +4782,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 248,
   "forbes_salary_10yr": 107493,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 49,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "trinity-ct",
@@ -4578,8 +4818,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 74,
   "forbes_salary_10yr": 116401,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 31,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "swarthmore-pa",
@@ -4613,8 +4854,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 50,
   "forbes_salary_10yr": 106254,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 3,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "denison-oh",
@@ -4648,8 +4890,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 330,
   "forbes_salary_10yr": 107638,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 31,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "skidmore-ny",
@@ -4683,8 +4926,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 224,
   "forbes_salary_10yr": 103485,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 41,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "franklin-marshall-pa",
@@ -4718,8 +4962,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 186,
   "forbes_salary_10yr": 110945,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 34,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "colorado-college-co",
@@ -4753,8 +4998,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 147,
   "forbes_salary_10yr": 104550,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 34,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "connecticut-college-ct",
@@ -4788,8 +5034,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 172,
   "forbes_salary_10yr": 107238,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 47,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "rpi-ny",
@@ -4824,7 +5071,8 @@
   "forbes_rank": 134,
   "forbes_salary_10yr": 124697,
   "us_news_rank": 69,
-  "us_news_tie": true
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "colby-me",
@@ -4858,8 +5106,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 52,
   "forbes_salary_10yr": 113365,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 22,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "stevenson-md",
@@ -4890,7 +5139,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit awards $10k-$21k/yr regardless of need",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 56,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "mit-ma",
@@ -4925,7 +5177,8 @@
   "forbes_rank": 1,
   "forbes_salary_10yr": 131182,
   "us_news_rank": 1,
-  "us_news_tie": false
+  "us_news_tie": false,
+  "us_news_category": "National Universities"
  },
  {
   "id": "washington-college-md",
@@ -4959,8 +5212,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 332,
   "forbes_salary_10yr": 105506,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 97,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "roanoke-va",
@@ -4991,7 +5245,10 @@
   "merit_aid": true,
   "merit_aid_note": "Trustee/Presidential/Dean's/Faculty/Maroon merit awards $9k-$20k/yr",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 116,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "muhlenberg-pa",
@@ -5025,8 +5282,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 307,
   "forbes_salary_10yr": 106511,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 62,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "ohio-wesleyan-oh",
@@ -5060,8 +5318,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 466,
   "forbes_salary_10yr": 104462,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 116,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "randolph-macon-va",
@@ -5092,7 +5351,10 @@
   "merit_aid": true,
   "merit_aid_note": "Presidential Scholarships and Dean's Award up to $33k/yr",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 85,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "haverford-pa",
@@ -5126,8 +5388,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 62,
   "forbes_salary_10yr": 105238,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 26,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "elmhurst-il",
@@ -5161,8 +5424,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 469,
   "forbes_salary_10yr": 99288,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 10,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "vassar-ny",
@@ -5196,8 +5460,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 116,
   "forbes_salary_10yr": 103304,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 12,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "baldwin-wallace-oh",
@@ -5228,7 +5493,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships up to $22k/yr",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 12,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "grove-city-pa",
@@ -5259,7 +5527,10 @@
   "merit_aid": true,
   "merit_aid_note": "Trustee Scholarship (full ride), President's Scholarship, other merit awards",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 6,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "st-mary-s-college-of-maryland-md",
@@ -5293,8 +5564,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 298,
   "forbes_salary_10yr": 99293,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 106,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "hope-mi",
@@ -5328,8 +5600,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 288,
   "forbes_salary_10yr": 100191,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 78,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "kenyon-oh",
@@ -5363,8 +5636,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 126,
   "forbes_salary_10yr": 103430,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 41,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "hampden-sydney-va",
@@ -5398,8 +5672,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 313,
   "forbes_salary_10yr": 108734,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 111,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "sewanee-tn",
@@ -5433,8 +5708,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 244,
   "forbes_salary_10yr": 101714,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 49,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "rhodes-tn",
@@ -5468,8 +5744,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 197,
   "forbes_salary_10yr": 103152,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 49,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "oberlin-oh",
@@ -5503,8 +5780,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 212,
   "forbes_salary_10yr": 97180,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 59,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "catholic-dc",
@@ -5538,8 +5816,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 231,
   "forbes_salary_10yr": 103676,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 148,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "ohio-northern-oh",
@@ -5573,8 +5852,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 233,
   "forbes_salary_10yr": 110031,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 208,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "pfeiffer-nc",
@@ -5605,7 +5885,10 @@
   "merit_aid": true,
   "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 79,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "elizabethtown-pa",
@@ -5636,7 +5919,10 @@
   "merit_aid": true,
   "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 32,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "massachusetts-maritime-ma",
@@ -5670,8 +5956,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 403,
   "forbes_salary_10yr": 111609,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 10,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "western-connecticut-ct",
@@ -5702,7 +5989,10 @@
   "merit_aid": true,
   "merit_aid_note": "Presidential Merit Scholarship and other merit awards $4k-$24k+/yr",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 114,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "ursinus-pa",
@@ -5736,8 +6026,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 348,
   "forbes_salary_10yr": 104319,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 91,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "oneonta-ny",
@@ -5768,7 +6059,10 @@
   "merit_aid": true,
   "merit_aid_note": "President's and Provost's Scholarships ($2k-$5k/yr)",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 29,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "salve-regina-ri",
@@ -5799,7 +6093,10 @@
   "merit_aid": true,
   "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 16,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "wheaton-ma",
@@ -5830,7 +6127,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships up to $40k/yr regardless of financial need",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 81,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "centre-ky",
@@ -5864,8 +6164,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 261,
   "forbes_salary_10yr": 103078,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 54,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "wooster-oh",
@@ -5899,8 +6200,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 342,
   "forbes_salary_10yr": 102006,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 91,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "mary-washington-va",
@@ -5934,8 +6236,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 297,
   "forbes_salary_10yr": 98136,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 128,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "western-new-england-ma",
@@ -5966,7 +6269,10 @@
   "merit_aid": true,
   "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 262,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "aurora-il",
@@ -5997,7 +6303,10 @@
   "merit_aid": true,
   "merit_aid_note": "Tuition-driven private offering merit-based academic scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 262,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "illinois-wesleyan-il",
@@ -6031,8 +6340,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 345,
   "forbes_salary_10yr": 108363,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 2,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "merchant-marine-ny",
@@ -6063,7 +6373,10 @@
   "merit_aid": false,
   "merit_aid_note": "Federal service academy; tuition-free via service commitment, not merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 5,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "coast-guard-ct",
@@ -6094,7 +6407,10 @@
   "merit_aid": false,
   "merit_aid_note": "Federal service academy; tuition-free via service commitment, not merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 1,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "umass-boston-ma",
@@ -6128,8 +6444,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 398,
   "forbes_salary_10yr": 100561,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 202,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "potsdam-ny",
@@ -6160,7 +6477,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships for students with min. 88/100 HS GPA",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 98,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "transylvania-ky",
@@ -6192,8 +6512,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 475,
   "forbes_salary_10yr": 103030,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 106,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "montclair-state-nj",
@@ -6227,8 +6548,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 291,
   "forbes_salary_10yr": 98355,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 156,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "maritime-ny",
@@ -6260,8 +6582,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 268,
   "forbes_salary_10yr": 112279,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 32,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "eastern-pa",
@@ -6324,8 +6647,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 363,
   "forbes_salary_10yr": 108822,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 22,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "farmingdale-state-ny",
@@ -6357,8 +6681,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 306,
   "forbes_salary_10yr": 99005,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 13,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "penn-college-pa",
@@ -6387,7 +6712,10 @@
   "merit_aid": true,
   "merit_aid_note": "Penn College offers merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 10,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "southwestern-tx",
@@ -6421,8 +6749,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 320,
   "forbes_salary_10yr": 97926,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 91,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "virginia-wesleyan-va",
@@ -6487,8 +6816,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 267,
   "forbes_salary_10yr": 102781,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 3,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "keene-state-nh",
@@ -6519,7 +6849,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit-based academic scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 18,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "john-carroll-oh",
@@ -6553,8 +6886,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 293,
   "forbes_salary_10yr": 108375,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 1,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "oswego-ny",
@@ -6585,7 +6919,10 @@
   "merit_aid": true,
   "merit_aid_note": "Presidential Scholarship plus Dean's/Destination Oswego awards",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 45,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "albion-mi",
@@ -6619,8 +6956,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 321,
   "forbes_salary_10yr": 107917,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 119,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "roger-williams-ri",
@@ -6651,7 +6989,10 @@
   "merit_aid": true,
   "merit_aid_note": "Presidential/Trustee merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 25,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "lake-forest-il",
@@ -6685,8 +7026,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 453,
   "forbes_salary_10yr": 103340,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 62,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "alfred-ny",
@@ -6717,7 +7059,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships based on academic achievement",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 73,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "rivier-ma",
@@ -6748,7 +7093,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit awards (school is actually in Nashua, NH)",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 139,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "bridgewater-va",
@@ -6779,7 +7127,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 165,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "depauw-in",
@@ -6813,8 +7164,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 108,
   "forbes_salary_10yr": 109681,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 49,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "southern-virginia-va",
@@ -6879,8 +7231,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 340,
   "forbes_salary_10yr": 106272,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 133,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "emerson-ma",
@@ -6913,9 +7266,7 @@
   "rpi_rank_2026": null,
   "rpi_record_2026": null,
   "forbes_rank": 491,
-  "forbes_salary_10yr": 94516,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "forbes_salary_10yr": 94516
  },
  {
   "id": "hood-md",
@@ -6946,7 +7297,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit-based academic scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 68,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "carthage-wi",
@@ -6977,7 +7331,10 @@
   "merit_aid": true,
   "merit_aid_note": "Generous automatic merit scholarships by GPA/test score",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 42,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "adrian-mi",
@@ -7008,7 +7365,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships (academic + talent-based)",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 110,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "capital-oh",
@@ -7039,7 +7399,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 49,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "eastern-connecticut-ct",
@@ -7070,7 +7433,10 @@
   "merit_aid": true,
   "merit_aid_note": "Public CSCU school; offers merit-based scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 142,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "msoe-wi",
@@ -7104,8 +7470,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 295,
   "forbes_salary_10yr": 114889,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 2,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "hartwick-ny",
@@ -7136,7 +7503,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit-based academic scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 15,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "st-vincent-pa",
@@ -7167,7 +7537,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 111,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "university-of-saint-joseph-ct",
@@ -7198,7 +7571,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic Merit Scholarship up to $25k/yr",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 32,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "susquehanna-pa",
@@ -7232,8 +7608,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 455,
   "forbes_salary_10yr": 105369,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 85,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "berry-ga",
@@ -7267,8 +7644,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 430,
   "forbes_salary_10yr": 96753,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 2,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "maine-maritime-me",
@@ -7302,8 +7680,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 456,
   "forbes_salary_10yr": 106058,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 9,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "nichols-ma",
@@ -7334,7 +7713,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit-based academic scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 123,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "piedmont-ga",
@@ -7365,7 +7747,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships based on academic record",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 79,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "greensboro-nc",
@@ -7396,7 +7781,10 @@
   "merit_aid": true,
   "merit_aid_note": "All admits reviewed for GPA-based merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 115,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "immaculata-pa",
@@ -7427,7 +7815,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 89,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "goucher-md",
@@ -7461,8 +7852,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 379,
   "forbes_salary_10yr": 107381,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 125,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "wabash-in",
@@ -7496,8 +7888,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 235,
   "forbes_salary_10yr": 110100,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 44,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "drew-nj",
@@ -7531,8 +7924,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 328,
   "forbes_salary_10yr": 107103,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 85,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "mcdaniel-md",
@@ -7563,7 +7957,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 64,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "muskingum-oh",
@@ -7594,7 +7991,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 46,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "plattsburgh-ny",
@@ -7625,7 +8025,10 @@
   "merit_aid": true,
   "merit_aid_note": "SUNY school; offers merit-based scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 62,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "morrisville-ny",
@@ -7656,7 +8059,10 @@
   "merit_aid": true,
   "merit_aid_note": "SUNY school; offers merit-based scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 35,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "salem-state-ma",
@@ -7687,7 +8093,10 @@
   "merit_aid": true,
   "merit_aid_note": "Public MA school; offers merit-based scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 85,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "westminster-college-pa",
@@ -7718,7 +8127,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 12,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "lasell-ma",
@@ -7749,7 +8161,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 98,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "saint-joseph-s-college-of-maine-me",
@@ -7780,7 +8195,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 81,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "illinois-tech-il",
@@ -7814,8 +8232,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 114,
   "forbes_salary_10yr": 105028,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 121,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "benedictine-university-il",
@@ -7846,7 +8265,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 70,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "otterbein-oh",
@@ -7877,7 +8299,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships at admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 20,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "centenary-college-of-louisiana-la",
@@ -7908,7 +8333,10 @@
   "merit_aid": true,
   "merit_aid_note": "~99% of freshmen receive merit aid averaging ~$26k",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 132,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "new-paltz-ny",
@@ -7942,8 +8370,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 426,
   "forbes_salary_10yr": 97190,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 16,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "kalamazoo-mi",
@@ -7977,8 +8406,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 181,
   "forbes_salary_10yr": 103897,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 74,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "norwich-vt",
@@ -8009,7 +8439,10 @@
   "merit_aid": true,
   "merit_aid_note": "All admitted residential students auto-considered for academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 73,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "delhi-ny",
@@ -8040,7 +8473,10 @@
   "merit_aid": true,
   "merit_aid_note": "SUNY campus; Presidential Scholarship for 93+ GPA",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 23,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "dubuque-ia",
@@ -8071,7 +8507,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic Academic Merit Scholarships ($8k-$20k/yr); 85% of freshmen receive merit aid",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 67,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "johnson-wales-ri",
@@ -8102,7 +8541,10 @@
   "merit_aid": true,
   "merit_aid_note": "President's Academic Scholarship and other automatic merit awards",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 98,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "wittenberg-oh",
@@ -8133,7 +8575,10 @@
   "merit_aid": true,
   "merit_aid_note": "All merit awards automatic, based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 160,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "gwynedd-mercy-pa",
@@ -8164,7 +8609,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit-based academic scholarships alongside need-based aid",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 45,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "fdu-florham-nj",
@@ -8229,8 +8677,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 395,
   "forbes_salary_10yr": 104454,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 73,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "marywood-pa",
@@ -8261,7 +8710,10 @@
   "merit_aid": true,
   "merit_aid_note": "President's/Trustees'/Founders'/Deans' Scholarships based on GPA",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 45,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "curry-ma",
@@ -8292,7 +8744,10 @@
   "merit_aid": true,
   "merit_aid_note": "All admitted students automatically considered for merit scholarships ($15k-$34k)",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 137,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "dean-college-ma",
@@ -8323,7 +8778,10 @@
   "merit_aid": true,
   "merit_aid_note": "Oliver Dean Scholarship and other merit awards",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 42,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "lawrence-wi",
@@ -8357,8 +8815,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 366,
   "forbes_salary_10yr": 97357,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 68,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "manhattanville-ny",
@@ -8389,7 +8848,10 @@
   "merit_aid": true,
   "merit_aid_note": "Rewards academic accomplishment regardless of financial need",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 85,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "emmanuel-college-ma",
@@ -8423,8 +8885,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 386,
   "forbes_salary_10yr": 99816,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 125,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "kings-pa",
@@ -8455,7 +8918,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships incl. full-tuition Presidential Scholarship for top 5%",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 89,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "allegheny-pa",
@@ -8489,8 +8955,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 406,
   "forbes_salary_10yr": 103919,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 85,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "huntingdon-al",
@@ -8521,7 +8988,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships for freshmen/transfers based on academics",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 13,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "marietta-oh",
@@ -8555,8 +9025,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 500,
   "forbes_salary_10yr": 105837,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 16,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "wilkes-pa",
@@ -8587,7 +9058,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships offered directly at admission, renewable",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 308,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "gordon-ma",
@@ -8618,7 +9092,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships ($16k-$20k/yr) automatic based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 146,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "edgewood-wi",
@@ -8649,7 +9126,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit-based academic scholarships ($1k-$26k), no application",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 46,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "hendrix-ar",
@@ -8683,8 +9163,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 437,
   "forbes_salary_10yr": 102445,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 100,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "mount-st-vincent-ny",
@@ -8715,7 +9196,10 @@
   "merit_aid": true,
   "merit_aid_note": "Dean's Merit Scholarship, four-year renewable",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 64,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "canton-ny",
@@ -8746,7 +9230,10 @@
   "merit_aid": true,
   "merit_aid_note": "SUNY Canton Scholars program and other academic/merit awards",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 22,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "franciscan-oh",
@@ -8777,7 +9264,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships ($9k-$21k/yr) based on weighted HS GPA",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 36,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "thomas-me",
@@ -8839,7 +9329,10 @@
   "merit_aid": true,
   "merit_aid_note": "Presidential/Dean's/Recognition/Shirk merit scholarships up to $22k/yr",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 160,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "regis-college-ma",
@@ -8870,7 +9363,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships ($20k-$35k) automatic on admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 45,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "castleton-vt",
@@ -8963,7 +9459,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 39,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "alfred-state-ny",
@@ -8994,7 +9493,10 @@
   "merit_aid": true,
   "merit_aid_note": "ASC Merit Scholarships up to $20k over 4 years",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 27,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "pitt-bradford-pa",
@@ -9025,7 +9527,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships ($1k-$12.5k) based on GPA/SAT-ACT, not financial need",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 25,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "delaware-valley-pa",
@@ -9056,7 +9561,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers automatic academic merit scholarships tiered by GPA",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 128,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "southern-maine-me",
@@ -9118,7 +9626,10 @@
   "merit_aid": true,
   "merit_aid_note": "Established tiered academic merit scholarship program",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 100,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "mount-saint-mary-college-ny",
@@ -9149,7 +9660,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers automatic academic merit scholarships by GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 68,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "keuka-ny",
@@ -9180,7 +9694,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers automatic academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 128,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "william-peace-nc",
@@ -9211,7 +9728,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers automatic academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 13,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "heidelberg-oh",
@@ -9242,7 +9762,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers automatic academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 78,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "st-joseph-s-university-long-island-ny",
@@ -9276,8 +9799,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 407,
   "forbes_salary_10yr": 100317,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 56,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "juniata-pa",
@@ -9311,8 +9835,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 495,
   "forbes_salary_10yr": 100500,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 91,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "cornell-college-ia",
@@ -9343,7 +9868,10 @@
   "merit_aid": true,
   "merit_aid_note": "Established academic merit scholarship program",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 128,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "lycoming-pa",
@@ -9374,7 +9902,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers automatic academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 100,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "averett-va",
@@ -9405,7 +9936,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers automatic academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 94,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "guilford-nc",
@@ -9436,7 +9970,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 172,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "mcla-ma",
@@ -9467,7 +10004,10 @@
   "merit_aid": true,
   "merit_aid_note": "MCLA Presidential Scholarship (min 3.3 GPA/1600 SAT) explicitly merit-based",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 140,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "alma-mi",
@@ -9498,7 +10038,10 @@
   "merit_aid": true,
   "merit_aid_note": "Competitive Presidential Scholars program and tiered academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 6,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "randolph-va",
@@ -9529,7 +10072,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers automatic academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 157,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "oglethorpe-ga",
@@ -9560,7 +10106,10 @@
   "merit_aid": true,
   "merit_aid_note": "Offers tiered academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 146,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "albertus-magnus-ct",
@@ -9591,7 +10140,10 @@
   "merit_aid": true,
   "merit_aid_note": "'Albertus Guarantee' of at least $40,000 in merit scholarship",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 98,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "hiram-oh",
@@ -9622,7 +10174,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic holistic-review merit scholarships upon admission",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 19,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "marian-university-wi",
@@ -9653,7 +10208,10 @@
   "merit_aid": true,
   "merit_aid_note": "Freshman merit scholarships $6,000-$18,000 based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 117,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "lagrange-ga",
@@ -9684,7 +10242,10 @@
   "merit_aid": true,
   "merit_aid_note": "100% of freshmen received scholarships avg $18,277",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 88,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "augustana-il",
@@ -9718,8 +10279,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 380,
   "forbes_salary_10yr": 102578,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 91,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "elmira-ny",
@@ -9750,7 +10312,10 @@
   "merit_aid": true,
   "merit_aid_note": "Elmira Scholars (full tuition), Trustee ($30k), Presidential/Founder awards",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 16,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "cobleskill-ny",
@@ -9781,7 +10346,10 @@
   "merit_aid": true,
   "merit_aid_note": "Public SUNY; merit-based institutional scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 26,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "washington-jefferson-pa",
@@ -9815,8 +10383,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 376,
   "forbes_salary_10yr": 106365,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 91,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "purchase-ny",
@@ -9847,7 +10416,10 @@
   "merit_aid": true,
   "merit_aid_note": "Public SUNY; GPA-based merit awards for 87+ GPA",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 128,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "spalding-ky",
@@ -9878,7 +10450,10 @@
   "merit_aid": true,
   "merit_aid_note": "Traditional Merit awards via GPA/ACT/SAT matrix",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 54,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "earlham-in",
@@ -9909,7 +10484,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships start at $30,000, separate from need-based aid",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 83,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "cairn-pa",
@@ -9940,7 +10518,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships up to $18,000/year based on academic merit",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 134,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "warren-wilson-nc",
@@ -9971,7 +10552,10 @@
   "merit_aid": true,
   "merit_aid_note": "Trustee/Presidential/Dean's/Opportunity scholarships up to $13,000",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 181,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "hilbert-ny",
@@ -10002,7 +10586,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic Excellence Scholarship (85+ Regents average)",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 32,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "thiel-pa",
@@ -10031,7 +10618,10 @@
   "merit_aid": true,
   "merit_aid_note": "100% of freshmen offered scholarships avg $21,336",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 36,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "brevard-nc",
@@ -10060,7 +10650,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships based on GPA/course rigor, five-figure awards",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 16,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "bethany-wv",
@@ -10091,7 +10684,10 @@
   "merit_aid": true,
   "merit_aid_note": "Bethany Merit Scholarship $17,000-$21,000, renewable 4 years",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 181,
+  "us_news_tie": true,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "elms-ma",
@@ -10120,7 +10716,10 @@
   "merit_aid": true,
   "merit_aid_note": "Avg non-need-based award $27,634",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 56,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "colby-sawyer-nh",
@@ -10149,7 +10748,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit awards $15,000-$28,000/year",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 17,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges North"
  },
  {
   "id": "mitchell-ct",
@@ -10178,7 +10780,10 @@
   "merit_aid": true,
   "merit_aid_note": "Holistic merit scholarships based on GPA/rigor",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 175,
+  "us_news_tie": false,
+  "us_news_category": "National Liberal Arts Colleges"
  },
  {
   "id": "centenary-university-nj",
@@ -10209,7 +10814,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships up to $25,000/year",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 107,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "la-roche-pa",
@@ -10240,7 +10848,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic GPA-tiered merit scholarships up to $21,000",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 134,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities North"
  },
  {
   "id": "keiser-fl",
@@ -10271,7 +10882,10 @@
   "merit_aid": true,
   "merit_aid_note": "Tiered Chancellor/Gold Seal/Dean's awards by GPA",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 79,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "madonna-mi",
@@ -10302,7 +10916,10 @@
   "merit_aid": true,
   "merit_aid_note": "Up to $14,000/year merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 110,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "aquinas-mi",
@@ -10333,7 +10950,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic scholarships $15,000-$25,000; Spectrum full-tuition competition",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 20,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "indiana-tech-in",
@@ -10364,7 +10984,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships $5,000-$18,000; full-tuition Presidential Scholarship",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 142,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "reinhardt-ga",
@@ -10395,7 +11018,10 @@
   "merit_aid": true,
   "merit_aid_note": "Presidential ($10k) and Sharp ($5k) merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 108,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "scad-ga",
@@ -10457,7 +11083,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic Merit Scholarships $6,000-$16,000; full-tuition Trustee Scholarship",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 59,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "benedictine-college-ks",
@@ -10488,7 +11117,10 @@
   "merit_aid": true,
   "merit_aid_note": "Academic merit scholarships $15,000-$35,000; full-tuition Presidential awards",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 10,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "life-university-ga",
@@ -10550,7 +11182,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit Award and Academic Excellence Award, no SAT/ACT required",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 68,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "tennessee-wesleyan-tn",
@@ -10581,7 +11216,10 @@
   "merit_aid": true,
   "merit_aid_note": "100% of students receive merit or athletic scholarship",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 75,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "mount-vernon-nazarene-oh",
@@ -10612,7 +11250,10 @@
   "merit_aid": true,
   "merit_aid_note": "Freshman/transfer academic merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 91,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "point-ga",
@@ -10643,7 +11284,10 @@
   "merit_aid": true,
   "merit_aid_note": "Founders Scholarship (full ride) plus GPA/test-based general merit awards",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 46,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "taylor-in",
@@ -10677,8 +11321,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 359,
   "forbes_salary_10yr": 102052,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 3,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "columbia-college-mo",
@@ -10709,7 +11354,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit-Based Scholarship and Dean's Excellence Scholarship",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 149,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "lawrence-tech-mi",
@@ -10740,7 +11388,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit scholarships $4,000-$16,000, several named tiers",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 34,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "montreat-nc",
@@ -10771,7 +11422,10 @@
   "merit_aid": true,
   "merit_aid_note": "Competitive merit scholarships based on academic achievement",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 28,
+  "us_news_tie": true,
+  "us_news_category": "Regional Colleges South"
  },
  {
   "id": "william-woods-mo",
@@ -10802,7 +11456,10 @@
   "merit_aid": true,
   "merit_aid_note": "Merit Scholar Award range $8,000-full tuition",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 152,
+  "us_news_tie": false,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "university-of-michigan-dearborn-mi",
@@ -10836,8 +11493,9 @@
   "rpi_record_2026": null,
   "forbes_rank": 194,
   "forbes_salary_10yr": 105662,
-  "us_news_rank": null,
-  "us_news_tie": false
+  "us_news_rank": 227,
+  "us_news_tie": true,
+  "us_news_category": "National Universities"
  },
  {
   "id": "missouri-baptist-mo",
@@ -10899,7 +11557,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships $4,000-$14,000",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 79,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities South"
  },
  {
   "id": "midland-ne",
@@ -10928,7 +11589,10 @@
   "merit_aid": true,
   "merit_aid_note": "Personalized scholarship packages by HS GPA; Dean's Achievement Award",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 153,
+  "us_news_tie": true,
+  "us_news_category": "Regional Universities Midwest"
  },
  {
   "id": "ottawa-ks",
@@ -10959,7 +11623,10 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic institutional/academic scholarships; Presidential Scholarship",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 47,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges Midwest"
  },
  {
   "id": "missouri-valley-mo",
@@ -10988,6 +11655,9 @@
   "merit_aid": true,
   "merit_aid_note": "Academic scholarships awarded on GPA/ACT basis",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "us_news_rank": 80,
+  "us_news_tie": false,
+  "us_news_category": "Regional Colleges Midwest"
  }
 ]

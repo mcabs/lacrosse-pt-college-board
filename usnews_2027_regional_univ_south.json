@@ -1,0 +1,172 @@
+{
+ "berry-ga": {
+  "rank": 2,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "high-point": {
+  "rank": 5,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "hampton": {
+  "rank": 8,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "tampa-fl": {
+  "rank": 11,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "florida-southern": {
+  "rank": 18,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "bellarmine": {
+  "rank": 26,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "anderson-sc": {
+  "rank": 31,
+  "tie": false,
+  "category": "Regional Universities South"
+ },
+ "montevallo-al": {
+  "rank": 37,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "lenoir-rhyne-nc": {
+  "rank": 45,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "virginia-state-va": {
+  "rank": 48,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "lander-sc": {
+  "rank": 54,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "spalding-ky": {
+  "rank": 54,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "lynn-fl": {
+  "rank": 66,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "north-greenville-sc": {
+  "rank": 66,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "wingate": {
+  "rank": 66,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "tennessee-wesleyan-tn": {
+  "rank": 75,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "columbia-international-university-sc": {
+  "rank": 79,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "keiser-fl": {
+  "rank": 79,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "pfeiffer-nc": {
+  "rank": 79,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "piedmont-ga": {
+  "rank": 79,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "lagrange-ga": {
+  "rank": 88,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "averett-va": {
+  "rank": 94,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "mount-olive-nc": {
+  "rank": 100,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "methodist": {
+  "rank": 105,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "cumberlands": {
+  "rank": 105,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "reinhardt-ga": {
+  "rank": 108,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "thomas-more-ky": {
+  "rank": 108,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "greensboro-nc": {
+  "rank": 115,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "coker-sc": {
+  "rank": 118,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "wheeling": {
+  "rank": 118,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "shorter-ga": {
+  "rank": 133,
+  "tie": false,
+  "category": "Regional Universities South"
+ },
+ "tusculum-tn": {
+  "rank": 134,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "embry-riddle-fl": {
+  "rank": 2,
+  "tie": true,
+  "category": "Regional Universities South"
+ },
+ "queens-nc": {
+  "rank": 28,
+  "tie": true,
+  "category": "Regional Universities South"
+ }
+}

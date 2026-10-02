@@ -1,0 +1,102 @@
+{
+ "grove-city-pa": {
+  "rank": 6,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "westminster-college-pa": {
+  "rank": 12,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "farmingdale-state-ny": {
+  "rank": 13,
+  "tie": true,
+  "category": "Regional Colleges North"
+ },
+ "hartwick-ny": {
+  "rank": 15,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "elmira-ny": {
+  "rank": 16,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "colby-sawyer-nh": {
+  "rank": 17,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "keene-state-nh": {
+  "rank": 18,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "alfred-state-ny": {
+  "rank": 27,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "hilbert-ny": {
+  "rank": 32,
+  "tie": true,
+  "category": "Regional Colleges North"
+ },
+ "thiel-pa": {
+  "rank": 36,
+  "tie": true,
+  "category": "Regional Colleges North"
+ },
+ "dean-college-ma": {
+  "rank": 42,
+  "tie": true,
+  "category": "Regional Colleges North"
+ },
+ "coast-guard-ct": {
+  "rank": 1,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "merchant-marine-ny": {
+  "rank": 5,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "maine-maritime-me": {
+  "rank": 9,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "penn-college-pa": {
+  "rank": 10,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "canton-ny": {
+  "rank": 22,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "delhi-ny": {
+  "rank": 23,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "pitt-bradford-pa": {
+  "rank": 25,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "cobleskill-ny": {
+  "rank": 26,
+  "tie": false,
+  "category": "Regional Colleges North"
+ },
+ "morrisville-ny": {
+  "rank": 35,
+  "tie": false,
+  "category": "Regional Colleges North"
+ }
+}
