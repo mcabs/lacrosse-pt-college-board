@@ -253,6 +253,27 @@ Note this is a **snapshot of the completed 2026 season** — it will not update 
 progresses. If you want current in-season rankings later, the source page will have them; ask for a refresh and
 this section can be re-run the same way.
 
+## Forbes rank, 10-year salary, and U.S. News rank (added after launch)
+
+Source: `forbes_top_500_colleges_2027.xlsx`, supplied by the user (Forbes America's Top Colleges 2027, 500 rows).
+Three columns were incorporated: **Rank** -> `forbes_rank`, **Median 10-Year Salary** -> `forbes_salary_10yr`, and
+**US News 2027 Rank** -> `us_news_rank` (+ `us_news_tie` true when the file says "T-N"). The file's other columns
+(grant aid, median debt, financial grade, type) were not used.
+
+- **Coverage: 168 of 417 schools** appear in the Forbes top 500 (including 26 of the 80 PT-matched schools). The rest
+  simply aren't in that list, so they show a blank, not a low score.
+- **US News coverage is thin in the source file**: only 48 of the 500 rows have a value, so only 28 of the 168
+  matched schools show one. Blank means the file had no value, not that the school is unranked by U.S. News.
+- **Matching**: normalized name + state first (138 schools), then every remaining dataset school was reviewed
+  against the full Forbes list by hand. 30 were mapped explicitly (e.g. Penn, Michigan, Maryland, MIT, RPI, RIT,
+  UMBC, NJIT, VMI, Penn State, the SUNY campuses). One automatic match was wrong and corrected
+  (Connecticut College had matched University of Connecticut). No two schools share a Forbes rank.
+- **Judgment call**: "Hobart" is mapped to Forbes' combined entry "Hobart and William Smith Colleges".
+  Fairleigh Dickinson University is in Forbes but not mapped, because this dataset only has the FDU-Florham campus.
+  The service academies, LIU, and most small D2/D3/NAIA schools are not in the Forbes list.
+- UI: Forbes and US News badges on each card, a 10-yr salary stat line, three sortable table columns, three sort-dropdown
+  options, compare-view rows, and CSV columns (`forbes_rank`, `us_news_rank`, `us_news_tie`, `forbes_salary_10yr`).
+
 ## Files in this folder
 
 - `schools.json` — the 80-school PT-matched dataset
@@ -270,3 +291,4 @@ this section can be re-run the same way.
   all 417 schools
 - `merit_batch_*.txt`, `merit_result_*.json` — intermediate: merit-aid research batches for all 417 schools
 - `ncaa_d1_rpi_2026.txt` — raw scrape of the NCAA's final 2026 D1 men's lacrosse RPI rankings (77 schools)
+- `forbes_top_500_colleges_2027.xlsx` — the Forbes 2027 top-500 spreadsheet (source for Forbes rank, 10-yr salary, US News rank)

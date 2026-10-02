@@ -28,7 +28,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic scholarships based on GPA/test scores",
   "rpi_rank_2026": 51,
-  "rpi_record_2026": "5-11"
+  "rpi_record_2026": "5-11",
+  "forbes_rank": 492,
+  "forbes_salary_10yr": 97770,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "binghamton",
@@ -59,7 +63,11 @@
   "merit_aid": true,
   "merit_aid_note": "President's/Provost's/Dean's Scholarships awarded on admission",
   "rpi_rank_2026": 73,
-  "rpi_record_2026": "2-11"
+  "rpi_record_2026": "2-11",
+  "forbes_rank": 63,
+  "forbes_salary_10yr": 111611,
+  "us_news_rank": 73,
+  "us_news_tie": true
  },
  {
   "id": "boston-university",
@@ -91,7 +99,11 @@
   "merit_aid": true,
   "merit_aid_note": "Trustee, Presidential, and National Merit scholarships",
   "rpi_rank_2026": 21,
-  "rpi_record_2026": "8-6"
+  "rpi_record_2026": "8-6",
+  "forbes_rank": 38,
+  "forbes_salary_10yr": 108955,
+  "us_news_rank": 34,
+  "us_news_tie": true
  },
  {
   "id": "delaware",
@@ -122,7 +134,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships $1,500-$15,000/yr based on GPA",
   "rpi_rank_2026": 52,
-  "rpi_record_2026": "5-8"
+  "rpi_record_2026": "5-8",
+  "forbes_rank": 136,
+  "forbes_salary_10yr": 107134,
+  "us_news_rank": 85,
+  "us_news_tie": true
  },
  {
   "id": "drexel",
@@ -153,7 +169,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarship consideration with admission application",
   "rpi_rank_2026": 37,
-  "rpi_record_2026": "9-6"
+  "rpi_record_2026": "9-6",
+  "forbes_rank": 148,
+  "forbes_salary_10yr": 110420,
+  "us_news_rank": 80,
+  "us_news_tie": true
  },
  {
   "id": "duke",
@@ -184,7 +204,11 @@
   "merit_aid": false,
   "merit_aid_note": "Need-based aid only, no merit scholarships",
   "rpi_rank_2026": 6,
-  "rpi_record_2026": "11-5"
+  "rpi_record_2026": "11-5",
+  "forbes_rank": 13,
+  "forbes_salary_10yr": 119558,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "hampton",
@@ -311,7 +335,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships based on academic profile",
   "rpi_rank_2026": 22,
-  "rpi_record_2026": "12-5"
+  "rpi_record_2026": "12-5",
+  "forbes_rank": 301,
+  "forbes_salary_10yr": 105582,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "marquette",
@@ -343,7 +371,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarship consideration; plus National Merit awards",
   "rpi_rank_2026": 48,
-  "rpi_record_2026": "6-7"
+  "rpi_record_2026": "6-7",
+  "forbes_rank": 119,
+  "forbes_salary_10yr": 108680,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "umass-lowell",
@@ -374,7 +406,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarship consideration with admission",
   "rpi_rank_2026": 75,
-  "rpi_record_2026": "2-10"
+  "rpi_record_2026": "2-10",
+  "forbes_rank": 329,
+  "forbes_salary_10yr": 109000,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "mercer",
@@ -405,7 +441,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic Dean's Scholarship and Merit Award tiers",
   "rpi_rank_2026": 47,
-  "rpi_record_2026": "6-8"
+  "rpi_record_2026": "6-8",
+  "forbes_rank": 405,
+  "forbes_salary_10yr": 99666,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "unc",
@@ -436,7 +476,11 @@
   "merit_aid": false,
   "merit_aid_note": "Institutional aid is need-based only; Morehead-Cain/Robertson are separate externally-funded programs, not general UNC merit aid",
   "rpi_rank_2026": 3,
-  "rpi_record_2026": "13-5"
+  "rpi_record_2026": "13-5",
+  "forbes_rank": 49,
+  "forbes_salary_10yr": 103179,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "ohio-state",
@@ -467,7 +511,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarship consideration by Nov 1 deadline",
   "rpi_rank_2026": 17,
-  "rpi_record_2026": "10-4"
+  "rpi_record_2026": "10-4",
+  "forbes_rank": 95,
+  "forbes_salary_10yr": 102071,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "quinnipiac",
@@ -499,7 +547,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": 63,
-  "rpi_record_2026": "5-10"
+  "rpi_record_2026": "5-10",
+  "forbes_rank": 473,
+  "forbes_salary_10yr": 104173,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "rutgers",
@@ -530,7 +582,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarship consideration, plus National Merit add-on",
   "rpi_rank_2026": 26,
-  "rpi_record_2026": "8-7"
+  "rpi_record_2026": "8-7",
+  "forbes_rank": 81,
+  "forbes_salary_10yr": 98972,
+  "us_news_rank": 44,
+  "us_news_tie": true
  },
  {
   "id": "sacred-heart",
@@ -594,7 +650,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatically reviewed for merit scholarship ($18k-$30k/yr)",
   "rpi_rank_2026": 20,
-  "rpi_record_2026": "7-6"
+  "rpi_record_2026": "7-6",
+  "forbes_rank": 304,
+  "forbes_salary_10yr": 108783,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "stony-brook",
@@ -625,7 +685,11 @@
   "merit_aid": true,
   "merit_aid_note": "Presidential/Provost automatic scholarships based on GPA/test scores",
   "rpi_rank_2026": 32,
-  "rpi_record_2026": "10-6"
+  "rpi_record_2026": "10-6",
+  "forbes_rank": 64,
+  "forbes_salary_10yr": 107318,
+  "us_news_rank": 59,
+  "us_news_tie": true
  },
  {
   "id": "utah",
@@ -656,7 +720,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarship grid based on unweighted GPA (3.5+)",
   "rpi_rank_2026": 35,
-  "rpi_record_2026": "9-5"
+  "rpi_record_2026": "9-5",
+  "forbes_rank": 105,
+  "forbes_salary_10yr": 105860,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "vermont",
@@ -687,7 +755,11 @@
   "merit_aid": true,
   "merit_aid_note": "Green and Gold Scholarship and other automatic merit awards",
   "rpi_rank_2026": 46,
-  "rpi_record_2026": "7-7"
+  "rpi_record_2026": "7-7",
+  "forbes_rank": 184,
+  "forbes_salary_10yr": 102780,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "aic",
@@ -842,7 +914,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "forbes_rank": 472,
+  "forbes_salary_10yr": 66942,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "emory-henry",
@@ -1095,7 +1171,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "forbes_rank": 305,
+  "forbes_salary_10yr": 104702,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "seton-hill",
@@ -1471,7 +1551,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "forbes_rank": 225,
+  "forbes_salary_10yr": 119691,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "concordia-wisconsin",
@@ -1661,7 +1745,11 @@
   "merit_aid": true,
   "merit_aid_note": "Automatic academic merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "forbes_rank": 381,
+  "forbes_salary_10yr": 102334,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "kean",
@@ -2132,7 +2220,11 @@
   "merit_aid": true,
   "merit_aid_note": "Awards merit scholarships at admission based on GPA/rigor, not need",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "forbes_rank": 234,
+  "forbes_salary_10yr": 101182,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "shenandoah",
@@ -2227,7 +2319,11 @@
   "merit_aid": true,
   "merit_aid_note": "NJ public; offers merit scholarships",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "forbes_rank": 399,
+  "forbes_salary_10yr": 95672,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "trine",
@@ -2290,7 +2386,11 @@
   "merit_aid": false,
   "merit_aid_note": "Need-based aid only; explicitly does not offer merit-based aid",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "forbes_rank": 54,
+  "forbes_salary_10yr": 115684,
+  "us_news_rank": 31,
+  "us_news_tie": true
  },
  {
   "id": "hartford",
@@ -2446,7 +2546,11 @@
   "merit_aid": true,
   "merit_aid_note": "Offers merit scholarships based on GPA/test scores",
   "rpi_rank_2026": null,
-  "rpi_record_2026": null
+  "rpi_record_2026": null,
+  "forbes_rank": 247,
+  "forbes_salary_10yr": 108061,
+  "us_news_rank": null,
+  "us_news_tie": false
  },
  {
   "id": "utica",
