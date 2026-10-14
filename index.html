@@ -273,7 +273,7 @@
       <label class="toggle-row"><input type="checkbox" id="showBenchmarks" checked> Show <span id="benchCount"></span> comparison schools</label>
       <span style="font-size:11.5px; color:var(--ink-soft); line-height:1.4;">
         Florida public universities plus Miami, shown in inverted color. No men's lacrosse, so they aren't recruiting
-        targets &mdash; they're here to compare stats against.
+        targets &mdash; they're here to compare stats against. Pick "No lacrosse" under Division to see only these.
       </span>
     </div>
     <hr>
@@ -356,8 +356,9 @@
   <br><br>
   The <strong>inverted-color blocks</strong> marked "Benchmark" are the Florida state university system schools plus
   the University of Miami. None has men's varsity lacrosse, so they're not recruiting targets &mdash; they're here so you
-  can compare SAT, cost, acceptance rate, rankings and salary outcomes against the lacrosse schools. They're excluded from
-  the division counts and the division filter, and you can hide them with "Show comparison schools". Where sources
+  can compare SAT, cost, acceptance rate, rankings and salary outcomes against the lacrosse schools. To see only
+  them, pick <strong>No lacrosse</strong> in the Division filter (it combines with D1/D2/D3/NAIA if you want both), or hide
+  them with "Show comparison schools". They aren't counted in the D1/D2/D3/NAIA totals. Where sources
   disagreed (FAU, New College, Florida Poly) or GPA was only reported on a weighted scale, the field is blank rather than
   guessed, and a note on the card says why. GPA is blank for all of them because Florida publics report weighted GPAs.
   <br><br>
@@ -515,7 +516,7 @@ function chipSet(container, items, selectedSet, getLabel, getVal){
 }
 
 function initFilterUI(){
-  chipSet(document.getElementById('divisionChips'), DIVISIONS, filters.divisions);
+  chipSet(document.getElementById('divisionChips'), DIVISIONS.concat(['Benchmark']), filters.divisions, x=>x==='Benchmark'?'No lacrosse':x);
   chipSet(document.getElementById('ptChips'), PT_TYPES, filters.ptTypes, x=>x.label, x=>x.v);
   chipSet(document.getElementById('ppChips'), PP, filters.pp);
   chipSet(document.getElementById('religionChips'), RELIGION, filters.religion, x=>x.label, x=>x.v);
@@ -565,11 +566,11 @@ function inRange(val, min, max, includeUnknown){
 function applyFiltersAndSort(){
   let list = getAllSchools();
   list = list.filter(s=>{
-    if(s.benchmark && !filters.showBenchmarks) return false;
+    if(s.benchmark && !filters.showBenchmarks && !filters.divisions.has('Benchmark')) return false;
     if(!s.benchmark && !filters.showAllLax && s.pt_type === 'none') return false;
     if(filters.myListOnly && !store.stars.includes(s.id)) return false;
     if(filters.q && !s.name.toLowerCase().includes(filters.q)) return false;
-    if(!s.benchmark && filters.divisions.size && !filters.divisions.has(s.division)) return false;
+    if(filters.divisions.size && !filters.divisions.has(s.division)) return false;
     if(filters.ptTypes.size && !filters.ptTypes.has(s.pt_type)) return false;
     if(filters.pp.size && !filters.pp.has(s.public_private)) return false;
     if(filters.religion.size){
@@ -700,6 +701,7 @@ function renderScoreboard(list){
   const cells = [
     {n: all.length, l:'Total'},
     {n: byDiv.D1, l:'D1'}, {n: byDiv.D2, l:'D2'}, {n: byDiv.D3, l:'D3'}, {n: byDiv.NAIA, l:'NAIA'},
+    {n: BENCHMARKS.length, l:'No lax'},
     {n: store.stars.length, l:'My List'}
   ];
   document.getElementById('scoreboard').innerHTML = cells.map(c=>

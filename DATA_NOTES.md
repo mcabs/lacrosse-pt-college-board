@@ -300,8 +300,8 @@ Chrome. Fields: `us_news_rank`, `us_news_tie` (true = tied rank), `us_news_categ
 13 schools with no men's varsity lacrosse, added so the user can compare stats against the main competitors for a
 Florida-bound student: the 12 Florida State University System schools (UF, FSU, UCF, USF, FIU, FAU, UNF, UWF, FGCU,
 FAMU, New College, Florida Poly) plus the University of Miami. Stored in `benchmarks.json` and embedded as a separate
-`BENCHMARKS` array, flagged `benchmark: true`, `division: "Benchmark"`. They are excluded from the division counts, the
-division filter, and the "all lacrosse schools" count, and render as inverted-color cards/rows. A filter toggle hides them.
+`BENCHMARKS` array, flagged `benchmark: true`, `division: "Benchmark"`. They are excluded from the D1/D2/D3/NAIA counts and the "all lacrosse schools" count, and render as inverted-color cards/rows.
+The Division filter has a "No lacrosse" chip to show only them (combinable with other divisions); a toggle hides them.
 
 - **Sources**: SAT midpoint (of the 25th-75th range), acceptance rate, tuition and enrollment from CollegeTuitionCompare
   (2024-25; UCF tuition 2025-26). Forbes rank/salary from the supplied Forbes file; U.S. News rank from the live
