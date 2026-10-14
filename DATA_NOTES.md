@@ -295,6 +295,27 @@ Chrome. Fields: `us_news_rank`, `us_news_tie` (true = tied rank), `us_news_categ
   Universities list was loaded in two passes (A-Z and Z-A) to cover the long tail of low-ranked schools (ranks up to ~376).
 - Ranks are a snapshot of the 2027 edition as published (with the September 22, 2026 correction noted on the page).
 
+## Benchmark / comparison schools (added after launch)
+
+13 schools with no men's varsity lacrosse, added so the user can compare stats against the main competitors for a
+Florida-bound student: the 12 Florida State University System schools (UF, FSU, UCF, USF, FIU, FAU, UNF, UWF, FGCU,
+FAMU, New College, Florida Poly) plus the University of Miami. Stored in `benchmarks.json` and embedded as a separate
+`BENCHMARKS` array, flagged `benchmark: true`, `division: "Benchmark"`. They are excluded from the division counts, the
+division filter, and the "all lacrosse schools" count, and render as inverted-color cards/rows. A filter toggle hides them.
+
+- **Sources**: SAT midpoint (of the 25th-75th range), acceptance rate, tuition and enrollment from CollegeTuitionCompare
+  (2024-25; UCF tuition 2025-26). Forbes rank/salary from the supplied Forbes file; U.S. News rank from the live
+  U.S. News 2027 pages (read earlier). PT info from program pages and CAPTE-related search results.
+- **Left blank on purpose**: GPA for all 13 (Florida publics report weighted GPAs, and the sources disagreed on scale).
+  FAU enrollment/acceptance, New College enrollment, Florida Poly enrollment/acceptance (sources conflicted; the card
+  says so). U.S. News 2027 rank for UWF and FGCU was not captured. FAMU and Florida Poly are not in the Forbes top 500.
+- **Unverified (dashed underline)**: SAT and tuition for FAU, New College and Florida Poly come from third-party sites.
+- **PT**: FSU, New College and Florida Poly show "No PT match" (no on-campus DPT found in research, not a statement that
+  none exists). UWF's DPT is a USF partnership reserved for UWF graduates. USF's CAPTE renewal was due in 2026; confirm.
+- **Merit aid**: marked yes for Florida publics because of the state Bright Futures merit scholarships (state-level, for
+  qualifying Florida residents, not institutional awards).
+- **Not independently verified**: that none of these has a varsity men's lacrosse team is taken from the user.
+
 ## Files in this folder
 
 - `schools.json` — the 80-school PT-matched dataset
@@ -314,3 +335,4 @@ Chrome. Fields: `us_news_rank`, `us_news_tie` (true = tied rank), `us_news_categ
 - `ncaa_d1_rpi_2026.txt` — raw scrape of the NCAA's final 2026 D1 men's lacrosse RPI rankings (77 schools)
 - `forbes_top_500_colleges_2027.xlsx` — the Forbes 2027 top-500 spreadsheet (source for Forbes rank, 10-yr salary, US News rank)
 - `usnews_2027_*.json` — per-category U.S. News 2027 rank matches (school id -> rank, tie, category); 397 schools total
+- `benchmarks.json` — the 13 benchmark/comparison schools (Florida publics + Miami)
